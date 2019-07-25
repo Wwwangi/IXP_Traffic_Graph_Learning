@@ -17,9 +17,9 @@ Next step is to match the PCH ID (might be a bit difficult because the names of 
 
 e.g.
 if there are rows like these:
-SE	100		192	  Netnod Gothenburg	  Gothenburg	           Europe   (ROW1)
-DK	294		193	  Netnod Copenhagen	  Malmo / Copenhagen	   Europe   (ROW2)
-SE	102		194	  Netnod Sundsvall	  Sundsvall	             Europe   (ROW3)
+SE	100		192	  Netnod Gothenburg	  Gothenburg	           Europe   (ROW1).
+DK	294		193	  Netnod Copenhagen	  Malmo / Copenhagen	   Europe   (ROW2).
+SE	102		194	  Netnod Sundsvall	  Sundsvall	             Europe   (ROW3).
 
 How do we group them? 
 1. They are all from the same IXP Netnod.
