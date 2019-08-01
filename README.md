@@ -27,3 +27,48 @@ How do we group them?
 3. Row 1 and 2 are from different countries.
 
 Need further clarification.
+
+
+
+#2019.8.1
+1. Tried the json in related work and uploaded the mapped csv file (the url for related work: https://bitbucket.org/RKloti/a-comparative-look-into-public-ixp-datasets-partially/src/master/)
+2. Tried to use the prefix to map the peeringDB and PCH. 
+    The prefix of all IXPs of peeringDB are retrieved successfully (both IPv4 and IPv6). However, there are some problems for getting the prefix in PCH.
+    The API only provides the information of subnets of one certain IXP. For example, if we want to get the subnets information of IXP with id 160, it is like this: https://www.pch.net/api/ixp/subnets/160
+    And I got these information:
+    [
+  {
+    "id": "189",
+    "status": "Deprecated",
+    "short_name": "AMS-IX",
+    "version": "IPv4",
+    "subnet": "193.148.15.0\\/24",
+    "mlpa": "Unknown",
+    "traffic": "0",
+    "participants": "0",
+    "established": "19971229",
+    "traffic_url": "",
+    "traffic_graph_url": "",
+    "subnet_num": "1",
+    "exchange_point_id": "160"
+  },
+  {
+    "id": "346",
+    "status": "Unknown",
+    "short_name": "AMS-IX",
+    "version": "IPv4",
+    "subnet": "195.69.144.0\\/24",
+    "mlpa": "Unknown",
+    "traffic": "0",
+    "participants": "0",
+    "established": "20090000",
+    "traffic_url": "",
+    "traffic_graph_url": "",
+    "subnet_num": "6",
+    "exchange_point_id": "160"
+  },
+  .......
+  
+  I'm quite confused whether the 'subnet' field is the prefix we want or not. 
+  I tried to send requests for all the IXPs and get all their subnets and created the temp.csv that contains (probably) the information of prefix of PCH. However, it seems that something gets wrong. They do not match each other.
+  I will try to figure out what is going on.
