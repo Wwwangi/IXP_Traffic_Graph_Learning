@@ -1,0 +1,556 @@
+IXP_Country_ISO_Alpha2,IXPDB_ID,PCH_ID,PeeringDB_ID,IXP_name,IXP_City,IXP_region_continent,Date_Update_IXP,IXP_Website,IXP_Url_Stats,URL_stats_comments,Date_check_Stats
+BA,748,0,2239,(BHNIX) Bosnia and Herzegovina Neutral Internet Exchange,Sarajevo,none,2019-06-19T00:06:06Z,http://bhnix.ba/en/,,none,none
+KR,123,0,1183,6NGIX (IPv6 Next Generation Internet eXchange),Seoul,none,2019-06-17T00:17:51Z,http://www.kisa.or.kr,,none,none
+LB,699,0,1816,A.IX (Advanced Internet eXchange),Beirut,none,2019-06-19T00:48:19Z,http://www.a-ix.org,,none,none
+AT,276,0,377,AAIX (Alpes Adria Internet Exchange),Klagenfurt,none,2019-06-19T00:55:28Z,http://www.aaix.at/,,none,none
+AU,323,0,976,ACT-IX,Canberra,none,2019-08-07T01:01:26Z,http://www.ix.asn.au/,,none,none
+TZ,212,0,1201,AIXP (Arusha Internet eXchange),Arusha,none,2019-06-17T22:59:29Z,http://www.aixp.or.tz/,,none,none
+NZ,586,0,977,AKL-IX (Auckland Internet Exchange),Auckland,none,2019-06-18T12:16:33Z,https://ix.nz/,,none,none
+US,443,0,168,AMPATH (AMPATH - Florida International University/CIARA),Miami,none,2019-06-18T22:13:59Z,http://www.ampath.net/peering.php,,none,none
+NL,737,0,1812,ams (Asteroid Amsterdam IX),Amsterdam,none,2019-08-07T13:04:58Z,http://www.asteroidhq.com/ixp-locations/1,,none,none
+NL,2,0,26,AMS-IX,Amsterdam,none,2019-08-07T13:04:58Z,https://ams-ix.net/ams/,,none,none
+AN,61,0,366,AMS-IX Caribbean,"Willemstad, Curacao",none,2019-08-07T10:00:58Z,https://www.ams-ix.net/car/,,none,none
+CN,356,0,577,AMS-IX Hong Kong,Hong Kong,none,2019-08-07T10:00:56Z,https://www.ams-ix.net/hk/,,none,none
+IN,619,0,1623,AMS-IX India,Mumbai,none,2019-08-07T10:00:54Z,https://www.ams-ix.net/in/,,none,none
+US,532,0,935,AMS-IX USA Bay Area,San Francisco,none,2019-08-07T10:01:02Z,https://bay.ams-ix.net/,,none,none
+US,533,0,944,AMS-IX USA Chicago,Chicago,none,2019-08-07T10:00:59Z,https://chi.ams-ix.net/,,none,none
+US,412,0,806,AMS-IX USA New York,New York,none,2019-06-16T23:45:39Z,https://nynj.ams-ix.net/,,none,none
+AO,202,0,421,Angola IXP,Luanda,none,2019-06-19T21:07:55Z,http://www.angola-ixp.ao/,,none,none
+AO,531,0,1007,angonix,Luanda,none,2019-06-19T21:08:40Z,http://angonix.net/,,none,none
+AL,746,0,2004,ANIX (Albanian Neutral Internet eXchange),,none,2019-02-20T10:06:14Z,https://www.anix.al,,none,none
+US,238,0,333,Any2 (CoreSite) Boston (Any2 (CoreSite) Boston),Boston,none,2019-06-18T08:47:58Z,http://www.coresite.com/,,none,none
+US,239,0,226,Any2 (CoreSite) Chicago (Any2 (CoreSite) Chicago),Chicago,none,2019-06-10T11:16:50Z,http://www.coresite.com/,,none,none
+US,240,0,205,Any2 (CoreSite) Miami (Any2 (CoreSite) Miami),Miami,none,2019-06-10T11:17:27Z,http://www.coresite.com/,,none,none
+US,242,0,332,Any2 (CoreSite) New York (Any2 (CoreSite) New York),New York,none,2019-06-10T11:21:36Z,http://www.coresite.com/,,none,none
+US,243,0,204,Any2 (CoreSite) NorthEast,Reston,none,2019-06-10T11:24:04Z,http://www.coresite.com/,,none,none
+US,241,0,338,Any2 (CoreSite) Silicon Valley,Milpitas,none,2019-06-10T11:20:36Z,http://www.coresite.com/,,none,none
+NZ,126,0,97,APE - Auckland (Auckland Peering Exchange),Auckland,none,2019-06-18T08:39:12Z,http://nzix.net/,,none,none
+PL,721,0,1919,APLIX.PL (APLIX),Gdynia,none,2019-06-16T21:39:56Z,https://aplitt.pl/en/,,none,none
+BR,631,0,1684,Aracaju (SE) (IX.br - Aracaju),Aracaju,none,2019-06-16T18:44:24Z,http://www.nic.br,,none,none
+AM,372,0,851,ARMIX (Armenian Internet Traffic Exchange),Yerevan,none,2019-06-18T02:16:57Z,http://www.armix.am/eng/index.php,,none,none
+JP,695,0,1468,Asia Smart IX (Asia Smart IX [BBIX Asia]),Tokyo,none,2019-06-17T15:40:16Z,http://www.bbix.net/en/,,none,none
+FR,564,0,1019,AuvernIX (AuvernIX),Clermont Ferrand,none,2019-08-07T13:04:58Z,www.auvernix.org,,none,none
+US,287,0,476,AZIX (Arizona Internet Exchange),Phoenix,none,2019-06-18T11:59:09Z,http://www.arizonaix.net/,,none,none
+RO,291,0,372,Balcan-IX (Balcan-IX),Bucharest,none,2019-06-19T21:10:23Z,http://www.balcan-ix.net/en/index.php,,none,none
+BG,197,0,326,Balkan-IX (Balkan Internet Exchange),Sofia,none,2019-06-17T22:54:14Z,http://www.b-ix.net/,,none,none
+LT,741,0,2005,BALT-IX (Baltic Internet Exchange),,none,2019-06-17T10:01:41Z,http://www.balt-ix.net,http://stats.balt-ix.net/graph.day,none,none
+US,766,0,2186,Baltimore IX,Baltimore,none,2019-03-27T18:40:04Z,https://baltimoreix.net/,,none,none
+TH,587,0,1025,Bangkok Neutral Internet Exchange (BKNIX),,none,2019-08-07T13:04:58Z,http://www.bknix.co.th/,https://ixpmanager.bknix.co.th/grapher/infrastructure?id=1&type=log&period=day,none,none
+HK,590,0,1449,BBIX - Hong Kong,Hong Kong,none,2019-06-17T15:26:28Z,http://www.bbix.net/en/,,none,none
+JP,366,0,786,BBIX - Osaka (Broadband Internet eXchange - Osaka),Osaka,none,2019-06-17T15:02:56Z,http://www.bbix.net/en/,,none,none
+SG,601,0,909,BBIX - Singapore (BBIX - Singapore),Singapore,none,2019-06-18T23:39:26Z,http://www.bbix.net/en/,,none,none
+JP,51,0,126,BBIX - Tokyo (BroadBand Internet eXchange - Tokyo),Tokyo,none,2019-06-17T06:43:04Z,http://www.bbix.net/en/,,none,none
+,802,0,2467,BBIX Thailand,,none,2019-06-19T00:32:22Z,http://www.bbix.net/,,none,none
+DE,21,0,87,BCIX (BCIX Management GmbH),,none,2019-08-05T12:01:12Z,https://www.bcix.de/,https://www.bcix.de/ixp/grapher/infrastructure?id=1&type=log&period=day,none,none
+BD,109,0,2516,BDIX - Dhaka (Bangladesh Internet Exchange),Dhaka,none,2019-05-28T18:12:48Z,http://www.bdix.net/,,none,none
+LB,147,0,1354,Beirut-IX (Beirut Internet Exchange),Beirut,none,2019-06-17T20:15:06Z,http://www.beirutix.net/,,none,none
+BR,378,0,711,Belém (BEL) (IX.br Belém (BEL)),Belém,none,2019-06-17T20:28:40Z,http://www.nic.br,,none,none
+BR,154,0,176,Belo Horizonte (MG) (IX.br - Belo Horizonte (MG)),Belo Horizonte,none,2019-06-17T06:54:32Z,http://www.nic.br,,none,none
+BJ,545,0,1017,Benin-IX (Benin Internet eXchange),Cotonou,none,2019-06-18T23:30:52Z,www.benin-ix.org.bj,,none,none
+BF,556,0,1314,BFiX Burkina Faso (Burkina Faso),Ouagadougou,none,2019-06-18T23:33:24Z,www.bfix.bf,,none,none
+US,246,0,151,Big APE (The big apple peering Exchange),New York,none,2019-06-10T11:26:20Z,http://www.bigape.us/,,none,none
+BW,203,0,1409,BINX (Botswana Internet Exchange),Gaborone,none,2019-06-17T22:57:24Z,http://www.info.bw/bispa/binx.html,,none,none
+ID,358,0,452,BIX - Jakarta (Biznet Internet eXchange),Jakarta,none,2019-06-17T08:49:04Z,http://www.biznetnetworks.com/En/?menu=Bix,,none,none
+HU,12,0,55,BiX (Budapest Internet eXchange),Budapest,none,2019-05-27T22:14:04Z,http://www.bix.hu,,none,none
+HU,55,0,55,BIX (Budapest Internet Exchange),,none,2019-06-16T23:26:47Z,http://www.bix.hu/en,,none,none
+NO,192,0,582,BIX Bergen (Bergen Internet Exchange),Bergen,none,2019-06-18T08:42:57Z,http://www.uio.no/tjenester/it/nett/fastnett/nix/,,none,none
+BG,40,0,331,BIX.BG (Bulgarian Internet eXchange),Sofia,none,2019-06-16T23:14:37Z,http://www.bix.bg/,,none,none
+US,286,0,496,BNIIX (Buffalo Niagara International Internet Exchange),Buffalo,none,2019-06-19T00:57:12Z,http://www.bniix.net/,,none,none
+BE,4,0,59,BNIX (Belgian National Internet Exchange),Brussels,none,2019-05-27T12:53:59Z,http://www.bnix.net,,none,none
+SE,273,0,1412,BOR-IX (Boras Internet Exchange),Boras,none,2019-06-17T23:11:55Z,http://www.bor-ix.se/,,none,none
+US,407,0,565,BostonIX (Markley Boston Internet Exchange),Boston,none,2019-06-13T21:44:37Z,http://www.markleygroup.com/Peering,,none,none
+CZ,588,0,864,BR-IX (Brno Internet Exchange Point),Brno,none,2019-06-17T09:07:08Z,http://br-ix.cz,,none,none
+BR,155,0,178,Brasília (DF) (IX.br -  Brasília (DF)),Brasilia,none,2019-06-17T14:14:51Z,http://www.nic.br,,none,none
+FR,672,0,1670,Breizh-IX (Breizh-IX),Rennes,none,2019-06-19T01:29:53Z,https://www.breizh-ix.net/,,none,none
+DE,404,0,796,BREM-IX (Bremen Internet Exchange),Bremen,none,2019-06-13T21:41:58Z,http://www.brem-ix.net/,,none,none
+DE,620,0,1421,BW-IX Karlsruhe (Baden-Württemberg Internet Exchange Karlsruhe),Karlsruhe,none,2019-06-17T20:12:30Z,http://www.bw-ix.net/,,none,none
+DE,139,0,212,BW-IX Stuttgart (Baden-Württemberg Internet Exchange Stuttgart),Stuttgart,none,2019-06-17T20:11:26Z,http://www.s-ix.info/,,none,none
+BY,279,0,275,BYIX (Belarus National Internet Exchange Point),Minsk,none,2019-06-17T14:55:45Z,http://www.eng.beltelecom.by/services/internet/access/,,none,none
+,797,0,1068,CABASE-DLC - IX Argentina (Santa Teresita),,none,2019-06-18T22:48:53Z,http://www.cabase.org.ar/,,none,none
+,795,0,1484,CABASE-NGB - IX Argentina (Pilar),,none,2019-06-18T22:43:06Z,http://www.cabase.org.ar/,,none,none
+,794,0,2039,CABASE-OGB - IX Argentina (Moreno),,none,2019-06-18T22:40:46Z,http://www.cabase.org.ar/,,none,none
+,796,0,1486,CABASE-SLT - IX Argentina (Salta),,none,2019-06-18T22:45:32Z,http://www.cabase.org.ar/,,none,none
+EG,206,0,274,CAIX (Cairo Internet Exchange),Cairo,none,2019-06-18T08:44:14Z,http://caix.net.eg/,,none,none
+,798,0,2541,CAMIX Douala,,none,2019-06-18T23:23:36Z,http://www.camix.cm,,none,none
+CM,528,0,2554,CAMIX Yaounde,Yaoundé,none,2019-06-18T23:23:05Z,http://www.camix.cm,,none,none
+BR,283,0,603,Campina Grande (CPV) (IX.br - Campina Grande (CPV)),Campina Grande,none,2019-06-17T20:26:20Z,http://www.nic.br,,none,none
+BR,262,0,415,Campinas (CAS) (IX.br - Campinas (CAS)),Campinas,none,2019-06-17T20:25:16Z,http://www.nic.br,,none,none
+ES,11,0,62,CATNIX (Catalunya Neutral Internet eXchange),,none,2019-08-07T13:04:58Z,http://www.catnix.net,,none,none
+BR,376,0,558,Caxias do Sul (CXJ) (IX.br - Caxias do Sul (CXJ)),Caxias do Sul,none,2019-06-17T15:03:38Z,http://www.nic.br,,none,none
+ID,697,0,1228,CDIX (Cyber Data Internet Xchange),Jakarta,none,2019-06-19T00:00:50Z,http://www.cyberdc.net/,,none,none
+NZ,127,0,349,CHIX - Christchurch (Christchurch Internet Exchange),Christchurch,none,2019-06-17T06:50:42Z,http://nzix.net/,,none,none
+US,149,0,239,ChIX (Chicago Internet eXchange),Chicago,none,2019-06-17T20:17:14Z,https://unitedix.net/location/chicago,,none,none
+CN,582,0,1172,CHN-IX Beijing,Beijing,none,2019-06-16T18:28:25Z,http://www.chn-ix.net/,,none,none
+CN,585,0,1284,CHN-IX Guangzhou,Guangzhou,none,2019-06-16T18:33:09Z,http://www.chn-ix.net/,,none,none
+ZA,209,0,344,CINX - Cape Town (Cape Town Internet Exchange),Cape Town,none,2019-06-17T14:36:24Z,http://www.ispa.org.za/inx/cinx-information/,,none,none
+CI,205,0,810,CIVIX (Cote d’Ivoire Internet eXchange Point),Abidjan,none,2019-06-19T00:25:49Z,http://www.ciixp.ci,,none,none
+HR,28,0,303,CIX (Croatian Internet eXchange),Zagreb,none,2019-05-28T06:00:44Z,http://www.cix.hr/,,none,none
+PL,496,0,778,CIX KR (CIX - Cracow Internet Exchange),Krakow,none,2019-06-14T14:17:44Z,http://www.ix.krakow.pl/,,none,none
+US,684,0,1668,CIX-ATL,Atlanta,none,2019-06-17T17:37:34Z,http://www.communityix.org,,none,none
+CH,7,0,33,CIXP (CERN Internet Exchange Point),,none,2019-06-07T15:00:42Z,https://cixp.net/,,none,none
+CN,457,0,237,CNC Beijing NAP (CNC Beijing NAP),Beijing,none,2019-06-17T14:34:22Z,http://devnull,,none,none
+CN,604,0,1303,CNIX (China Internet Exchange),Beijing,none,2019-06-19T00:38:48Z,http://www.cnix.com.cn,,none,none
+KH,432,0,1209,CNX (Cambodian Network Exchange),Phnom Penh,none,2019-06-17T08:53:39Z,www.cnx.net.kh,,none,none
+RU,696,0,1229,COD-IX (COD-IX),St. Petersburg,none,2019-06-19T00:00:21Z,https://miran.ru/,,none,none
+US,477,0,514,COIX (Central Oregon Internet eXchange),Bend Oregon,none,2019-06-17T09:02:15Z,http://www.centraloregonix.org,,none,none
+,747,0,1329,Community-IX DE,,none,2019-06-19T00:04:16Z,https://www.community-ix.de/,,none,none
+US,257,0,254,CoreSite - Any2 Denver / RMIX Denver (CoreSite - Any2 Denver / RMIX Denver),Denver,none,2019-06-17T23:04:09Z,http://comfluent.com/rmix.php,,none,none
+US,52,0,142,CoreSite - Any2 Los Angeles (CoreSite - Any2 Los Angeles),Los Angeles,none,2019-06-17T13:59:48Z,http://www.coresite.com,,none,none
+RU,186,0,287,Crimea-IX (Crimea-IX),"Crimea Republic, Simferopol",none,2019-06-17T21:13:41Z,http://crimea-ix.net/,,none,none
+CR,541,0,1023,CRIX (NIC Costa Rica - Academia Nacional de Ciencias),,none,2019-08-07T13:04:58Z,https://www.crix.cr,https://portal.crix.cr/grapher/infrastructure?id=1&type=log&period=day,none,none
+BR,500,0,859,Cuiabá (CGB) (IX.br - Cuiabá (CGB)),Cuiabá,none,2019-06-16T17:40:45Z,http://www.nic.br,,none,none
+BR,156,0,174,Curitiba (PR) (IX.br - Curitiba (PR)),Curitiba,none,2019-06-17T20:20:19Z,http://www.nic.br,,none,none
+CY,73,0,487,CyIX (Cyprus Internet Exchange),Nicosia,none,2019-06-17T09:30:37Z,http://www.cytanet.com.cy/network/cyix/,,none,none
+US,640,0,674,CyrusOne IX Austin (CyrusOne IX Austin),Austin,none,2019-06-16T18:52:34Z,http://www.cyrusone.com/,,none,none
+US,643,0,1142,CyrusOne IX Chicago (CyrusOne IX Chicago),Chicago,none,2019-06-16T19:42:42Z,http://www.cyrusone.com/,,none,none
+US,353,0,672,CyrusOne IX Dallas (CyrusOne IX Dallas),Carrollton,none,2019-06-16T19:44:12Z,http://www.cyrusone.com/,,none,none
+US,639,0,673,CyrusOne IX Houston (CyrusOne IX Houston),Houston,none,2019-06-16T18:51:59Z,http://www.cyrusone.com/,,none,none
+US,642,0,760,CyrusOne IX Phoenix (CyrusOne IX Phoenix),Phoenix,none,2019-06-16T19:43:08Z,http://www.cyrusone.com/,,none,none
+US,641,0,675,CyrusOne IX San Antonio (CyrusOne IX San Antonio),San Antonio,none,2019-06-16T18:08:19Z,http://www.cyrusone.com/,,none,none
+US,644,0,1117,CyrusOne IX Sterling (CyrusOne IX Sterling),Sterling,none,2019-06-16T19:42:11Z,http://www.cyrusone.com/,,none,none
+RU,522,0,358,DataIX - Moscow (DataIX - Moscow),Moscow,none,2019-06-18T12:14:01Z,http://www.dataix.ru/rus/,,none,none
+RU,524,0,358,DataIX - Novosibirsk (DataIX - Novosibirsk),Novosibirsk,none,2019-06-17T15:22:49Z,http://www.dataix.ru/rus/,,none,none
+RU,403,0,358,DataIX - St Petersburg (DataIX - St Petersburg),St Petersburg,none,2019-06-13T21:37:10Z,http://www.dataix.ru/rus/,,none,none
+RU,523,0,358,DataIX - Ufa (DataIX - Ufa),Ufa,none,2019-06-17T09:05:16Z,http://www.dataix.ru/rus/,,none,none
+RU,567,0,1387,DataLine-IX (DataLine-IX),Moscow,none,2019-06-16T17:51:47Z,http://www.dtln.ru/en,,none,none
+US,580,0,1249,DE-CIX Dallas (DE-CIX Dallas),Dallas,none,2019-06-16T18:04:22Z,https://www.de-cix.net/en/locations/united-states/dallas,,none,none
+IN,688,0,2587,DE-CIX Delhi,Delhi,none,2019-06-19T01:14:35Z,http://mumbaich.com,,none,none
+DE,565,0,1214,DE-CIX DUS (DE-CIX Dusseldorf),Dusseldorf,none,2019-08-06T12:01:36Z,https://www.de-cix.net/en/locations/germany/dusseldorf,,none,none
+DE,9,0,31,DE-CIX FRA (DE-CIX Frankfurt),Frankfurt am Main,none,2019-08-07T13:04:58Z,https://www.de-cix.net/en/locations/germany/frankfurt,,none,none
+DE,47,0,74,DE-CIX HAM (DE-CIX Hamburg),Hamburg,none,2019-08-06T13:02:11Z,https://www.de-cix.net/en/locations/germany/hamburg,,none,none
+TR,560,0,1150,DE-CIX Istanbul (DE-CIX Istanbul),Istanbul,none,2019-06-16T17:46:06Z,https://www.de-cix.net/locations/turkey/istanbul,,none,none
+IN,689,0,2589,DE-CIX Kolkata,Kolkata,none,2019-06-19T00:43:43Z,https://www.de-cix.in/,,none,none
+PT,765,0,2531,DE-CIX LIS (DE-CIX Lisbon),Lisbon,none,2019-07-26T17:01:12Z,https://www.de-cix.net/en/locations/portugal/Lisbon,,none,none
+ES,470,0,1277,DE-CIX MAD (DE-CIX Madrid),Madrid,none,2019-08-07T12:01:48Z,https://www.de-cix.net/en/locations/spain/madrid,,none,none
+FR,559,0,1149,DE-CIX Marseille (DE-CIX Marseille),Marseilles,none,2019-06-16T23:23:48Z,https://www.de-cix.net/locations/france/marseille/statistics,,none,none
+DE,54,0,248,DE-CIX MUC (DE-CIX Munich),Munich,none,2019-08-06T12:02:20Z,https://www.de-cix.net/en/locations/germany/munich,,none,none
+US,425,0,804,DE-CIX NYC (DE-CIX New York),New York,none,2019-08-06T17:01:32Z,https://www.de-cix.net/en/locations/united-states/new-york,,none,none
+IT,558,0,1131,DE-CIX PMO (DE-CIX Palermo),Palermo,none,2019-07-15T09:02:23Z,https://www.de-cix.net/en/locations/italy/palermo,,none,none
+US,662,0,1006,DET-IX (Detroit Internet Exchange),Detroit,none,2019-06-18T23:42:29Z,http://www.detroitix.com,,none,none
+US,56,0,22,Digital Realty - Atlanta (Digital Realty Exchange - Atlanta),Atlanta,none,2019-06-16T23:30:00Z,http://www.digitalrealty.com,,none,none
+US,229,0,322,Digital Realty - Dallas (Digital Realty  Dallas),Dallas,none,2019-06-16T23:31:35Z,http://www.digitalrealty.com,,none,none
+US,230,0,325,Digital Realty - New York (Digital Realty New York),New York,none,2019-06-16T23:32:05Z,http://www.digitalrealty.com,,none,none
+US,231,0,256,Digital Realty - Phoenix (Digital Realty Phoenix),Phoenix,none,2019-06-16T23:32:39Z,http://www.digitalrealty.com,,none,none
+US,253,0,2572,Digital Realty Ashburn,Vienna,none,2019-06-16T23:35:28Z,https://ix.digitalrealty.com/,,none,none
+DK,29,0,78,DIX,Lyngby,none,2019-06-19T21:27:13Z,http://www.dix.dk/,,none,none
+JP,441,0,92,DIX-IE (Distributed IX in EDO),Tokyo,none,2019-06-18T22:09:54Z,http://nspixp.wide.ad.jp/,,none,none
+DJ,549,0,967,DjIX (Djibouti IX),,none,2019-06-18T12:15:46Z,http://www.djiboutidatacenter.com/en/page/djibouti-ix-djix,,none,none
+UA,322,0,766,DN-IX (Donetsk Internet Exchange),Donetsk,none,2019-06-10T23:06:30Z,http://www.ix.dn.ua/,,none,none
+DE,463,0,762,DO-IX (DOrtmund Internet Exchange),Dortmund,none,2019-06-18T22:17:32Z,https://www.do-ix.net/,,none,none
+US,270,0,267,DRF IX (DRFortress Exchange),Honolulu,none,2019-06-18T08:49:00Z,http://www.drfortress.com/internet-exchange/drfxchange/,,none,none
+UA,198,0,327,DTEL-IX (Digital Telecom Internet Exchange),Kiev,none,2019-08-07T13:04:57Z,http://dtel-ix.net/,,none,none
+ZA,487,0,610,Durban Internet Exchange Point (INX),Durban,none,2019-08-06T20:01:13Z,https://www.inx.net.za,,none,none
+JP,485,0,602,Echigo-IX (Echigo Internet Exchange),Niigata,none,2019-06-13T22:35:51Z,http://www.echigo-ix.jp/,,none,none
+DE,30,0,209,ECIX-BER,,none,2019-06-16T23:58:28Z,http://www.ecix.net,,none,none
+DE,340,0,91,ECIX-DUS,,none,2019-06-16T23:59:22Z,http://www.ecix.net,,none,none
+DE,431,0,676,ECIX-FRA,,none,2019-08-01T13:01:12Z,http://www.ecix.net,,none,none
+DE,341,0,291,ECIX-HAM,,none,2019-06-16T23:59:46Z,http://www.ecix.net,,none,none
+DE,77,0,73,ECIX-MUC,,none,2019-06-16T23:58:56Z,http://www.ecix.net,,none,none
+IN,772,0,1786,EIX Chennai (Extreme Internet Exchange India),,none,2019-08-06T14:01:52Z,https://extreme-ix.org/,,none,none
+IN,683,0,1323,EIX Delhi (Extreme Internet Exchange India),,none,2019-08-06T14:01:39Z,https://extreme-ix.org/,,none,none
+IN,773,0,1785,EIX Hyderabad (Extreme Internet Exchange India),,none,2019-08-06T14:01:51Z,https://extreme-ix.org/,,none,none
+IN,771,0,2167,EIX Kolkata (Extreme Internet Exchange India),,none,2019-08-06T14:01:51Z,https://extreme-ix.org/,,none,none
+IN,694,0,1627,EIX Mumbai (Extreme Internet Exchange India),,none,2019-08-06T14:01:43Z,https://extreme-ix.org/,,none,none
+RU,169,0,350,ekt-ix (EKT-IX public peering VLAN),Ekaterinburg,none,2019-05-28T23:45:21Z,http://www.msk-ix.ru/en/ix/,,none,none
+PL,548,0,491,EPIX (e-Poludnie Internet Exchange),,none,2019-06-19T07:19:12Z,https://www.epix.net.pl/,,none,none
+PL,436,0,474,EPIX Warsaw (e-Poludnie Internet Exchange),,none,2019-03-13T22:16:00Z,https://www.epix.net.pl/,,none,none
+,779,0,2031,Equinix Amsterdam,,none,2019-06-16T21:28:47Z,http://www.equinix.com/,,none,none
+US,68,0,1,Equinix Ashburn (Equinix Ashburn),Ashburn,none,2019-08-07T13:04:58Z,http://www.equinix.com,,none,none
+US,439,0,9,Equinix Atlanta (Equinix Atlanta),Atlanta,none,2019-08-07T13:04:58Z,http://ix.equinix.com,,none,none
+CO,776,0,2289,Equinix Bogotá,Bogotá,none,2019-06-06T21:36:34Z,https://www.equinix.com,,none,none
+US,236,0,2,Equinix Chicago (Equinix Chicago),Chicago,none,2019-08-07T13:04:58Z,http://www.equinix.com/,,none,none
+US,235,0,3,Equinix Dallas (Equinix Dallas),Dallas,none,2019-08-07T13:04:58Z,http://www.equinix.com/,,none,none
+,780,0,2182,Equinix Denver,,none,2019-06-16T21:30:34Z,http://www.equinix.com/,,none,none
+IE,714,0,1926,Equinix Dublin (Equinix Dublin),Dublin,none,2019-08-07T13:04:58Z,http://www.equinix.com/,,none,none
+DE,715,0,1998,Equinix Frankfurt (Equinix Frankfurt),Frankfurt,none,2019-08-07T13:04:58Z,http://www.equinix.com/,,none,none
+AT,440,0,1464,Equinix Helsinki (Equinix Helsinki),Helsinki,none,2019-08-07T13:04:58Z,http://www.equinix.com/,,none,none
+HK,180,0,125,Equinix Hong Kong (Equinix Hong Kong Exchange),Hong Kong,none,2019-08-07T13:04:58Z,http://www.equinix.com/en_US/locations/hong-kong/hong-kong-data-center/,,none,none
+,781,0,2183,Equinix Houston,,none,2019-06-16T21:32:03Z,http://www.equinix.com/,,none,none
+,782,0,2131,Equinix Lisbon,,none,2019-06-16T21:33:22Z,http://www.equinix.com/,,none,none
+GB,716,0,1997,Equinix London (Equinix London),London,none,2019-08-07T13:04:58Z,http://www.equinix.com/,,none,none
+US,234,0,4,Equinix Los Angeles (Equinix Los Angeles),Los Angeles,none,2019-08-07T13:04:58Z,http://www.equinix.com/,,none,none
+,783,0,2130,Equinix Madrid,,none,2019-06-17T20:03:41Z,http://www.equinix.com/,,none,none
+GB,717,0,1927,Equinix Manchester (Equinix Manchester),Manchester,none,2019-08-07T13:04:58Z,http://www.equinix.com/,,none,none
+AU,568,0,1026,Equinix Melbourne (Equinix Melbourne),Melbourne,none,2019-08-07T13:04:58Z,http://www.equinix.com.au,,none,none
+US,484,0,593,Equinix Miami (Equinix Miami),Miami,none,2019-08-07T13:04:58Z,http://www.equinix.com/,,none,none
+,784,0,17,Equinix Miami (formerly NOTA),,none,2019-06-16T21:36:32Z,http://www.equinix.com/,,none,none
+IT,719,0,1925,Equinix Milan (Equinix Milan),Milan,none,2019-08-07T13:04:58Z,http://www.equinix.com/,,none,none
+US,237,0,12,Equinix New York (Equinix New York),New York,none,2019-08-07T13:04:58Z,http://www.equinix.com/,,none,none
+JP,651,0,948,Equinix Osaka (Equinix Osaka),Osaka,none,2019-08-07T13:04:58Z,http://www.equinix.com/,,none,none
+US,251,0,7,Equinix Palo Alto (Equinix Palo Alto),Palo Alto,none,2019-08-07T13:04:58Z,https://ix.equinix.com/,,none,none
+FR,39,0,255,Equinix Paris (Equinix Internet Exchange - Paris),Paris,none,2019-08-07T13:04:58Z,http://www.equinix.com/,,none,none
+US,233,0,5,Equinix San Jose (Equinix San Jose),San Jose,none,2019-08-07T13:04:58Z,http://www.equinix.com/,,none,none
+BR,215,0,119,Equinix São Paulo,Sao Paulo,none,2019-06-06T21:26:27Z,https://www.equinix.com,,none,none
+US,343,0,11,Equinix Seattle (Equinix Seattle),Seattle,none,2019-08-07T13:04:58Z,http://www.equinix.com/,,none,none
+SG,181,0,158,Equinix Singapore (Equinix Singapore Exchange),Singapore,none,2019-08-07T13:04:58Z,http://www.equinix.com/locations/map/asiapacific/singapore/,,none,none
+SE,718,0,1923,Equinix Stockholm (Equinix Stockholm),Stockholm,none,2019-08-07T13:04:58Z,http://www.equinix.com/,,none,none
+AU,179,0,94,Equinix Sydney (Equinix Sydney Data Centers),Sydney,none,2019-08-07T13:04:58Z,http://www.equinix.com/en_US/locations/australia/sydney-data-centers/,,none,none
+JP,182,0,167,Equinix Tokyo (Equinix Tokyo Exchange),Tokyo,none,2019-08-07T13:04:58Z,http://www.equinix.com/en_US/locations/japan/tokyo-data-centers/,,none,none
+CA,344,0,373,Equinix Toronto (Equinix Toronto),Toronto,none,2019-08-07T13:04:58Z,http://www.equinix.com/,,none,none
+,785,0,10,Equinix Vienna (VA),,none,2019-06-16T21:38:28Z,http://www.equinix.com/,,none,none
+PL,36,0,264,Equinix WA IX (Equinix Warsaw),Warsaw,none,2019-08-07T13:04:58Z,http://www.equinix.com/,,none,none
+CH,22,0,29,Equinix Zurich (Equinix Internet Exchange - Zurich),Zurich,none,2019-08-07T13:04:58Z,http://www.equinix.com/,,none,none
+ES,62,0,63,ESPANIX Madrid Lower LAN,Madrid,none,2019-06-16T23:51:34Z,http://www.espanix.net/,,none,none
+ES,667,0,1146,ESPANIX Madrid Upper LAN,Madrid,none,2019-06-17T09:10:51Z,http://www.espanix.net/,,none,none
+FR,302,0,148,EuroGIX (European Global Internet eXchange),Strasbourg,none,2019-06-17T23:57:38Z,http://www.eurogix.org/,,none,none
+US,756,0,2274,EVIX (Experimental Virtual Internet Exchange),,none,2019-08-06T10:02:26Z,https://evix.org/,,none,none
+FI,171,0,1332,FICIX - Espoo (Finnish Communication and Internet Exchange - Espoo),Espoo,none,2019-05-29T00:19:46Z,https://www.ficix.fi,https://stats-ficix.basen.com/#/page?name=Ficix1Total&source=wiki,none,none
+FI,23,0,98,FICIX - Helsinki (Finnish Communication and Internet Exchange - Helsinki),Helsinki,none,2019-05-27T22:18:32Z,https://www.ficix.fi,https://stats-ficix.basen.com/#/page?name=Ficix2Total&source=wiki,none,none
+FI,172,0,492,FICIX - Oulu (Finnish Communication and Internet Exchange - Oulu),Oulu,none,2019-05-29T00:20:34Z,https://www.ficix.fi,https://stats-ficix.basen.com/#/page?name=Ficix3Total&source=wiki,none,none
+NO,150,0,453,FIXO (Free Internet eXchange Oslo),Oslo,none,2019-05-27T12:41:59Z,http://www.fixo.no/,,none,none
+US,543,0,954,FL-IX (Florida Internet Exchange),Florida,none,2019-06-17T17:38:20Z,http://www.communityix.org,,none,none
+BR,157,0,175,Florianópolis (SC) (IX.br - Florianópolis (SC)),Florianopolis ,none,2019-06-17T20:22:48Z,http://www.nic.br,,none,none
+BR,263,0,710,Fortaleza (CE) (IX.br - Fortaleza (CE)),Fortaleza,none,2019-06-17T14:41:55Z,http://www.nic.br,,none,none
+BR,616,0,1276,Foz do Iguaçu (IGU) (IX.br - Foz do Iguaçu (IGU)),Foz do Iguaçu,none,2019-06-17T09:08:51Z,http://www.nic.br,,none,none
+FR,434,0,880,France-IX (FranceIX Marseille),,none,2019-08-05T10:01:06Z,"https,//www.franceix.net/",,none,none
+FR,41,0,359,France-IX (FranceIX Paris),,none,2019-03-01T12:02:18Z,"https,//www.franceix.net/",,none,none
+IT,59,0,0,FVG-IX (Friuli Venezia Giulia Internet eXchange),Udine,none,2019-07-03T07:38:13Z,http://www.fvg-ix.net,,none,none
+GA,807,0,1776,Gabon Internet eXchange (GABIX),Libreville,none,2019-06-25T13:50:41Z,https://www.gabix.ga/fr/,,none,none
+US,491,0,640,GCIIX (Greater Chicago International Internet Exchange),Chicago,none,2019-06-13T23:14:45Z,http://www.gciix.net,,none,none
+CH,632,0,1094,GE-CIX (GE-CIX),Zurich,none,2019-06-16T18:45:09Z,http://www.ge-cix.net/,,none,none
+PH,755,0,2345,GetaFIX,Manila,none,2019-06-09T17:58:53Z,getafix.ph,,none,none
+UA,165,0,655,Giganet (Giganet),kiev,none,2019-05-28T23:41:57Z,http://giganet.ua/,,none,none
+PT,10,0,72,GIGAPIX (Gigabit Portuguese Internet Exchange),,none,2019-04-16T11:00:55Z,https://www.gigapix.pt/,,none,none
+GH,92,0,694,GIX - Accra (Ghana Internet Exchange),Accra,none,2019-05-28T06:10:32Z,http://www.gixa.org.gh/,,none,none
+SE,103,0,146,GIX (Gothenburg Internet Exchange),Gothenburg,none,2019-05-28T16:05:36Z,http://www.gix.se/,,none,none
+PL,474,0,498,GIX Gdansk (Gdansk Internet eXchange),Gdansk,none,2019-06-18T22:19:18Z,http://www.gix.gda.pl,,none,none
+RU,581,0,1088,Global-IX (Global-IX),Saint Petersburg,none,2019-06-16T18:05:09Z,http://www.global-ix.ru/en/,,none,none
+NL,24,0,76,GN-IX (Groningen Internet Exchange),Groningen,none,2019-05-27T22:19:11Z,http://www.gn-ix.net/,,none,none
+BR,284,0,575,Goiânia (GYN) (IX.br - Goiânia (GYN)),Goiania,none,2019-06-17T20:26:59Z,http://www.nic.br,,none,none
+EG,57,0,281,GPX MEIX (Middle East Internet Exchange),Cairo,none,2019-06-19T00:50:58Z,http://www.gpxglobal.net,,none,none
+GR,752,0,347,GR-IX::Athens (Greek Internet Exchange),,none,2019-07-31T08:01:57Z,https://www.gr-ix.gr,https://portal.gr-ix.gr/grapher/infrastructure?id=1&type=log&period=day,none,none
+GR,753,0,2386,GR-IX::Thessaloniki (Greek Internet Exchange),,none,2019-07-31T08:02:00Z,https://www.gr-ix.gr,https://portal.gr-ix.gr/grapher/infrastructure?id=3&type=log&period=day,none,none
+AT,348,0,430,GraX (Grazer Internet Exchange ),Graz,none,2019-06-18T02:05:31Z,http://www.grax.at/,,none,none
+FR,527,0,1428,GrenoblIX (Grenoble Internet eXchange Point),Grenoble,none,2019-08-07T13:04:58Z,http://grenoblix.net/,,none,none
+GD,539,0,1790,GREX (Grenada Internet Exchange),St. George's,none,2019-06-19T01:02:03Z,https://ixgd.wordpress.com,,none,none
+CA,476,0,506,GTIIX (Greater Toronto IIX),Toronto,none,2019-06-19T01:12:36Z,http://www.iixnetworx.net/peer/our-ixps/gtiix/,,none,none
+GU,472,0,463,GU-IX (Guam Internet Exchange),Hagåtña,none,2019-06-18T22:18:02Z,http://www.gu-ix.net/,,none,none
+GY,530,0,1134,Guyanix (Guyana Internet Exchange Point),Cayenne,none,2019-06-18T12:14:33Z,https://www.renater.fr/,,none,none
+ZW,730,0,2617,Harare IX (Harare Internet Exchange),Harare,none,2019-06-16T21:59:31Z,http://www.hix.org.zw,https://portal.hix.org.zw/grapher/infrastructure?id=1&type=log&period=day,none,none
+CA,659,0,906,HFXIX (Halifax Internet Exchange),Halifax,none,2019-06-16T19:38:28Z,https://hfxix.ca/,,none,none
+NZ,184,0,1836,HIX - Hamilton (Hamilton Internet Exchange),Hamilton,none,2019-06-10T11:06:10Z,http://nzix.net/,,none,none
+US,201,0,189,HIX - Honolulu (Hawaii Internet Exchange),Honolulu,none,2019-06-17T14:34:33Z,http://www.hawaii.edu/hix/Hawaii_Internet_Exchange/Home.html,,none,none
+HK,110,0,42,HKIX (Hong Kong Internet Exchange),Hong Kong,none,2019-05-28T18:13:59Z,http://www.hkix.net/hkix/main.htm,,none,none
+KH,136,0,854,HTN-IX (Cambodia Internet Exchange),Phnom Penh,none,2019-06-19T01:22:02Z,http://www.htnetworks.com.kh/,,none,none
+HK,331,0,88,iAIX  (iAdvantage Internet Exchange),Hong Kong,none,2019-06-18T12:01:05Z,http://www.iadvantage.net,,none,none
+UA,727,0,2051,IF-IX (Ivano-Frankivsk Internet Exchnage),,none,2019-06-18T12:28:33Z,http://ix.if.ua/en/,,none,none
+IL,112,0,393,IIX - Tel Aviv (Israeli Internet eXchange),Tel-Aviv,none,2019-08-07T13:04:58Z,http://www.isoc.org.il/iix/2x.html,,none,none
+ID,111,0,210,IIX Jakarta,Jakarta,none,2019-05-28T13:43:16Z,http://www.iix.net.id/,,none,none
+ID,361,0,626,IIX Surabaya,Surabaya ,none,2019-06-18T02:11:35Z,http://www.iix.net.id/,,none,none
+IE,646,0,1262,INEX Cork (Internet Neutral Exchange Association Limited by Guarantee),,none,2019-08-06T11:00:25Z,https://www.inex.ie/,https://www.inex.ie/ixp/grapher/infrastructure?id=3&type=log&period=day,none,none
+IE,20,0,48,INEX LAN1 (Internet Neutral Exchange Association Limited by Guarantee),,none,2019-08-07T13:04:58Z,https://www.inex.ie/,https://www.inex.ie/ixp/grapher/infrastructure?id=1&type=log&period=day,none,none
+IE,645,0,387,INEX LAN2 (Internet Neutral Exchange Association Limited by Guarantee),,none,2019-08-06T11:00:20Z,https://www.inex.ie/,https://www.inex.ie/ixp/grapher/infrastructure?id=2&type=log&period=day,none,none
+HT,488,0,573,Infrastructure #1 (AHTIC Internet eXchange Point),,none,2019-05-06T22:01:26Z,https://ixp.ht,https://portal.ixp.ht/grapher/ixp?id=1&type=json,none,none
+CH,34,0,60,Infrastructure #1 (SwissIX Internet Exchang),,none,2019-08-07T13:04:58Z,https://www.swissix.ch/,https://ixpmanager.swissix.ch/grapher/infrastructure?id=1&type=log&period=day,none,none
+RO,37,0,270,InterLAN Internet Exchange (Interlan IX),,none,2019-08-05T11:00:14Z,https://www.interlan.ro/,,none,none
+IN,617,0,1577,IX Kolkata (IIFON IX Kolkata),Kolkata,none,2019-06-17T15:30:08Z,http://iifon.org,,none,none
+GB,578,0,1302,IX Liverpool (IX Liverpool),Liverpool,none,2019-06-16T18:01:00Z,http://www.ixliverpool.net,,none,none
+NZ,572,0,984,IX-AKL (Auckland IX),Auckland,none,2019-08-06T06:01:39Z,http://www.megaport.com,,none,none
+US,608,0,1178,IX-ASH (Ashburn IX),Ashburn,none,2019-08-06T06:01:43Z,http://www.megaport.com,,none,none
+AU,606,0,781,IX-BNE (Brisbane IX),Brisbane,none,2019-08-06T06:01:30Z,http://www.megaport.com,,none,none
+US,610,0,1180,IX-DAL (Dallas IX),Dallas,none,2019-08-06T06:01:44Z,http://www.megaport.com,,none,none
+US,650,0,1207,IX-Denver (Interconnection Exchange Denver),Denver,none,2019-07-03T17:01:05Z,portal.ix-denver.org,,none,none
+US,647,0,1628,IX-LAS (Las Vegas IX),Las Vegas,none,2019-08-06T06:01:46Z,http://www.megaport.com,,none,none
+US,611,0,1175,IX-LAX (Los Angeles IX),Los Angeles,none,2019-08-06T06:01:42Z,http://www.megaport.com,,none,none
+AU,563,0,779,IX-MEL (Melbourne IX),Melbourne,none,2019-08-06T06:01:33Z,http://www.megaport.com,,none,none
+RU,194,0,815,IX-NN (IX of Nizhny Novgorod),Nizhny Novgorod,none,2019-06-17T14:33:30Z,http://ix-nnov.ru/,,none,none
+AU,607,0,1235,IX-PER (Perth IX),Perth,none,2019-08-06T06:01:44Z,http://www.megaport.com,,none,none
+US,613,0,1174,IX-SEA (Seattle IX),Seattle,none,2019-08-06T06:01:41Z,http://www.megaport.com,,none,none
+SG,574,0,965,IX-SIN (Singapore IX),Singapore,none,2019-08-06T06:01:37Z,http://www.megaport.com,,none,none
+BG,731,0,1056,IX-SOF (Sofia IX),Sofia,none,2019-08-06T06:01:46Z,http://www.megaport.com,,none,none
+AU,570,0,780,IX-SYD (Sydney IX),Sydney,none,2019-08-06T06:01:21Z,http://www.megaport.com,,none,none
+CA,575,0,1307,IX-TOR (Toronto IX),Toronto,none,2019-08-06T06:01:44Z,http://www.megaport.com,,none,none
+,787,0,1983,IX.br (PTT.br) João Pessoa,,none,2019-06-17T20:53:17Z,http://ix.br/,,none,none
+,788,0,2291,IX.br (PTT.br) Maceió,,none,2019-06-17T21:14:14Z,https://ix.br,,none,none
+,789,0,1847,IX.br (PTT.br) Santa Maria,,none,2019-06-17T21:14:45Z,https://ix.br,,none,none
+,790,0,2086,IX.br (PTT.br) São Luís,,none,2019-06-17T21:15:13Z,https://ix.br,,none,none
+,791,0,171,IX.br (PTT.br) São Paulo,,none,2019-06-17T21:05:12Z,https://ix.br,,none,none
+,792,0,2078,IX.br (PTT.br) Teresina,,none,2019-06-17T21:07:29Z,https://ix.br,,none,none
+PL,540,0,1516,IX.LODZ.PL (Lodz Telecommunication Node),Lodz,none,2019-06-17T15:24:16Z,http://ix.lodz.pl,,none,none
+GB,281,0,435,IXLeeds (Leeds Internet Exchange),Leeds,none,2019-06-17T23:52:49Z,http://www.ixleeds.net/,,none,none
+SE,106,0,231,IXOR (Internet eXchange point of the Oresund Region),Malmoe,none,2019-05-28T16:22:22Z,http://www.ixor.se/,,none,none
+BO,428,0,842,IXP-MegaLink (IXP MegaLink),La Paz,none,2019-06-19T00:33:57Z,http://www.megalink.com/ixp/,,none,none
+MK,760,0,2276,IXP.Mk,skopje,none,2019-06-17T15:43:32Z,http://ixp.mk,,none,none
+NG,60,0,488,IXPN (Internet Exchange Point of Nigeria),Lagos,none,2019-06-17T14:01:25Z,http://www.ixp.net.ng,,none,none
+SA,809,0,2628,JEDIX,Jeddah,none,2019-08-02T16:20:14Z,https://www.jedix.net,,none,none
+ZA,95,0,129,Johannesburg Internet Exchange Point (INX), Johannesburg,none,2019-08-06T20:01:16Z,https://www.inx.net.za,,none,none
+MY,764,0,2279,Johor Bahru Internet Exchange (Johor Bahru Internet Exchange),,none,2019-07-31T11:01:03Z,http://www.jbix.my,,none,none
+JP,119,0,564,JPIX - Osaka (Japan Internet Exchange - Osaka),Osaka,none,2019-06-17T06:49:50Z,http://www.jpix.ad.jp/,,none,none
+JP,44,0,30,JPIX - Tokyo (Japan Internet Exchange - Tokyo),Tokyo,none,2019-06-17T06:42:25Z,http://www.jpix.ad.jp/,,none,none
+JP,120,0,145,JPNAP - Osaka (Japan Network Access Point - Osaka),Osaka,none,2019-06-17T14:04:42Z,http://www.jpnap.net/,,none,none
+JP,42,0,95,JPNAP - Tokyo (Japan Network Access Point - Tokyo),Tokyo,none,2019-08-07T13:04:58Z,http://www.jpnap.net/,,none,none
+US,417,0,563,JXIX (Jacksonville Internet Exchange),Jacksonville,none,2019-06-18T22:07:27Z,http://jxix.org/,,none,none
+UG,96,0,422,Kampala 1 (Uganda Internet eXchange Point),,none,2019-08-06T16:02:03Z,https://uixp.co.ug/,https://portal.uixp.co.ug/grapher/infrastructure?id=1&type=log&period=day,none,none
+KZ,188,0,334,KAZ-IX (Kazakhstan Traffic Exchange),Almaty,none,2019-06-17T21:21:05Z,http://www.kaz-ix.kz/web/,,none,none
+KZ,768,0,2497,KazNIX,Semey,none,2019-04-17T05:46:13Z,https://kaznix.kz/,,none,none
+US,221,0,249,KCIX Kansas City (Kansas City Internet Exchange),Kansas City,none,2019-06-17T23:01:41Z,http://www.kcix.net/,,none,none
+UA,698,0,1168,Kherson Traffic Exchange (Kherson Traffic Exchange Point),Kherson,none,2019-06-19T00:01:53Z,https://ix.ks.ua/,,none,none
+CD,204,0,628,KINIX (KINshasa Internet eXchange point),Kinshasa,none,2019-06-17T22:58:15Z,http://www.ispa-drc.cd/,,none,none
+KR,72,0,52,KINX - Seoul (Korea Internet Neutral Exchange),Seoul,none,2019-06-19T21:18:33Z,https://www.kinx.net/?lang=en,,none,none
+MD,670,0,1171,KIVIX (Chisinau Internet Exchange),Chisinau,none,2019-06-18T23:46:09Z,http://www.trabia.com,,none,none
+,801,0,1541,KIXP - Mombasa,,none,2019-06-19T00:19:16Z,https://www.tespok.co.ke/,,none,none
+,800,0,2362,KIXP - Mombasa icolo,,none,2019-06-19T00:17:41Z,https://www.tespok.co.ke/,,none,none
+KE,49,0,236,KIXP - Nairobi,Nairobi,none,2019-08-07T13:04:58Z,http://www.kixp.or.ke/,,none,none
+DE,78,0,123,KleyReX (KleyReX),Frankfurt,none,2019-08-06T17:01:39Z,www.kleyrex.net,,none,none
+UA,402,0,2611,KM-IX (Khmelnytskiy Internet Exchange),Khmelnytskiy,none,2019-06-13T21:30:27Z,http://ix.km.ua/,,none,none
+xk,381,0,1024,KOSIX (Kosovo Internet Exchange Point),Prishtinë,none,2019-06-19T01:22:52Z,http://www.kosix.net/,,none,none
+KW,762,0,2253,Kuwait Internet Exchange - ix.kw,Al Sharq,none,2019-06-19T00:07:06Z,https://ix.kw,,none,none
+RU,275,0,398,kzn-ix (KZN-IX public peering VLAN),Kazan,none,2019-08-07T10:01:04Z,http://www.msk-ix.ru/en/ix/,,none,none
+BR,497,0,790,Lajeado (LAJ) (IX.br - Lajeado (LAJ)),Lajeado,none,2019-06-14T14:18:38Z,http://www.nic.br,,none,none
+FR,433,0,881,Lillix (Lille Internet Exchange),Lille,none,2019-06-17T15:06:56Z,http://www.lillix.fr/,,none,none
+GB,544,0,1016,LINX Cardiff,Cardiff,none,2019-08-07T13:04:58Z,https://www.linx.net/,,none,none
+GB,1,0,18,LINX LON1,London,none,2019-08-07T13:04:58Z,https://www.linx.net/,,none,none
+GB,600,0,321,LINX LON2,London,none,2019-08-07T13:04:58Z,https://www.linx.net/,,none,none
+GB,349,0,583,LINX Manchester,Manchester,none,2019-08-07T13:04:58Z,https://www.linx.net/,,none,none
+US,426,0,777,LINX NoVA,Ashburn,none,2019-08-07T13:04:58Z,https://www.linx.net/,,none,none
+GB,409,0,745,LINX Scotland,Edinburgh,none,2019-08-07T13:04:58Z,https://www.linx.net/,,none,none
+LT,467,0,400,LIPTAM (Lietuvos Interneto paslaugų tiekėjų apsikeitimo mazgu),Vilnius,none,2019-06-18T12:09:02Z,http://is.lt,,none,none
+LT,482,0,542,litix (Lithuanian Internet exchange),Vilnius,none,2019-06-13T22:30:11Z,http://www.lixp.lt,,none,none
+LV,83,0,383,LIX - Latvia (Latvian Internet eXchange),Riga,none,2019-06-19T01:16:48Z,http://www.lix.lv/,,none,none
+RO,763,0,2501,LNK-IX (LNK Internet Exchange),,none,2019-07-14T11:01:14Z,https://ix.lnk.ro/,,none,none
+DE,775,0,2084,LocIX (LocIX Internet Exchange),Frankfurt,none,2019-07-24T15:01:38Z,http://locix.online/,,none,none
+GB,18,0,53,LONAP Network (LONAP Ltd.),,none,2019-08-07T00:01:41Z,https://www.lonap.net/,,none,none
+BR,214,0,314,Londrina (LDA) (IX.br - Londrina (LDA)),Londrina,none,2019-06-17T20:24:40Z,http://www.nic.br,,none,none
+NL,681,0,1308,LSIX,The Hague,none,2019-06-19T01:21:20Z,https://www.datafacilities.nl,,none,none
+LU,58,0,297,LU-CIX (Luxembourg Commercial Internet Exchange),Luxembourg,none,2019-06-18T08:35:29Z,http://www.lu-cix.lu/,,none,none
+FR,31,0,69,lyonix,,none,2019-08-07T13:04:58Z,http://www.lyonix.net,,none,none
+US,267,0,89,MadIX (Madison Internet eXchange Peering Point),Madison,none,2019-06-17T23:11:08Z,http://kb.wisc.edu/ns/page.php?id=6636,,none,none
+US,299,0,20,MAE - Central (MAE - Central),Dallas and Chicago,none,2019-06-19T15:47:03Z,http://www.mae.net/fac/mae-central.htm,,none,none
+BR,375,0,707,Manaus (MAO) (IX.br - Manaus (MAO)),Manaus,none,2019-06-17T08:51:50Z,http://www.nic.br,,none,none
+BR,498,0,818,Maringá (MGF) (IX.br - Maringá (MGF)),Maringá,none,2019-06-14T14:19:17Z,http://www.nic.br,,none,none
+MQ,618,0,1127,Martinix (Martinix),Fort-de-France,none,2019-06-18T23:41:33Z,https://www.renater.fr/,,none,none
+US,665,0,1086,MASS IX (MASS IX),Boston,none,2019-06-19T00:40:34Z,http://www.towardex.com,,none,none
+CA,399,0,703,MBIX (Manitoba Internet Exchange),Winnipeg,none,2019-06-12T21:32:19Z,http://www.mbix.ca/,,none,none
+ID,473,0,469,MCIX (Matrix Cable Internet eXchange),Jakarta,none,2019-06-18T22:18:48Z,http://www.nap.net.id,,none,none
+MD,278,0,392,MD-IX (Moldova Internet Exchange),Chisinau,none,2019-06-17T08:41:00Z,http://www.moldtelecom.md/en/operators/exchange/,,none,none
+MX,740,0,2036,MEX-IX (Mexico IXP),,none,2019-06-16T22:33:56Z,http://www.mdcdatacenters.com/,,none,none
+MG,685,0,1335,MGIX (Madagascar Global Internet eXchange),Antananarivo,none,2019-06-18T23:51:01Z,http://www.mgix.mg,,none,none
+US,671,0,1212,MGMix (Montgomery Internet Exchange),Montgomery,none,2019-06-18T23:46:46Z,http://www.mgmix.net/,,none,none
+US,660,0,957,MiamiIX (Miami Internet Peering Exchange),Miami,none,2019-06-16T20:32:28Z,http://www.miamiix.net,,none,none
+US,335,0,446,MICE (Midwest Internet Cooperative Exchange),Minneapolis,none,2019-06-17T15:00:04Z,http://www.micemn.net,,none,none
+,777,0,2286,MidWest-IX - Cleveland,,none,2019-06-16T20:11:31Z,http://www.fd-ix.com/,,none,none
+US,653,0,986,MidWest-IX - Indy,Indianapolis,none,2019-06-16T20:06:37Z,http://www.midwest-ix.com/,,none,none
+,778,0,1519,MidWest-IX - St. Louis,,none,2019-06-16T20:14:39Z,http://www.midwest-ix.com/,,none,none
+IT,164,0,240,MINAP (Milan Neutral Access Point),,none,2019-08-06T23:00:23Z,https://www.minap.it/,https://manager.minap.it/grapher/ixp?id=1&type=log&period=day,none,none
+PH,316,0,44,MIX - Manila (Manila Internet Exchange),Manila,none,2019-06-10T22:55:12Z,http://www.easterntelecom.com.ph/Products/index.asp?ID=39&MCID=3,,none,none
+MW,207,0,727,MIX (Malawi Internet Exchange),Blantyre,none,2019-06-17T14:18:18Z,http://www.mispa.org.mw/mix.html,,none,none
+MT,84,0,149,MIX (Malta internet Exchange),Msida,none,2019-06-19T00:21:04Z,http://www.mix.net.mt/,,none,none
+IT,8,0,35,MIX (Milan Internet Exchange),,none,2019-08-07T13:04:58Z,http://www.mix-it.net/,,none,none
+MU,546,0,1508,mixp (Mauritius Internet eXchange Point),Ebene City,none,2019-06-18T23:31:23Z,http://www.mixp.org,,none,none
+ME,584,0,1754,MIXP.me,Podgorica,none,2019-06-16T18:41:17Z,http://www.mixp.me/eng/,,none,none
+US,418,0,499,MKEIX (Milwaukee Internet Exchange),Milwaukee,none,2019-06-19T01:00:38Z,http://www.mkeix.net/,,none,none
+MZ,338,0,528,MOZ-IX (Mozambique Internet Exchange Point ),Maputo,none,2019-06-17T23:59:54Z,http://www.mozix.org.mz/english/join_to.htm,,none,none
+RU,13,0,100,msk-ix (MSK-IX public peering VLAN),Moscow,none,2019-08-07T13:04:58Z,http://www.msk-ix.ru/en/ix/,,none,none
+LV,686,0,1748,MSK-IX Riga,Riga,none,2019-06-18T23:58:41Z,http://www.msk-ix.ru/en/ix/,,none,none
+IN,634,0,832,Mumbai IX (Mumbai IX),Mumbai,none,2019-06-16T18:46:10Z,https://www.mumbai-ix.net/,,none,none
+MY,183,0,250,MyIX  (Malaysia Internet Exchange),Kuala Lumpur,none,2019-06-10T11:04:35Z,http://www.myix.gov.my/,,none,none
+DE,79,0,135,N-IX (Nurnberger Internet eXchange),Nurnberg,none,2019-06-17T00:06:59Z,http://www.n-ix.net/,,none,none
+IT,17,0,121,NAMEX (NAMEX Roma IXP),,none,2019-08-07T13:04:58Z,https://www.namex.it/,https://my.namex.it/grapher/ixp?id=1&type=log&period=day,none,none
+AR,507,0,1066,NAP CABASE - Bahia Blanca (NAP CABASE - Bahia Blanca),Bahia Blanca,none,2019-06-18T22:28:48Z,http://www.cabase.org.ar/wordpress/,,none,none
+AR,622,0,1487,NAP CABASE - Bariloche (NAP CABASE - Bariloche), San Carlos de Bariloche,none,2019-06-18T12:20:05Z,http://www.cabase.org.ar/wordpress/,,none,none
+AR,143,0,181,NAP CABASE - Buenos Aires (NAP CABASE - Buenos Aires),Buenos Aires,none,2019-08-07T13:04:58Z,http://www.cabase.org.ar/wordpress/,,none,none
+AR,508,0,1067,NAP CABASE - Cordoba (NAP CABASE - Cordoba),Córdoba,none,2019-06-18T22:19:59Z,http://www.cabase.org.ar/wordpress/,,none,none
+AR,623,0,1480,NAP CABASE - Junin (NAP CABASE - Junin),Junin,none,2019-06-17T09:09:14Z,http://www.cabase.org.ar/wordpress/,,none,none
+AR,510,0,904,NAP CABASE - La Plata (NAP CABASE - La Plata),La Plata,none,2019-06-18T22:27:42Z,http://www.cabase.org.ar/wordpress/,,none,none
+AR,511,0,1069,NAP CABASE - Mar del Plata (NAP CABASE - Mar del Plata),Mar del Plata,none,2019-06-18T22:27:14Z,http://www.cabase.org.ar/wordpress/,,none,none
+AR,512,0,1070,NAP CABASE - Mendoza (NAP CABASE - Mendoza),Mendoza,none,2019-06-18T12:12:06Z,http://www.cabase.org.ar/wordpress/,,none,none
+AR,513,0,930,NAP CABASE - Neuquén (NAP CABASE - Neuquén),Neuquén,none,2019-06-17T09:02:59Z,http://www.cabase.org.ar/wordpress/,,none,none
+AR,625,0,1482,NAP CABASE - Pergamino (NAP CABASE - Pergamino),Pergamino,none,2019-06-18T22:25:20Z,http://www.cabase.org.ar/wordpress/,,none,none
+AR,603,0,911,NAP CABASE - Posadas (NAP CABASE - Posadas),Posadas,none,2019-06-18T22:25:46Z,http://www.cabase.org.ar/wordpress/,,none,none
+AR,602,0,1071,NAP CABASE - Puerto Madryn (NAP CABASE - Puerto Madryn),Puerto Madryn,none,2019-06-18T22:26:16Z,http://www.cabase.org.ar/wordpress/,,none,none
+AR,707,0,2040,NAP CABASE - Resistencia (NAP CABASE - Resistencia),Resistencia,none,2019-06-17T09:16:28Z,http://www.cabase.org.ar/wordpress/,,none,none
+AR,514,0,945,NAP CABASE - Rosario (NAP CABASE - Rosario),Rosario,none,2019-06-17T15:21:05Z,http://www.cabase.org.ar/wordpress/,,none,none
+AR,627,0,1485,NAP CABASE - Saenz Peña (NAP CABASE - Saenz Peña),Saenz Peña,none,2019-06-18T22:23:53Z,http://www.cabase.org.ar/wordpress/,,none,none
+AR,710,0,2093,NAP CABASE - San Juan (NAP CABASE - San Juan),San Juan,none,2019-06-18T22:21:52Z,http://www.cabase.org.ar/wordpress/,,none,none
+AR,626,0,1481,NAP CABASE - San Luis (NAP CABASE - San Luis),San Luis,none,2019-06-18T22:24:52Z,http://www.cabase.org.ar/wordpress/,,none,none
+AR,628,0,1483,NAP CABASE - San Miguel de Tucumán (NAP CABASE - San Miguel de Tucumán),San Miguel de Tucumán,none,2019-06-18T22:23:10Z,http://www.cabase.org.ar/wordpress/,,none,none
+AR,629,0,1764,NAP CABASE - San Salvador de Jujuy (NAP CABASE - San Salvador de Jujuy),San Salvador de Jujuy,none,2019-06-18T12:21:08Z,http://www.cabase.org.ar/wordpress/,,none,none
+AR,515,0,1072,NAP CABASE - Santa Fe (NAP CABASE - Santa Fe),Santa Fe,none,2019-06-18T22:26:46Z,http://www.cabase.org.ar/wordpress/,,none,none
+AR,706,0,1798,NAP CABASE - Tandil (NAP CABASE - Tandil),Tandil,none,2019-06-18T12:26:36Z,http://www.cabase.org.ar/wordpress/,,none,none
+AR,708,0,2368,NAP CABASE - Viedma (NAP CABASE - Viedma),Viedma,none,2019-06-17T15:41:22Z,http://www.cabase.org.ar/wordpress/,,none,none
+CL,161,0,405,NAP Chile (NAP Chile),Santiago,none,2019-06-19T17:11:19Z,http://www.nap.cl/index.html,,none,none
+CO,69,0,252,NAP Colombia (NAP Colombia),Bogota,none,2019-06-19T01:08:38Z,http://www.nap.com.co/,,none,none
+EC,216,0,1042,NAP.EC - Guayaquil (NAP Ecuador - Guayaquil),Guayaquil,none,2019-06-19T00:54:43Z,http://www.nap.ec,,none,none
+EC,153,0,253,NAP.EC - Quito (NAP Ecuador - Quito),Quito,none,2019-08-07T13:04:58Z,http://www.nap.ec,,none,none
+PE,162,0,1028,NAP.Peru (NAP.Peru),Lima,none,2019-06-17T14:16:24Z,http://www.nap.pe,,none,none
+ZA,648,0,597,NAPAfrica IX Cape Town (NAPAfrica),,none,2019-08-07T07:02:22Z,https://www.napafrica.net/,http://ix.nap.africa/grapher/infrastructure?id=2&type=log&period=day,none,none
+ZA,649,0,969,NAPAfrica IX Durban (NAPAfrica),,none,2019-08-07T07:02:31Z,https://www.napafrica.net/,http://ix.nap.africa/grapher/infrastructure?id=3&type=log&period=day,none,none
+ZA,351,0,592,NAPAfrica IX Johannesburg (NAPAfrica),,none,2019-08-07T07:02:05Z,https://www.napafrica.net/,https://ix.nap.africa/grapher/infrastructure?id=1&type=log&period=day,none,none
+US,336,0,428,NASA-AIX (NASA Ames Internet eXchange),Mountain View,none,2019-06-17T23:58:24Z,http://www.nasa.gov/centers/ames,,none,none
+US,664,0,1038,NashIX (Nashville Internet Exchange),Nashville,none,2019-06-18T23:43:44Z,http://www.nashix.net/,,none,none
+BR,379,0,708,Natal (NAT) (IX.br - Natal (NAT)),Natal,none,2019-06-17T20:29:10Z,http://www.nic.br,,none,none
+AF,749,0,2245,National Internet Exchange Of Afghanistan (NIXA),Kabul,none,2019-06-19T01:05:56Z,https://nixa.af,,none,none
+NL,66,0,85,NDIX (Nederlands-Duitse Internet Exchange), Enschede,none,2019-06-16T23:53:26Z,http://www.ndix.net/,,none,none
+BG,413,0,699,NetIX (NetIX),Sofia,none,2019-06-18T22:05:46Z,http://www.netix.net/,,none,none
+SE,100,0,192,Netnod - Gothenburg (Netnod - Gothenburg),Gothenburg,none,2019-05-28T06:25:17Z,https://www.netnod.se,,none,none
+SE,145,0,257,Netnod - Lulea (Netnod - Lulea),Lulea,none,2019-06-17T06:53:30Z,https://www.netnod.se,,none,none
+SE,5,0,70,Netnod - Stockholm (Netnod - Stockholm),Stockholm,none,2019-08-07T13:04:58Z,https://www.netnod.se,,none,none
+SE,102,0,194,Netnod - Sundsvall (Netnod - Sundsvall),Sundsvall,none,2019-05-28T06:29:00Z,https://www.netnod.se,,none,none
+DK,294,0,193,Netnod Copenhagen,Copenhagen,none,2019-06-19T01:18:52Z,https://www.netnod.se,,none,none
+ID,359,0,375,NiCE (National Inter Connection Exchange ),Jakarta,none,2019-06-17T15:02:10Z,http://www.openixp.net/,,none,none
+CZ,15,0,71,"NIX.CZ (NIX.CZ, z.s.p.o.)",,none,2019-08-06T14:00:18Z,https://www.nix.cz,https://www.nix.cz/euroixstats.php,none,none
+SK,552,0,299,"NIX.SK (NIX.CZ, z.s.p.o. organizacna zlozka)",,none,2019-08-06T14:00:14Z,https://www.nix.sk,https://www.nix.sk/euroixstats-sk.php,none,none
+NO,19,0,83,NIX1 (Norwegian Internet eXchange),Oslo,none,2019-05-27T21:21:42Z,http://www.uio.no/tjenester/it/nett/fastnett/nix/,,none,none
+NO,99,0,298,NIX2 (Norwegian Internet Exchange 2),Oslo,none,2019-05-28T06:24:26Z,http://www.uio.no/tjenester/it/nett/fastnett/nix/,,none,none
+IN,173,0,1690,NIXI - Ahmedabad (National Internet Exchange of India - Ahmedabad),Ahmedabad,none,2019-05-29T00:21:37Z,http://nixi.in/,,none,none
+IN,174,0,1689,NIXI - Bangalore (National Internet Exchange of India - Bangalore),Bangalore,none,2019-05-29T10:53:54Z,http://nixi.in/,,none,none
+IN,116,0,235,NIXI - Chennai (National Internet Exchange of India - Chennai),Chennai,none,2019-06-17T00:13:24Z,http://nixi.in/,,none,none
+IN,175,0,598,NIXI - Hyderabad (National Internet Exchange of India - Hyderabad),Hyderabad,none,2019-05-29T10:54:31Z,http://nixi.in/,,none,none
+IN,117,0,1317,NIXI - Kolkata (National Internet Exchange of India - Kolkata),Kolkata,none,2019-06-18T08:38:34Z,http://nixi.in/,,none,none
+IN,115,0,224,NIXI - Mumbai (National Internet Exchange of India - Mumbai),Mumbai,none,2019-06-17T00:11:59Z,http://nixi.in/,,none,none
+IN,45,0,198,NIXI - New Delhi (National Internet Exchange of India - New Delhi),Delhi ,none,2019-06-17T00:11:28Z,http://nixi.in/,,none,none
+ES,724,0,1160,NIXVAL (Neutral Internet Exchange Valencia),Valencia,none,2019-06-16T21:48:15Z,https://www.nixval.com/en/,,none,none
+NL,27,0,64,NL-ix,The Hague,none,2019-08-07T13:04:58Z,http://www.nl-ix.net/,,none,none
+NL,769,0,2569,NL-ix 2,The Hague,none,2019-08-02T17:01:07Z,https://www.nl-ix.net/,,none,none
+NL,774,0,2601,NLocix Netherlands (Netherland Local Internet Exchange),,none,2019-07-25T10:02:25Z,https://www.nlocix.net,,none,none
+SE,97,0,258,NorrNod (NorrNod),Umea,none,2019-05-28T06:22:16Z,http://www.norrnod.se,,none,none
+US,743,0,1679,Northern New England Neutral Internet Exchange,Portland,none,2019-06-17T15:42:37Z,http://www.nnenix.net/,,none,none
+NP,673,0,1658,npIX JWL (npIX JWL),Lalitpur,none,2019-06-18T12:22:57Z,http://www.npix.net.np/,,none,none
+NP,53,0,241,NPIX Putalisadak (Internet Exchange Nepal),,none,2019-07-17T05:01:20Z,http://www.npix.net.np/,https://nms2.npix.net.np/grapher/infrastructure?id=1&type=log&period=day,none,none
+RU,86,0,223,nsk-ix (NSK-IX public peering VLAN),Novosibirsk,none,2019-07-04T14:08:28Z,http://www.msk-ix.ru/en/ix/,,none,none
+AU,394,0,716,NSW-IX,Sydney,none,2019-08-07T01:01:26Z,http://www.ix.asn.au/,,none,none
+US,222,0,165,NWAX (Northwest Access Exchange),Portland,none,2019-06-17T23:02:13Z,http://www.nwax.net/,,none,none
+US,220,0,108,NWIX - Helena (Northwest Internet Exchange - Helena),Helena,none,2019-06-17T23:01:02Z,http://www.nwix.org/,,none,none
+US,138,0,14,NYIIX (New York International IX),New York,none,2019-06-17T17:47:54Z,https://www.nyiix.net/locations/nyiix-new-york/,,none,none
+US,137,0,23,NYIIX Los Angeles,Los Angeles,none,2019-06-17T17:48:00Z,https://www.nyiix.net/locations/nyiix-la/,,none,none
+US,786,0,2558,NYIIX Philadelphia,,none,2019-06-17T18:01:58Z,https://www.nyiix.net/locations/nyiix-philadelphia/,,none,none
+AN,217,0,260,OCIX - Philipsburg (Open Caribbean Internet eXchange),Philipsburg,none,2019-06-18T08:44:41Z,http://www.ocix.net/,,none,none
+DE,452,0,170,OCIX Düsseldorf (OpenCarrier e.G. Member IX Düsseldorf),Düsseldorf,none,2019-06-19T00:34:49Z,http://www.opencarrier.eu/,,none,none
+US,256,0,127,OIX (Oregon Internet Exchange),Eugene,none,2019-06-17T14:41:01Z,http://www.oregon-ix.net/,,none,none
+US,419,0,809,OmahaIX (Omaha Internet Exchange),Omaha,none,2019-06-18T12:06:45Z,http://www.omahaix.com,,none,none
+RU,490,0,635,OMSK-IX (Omsk Internet Exchange),Omsk,none,2019-06-13T23:13:51Z,http://omsk-ix.ru/,,none,none
+CA,189,0,221,OTTIX (Ottawa Internet eXchange),Ottawa,none,2019-06-19T00:53:46Z,http://www.ottix.net/,,none,none
+FR,576,0,1312,OuestIX (OuestIX),Nantes,none,2019-06-16T17:58:55Z,http://www.ouestix.fr,,none,none
+US,254,0,82,Pacific Wave (Pacific Wave),Los Angeles & Seattle,none,2019-06-17T08:27:10Z,http://www.pacificwave.net/participants/current/,,none,none
+AU,492,0,631,PacificIX (PacificIX),Sydney,none,2019-06-14T14:10:45Z,http://www.vocus.com.au/pacificix/,,none,none
+US,421,0,82,PacificWave - LA (PacificWave Exchanges in Los Angeles),Los Angeles,none,2019-06-17T15:04:57Z,http://www.pacificwave.net/,,none,none
+US,420,0,82,PacificWave - Seattle (PacificWave Exchange in Seattle),Seattle,none,2019-06-17T08:53:23Z,http://www.pacificwave.net/,,none,none
+IT,726,0,1933,pcix (Piacenza Internet Exchange ),Piacenza,none,2019-06-16T21:49:06Z,http://www.pcix.it/,,none,none
+CZ,410,0,713,Peering.cz (Commercial peering center in Prague),Prague,none,2019-06-13T22:05:41Z,http://www.peering.cz/en/,,none,none
+US,745,0,2088,PhillyIX (Philadelphia Internet Exchange),Philadelphia,none,2019-06-19T00:03:32Z,http://phillyix.net,,none,none
+US,268,0,662,Phoenix-IX (Phoenix Internet Exchange),Phoenix,none,2019-06-19T00:27:20Z,http://phoenix-ix.net/,,none,none
+PH,232,0,1561,PHOpenIX (Philippines Open Internet Exchange),Manilla,none,2019-06-19T01:10:13Z,http://www.phopenix.net/,,none,none
+AU,324,0,112,PIPE Networks Adelaide (PIPE Networks Adelaide),Adelaide,none,2019-06-10T23:09:12Z,http://www.pipenetworks.com,,none,none
+AU,325,0,110,PIPE Networks Brisbane (PIPE Networks Brisbane),Brisbane,none,2019-06-12T21:08:43Z,http://www.pipenetworks.com,,none,none
+AU,326,0,113,PIPE Networks Canberra (PIPE Networks Canberra),Canberra,none,2019-06-12T21:09:23Z,http://www.pipenetworks.com,,none,none
+AU,327,0,114,PIPE Networks Hobart (PIPE Networks Hobart),Hobart,none,2019-06-12T21:09:52Z,http://www.pipenetworks.com,,none,none
+AU,328,0,111,PIPE Networks Melbourne (PIPE Networks Melbourne),Melbourne,none,2019-06-12T21:10:22Z,http://www.pipenetworks.com,,none,none
+AU,329,0,105,PIPE Networks Sydney (PIPE Networks Sydney),Sydney,none,2019-06-12T21:15:38Z,http://www.pipenetworks.com,,none,none
+RU,293,0,512,PIRIX (PIRIX Internet Exchange),St. Petersburg,none,2019-06-17T23:56:22Z,http://www.pirix.ru/,,none,none
+,803,0,1991,PIT Arica - PIT Chile,,none,2019-06-19T01:38:59Z,http://www.pitarica.cl/,,none,none
+,804,0,1915,PIT Concepcion - PIT Chile,,none,2019-06-19T01:42:01Z,http://www.pitconcepcion.cl/,,none,none
+,805,0,1916,PIT Osorno - PIT Chile,,none,2019-06-19T01:43:39Z,http://www.pitosorno.cl/,,none,none
+CL,680,0,1514,PIT Santiago - PIT Chile,Santiago,none,2019-06-19T01:36:55Z,http://www.pitchile.cl,,none,none
+,806,0,1917,PIT Temuco - PIT Chile,,none,2019-06-19T01:47:01Z,http://www.pittemuco.cl/,,none,none
+US,729,0,1999,PIT-IX (Pittsburgh Internet Exchange),Pittsburgh ,none,2019-06-16T21:49:40Z,https://pit-ix.net/,,none,none
+RU,761,0,2149,Piter-IX (Piter-IX),,none,2019-08-03T04:01:04Z,https://piter-ix.ru/,,none,none
+PL,151,0,230,PIX (Poznan Internet Exchange),Poznan,none,2019-06-17T20:18:05Z,http://www.pix.net.pl/,,none,none
+CA,259,0,196,PIX Montreal (Peer1 Internet Exchange Montreal),Montreal,none,2019-06-17T23:08:58Z,http://www.peer1.com,,none,none
+PS,347,0,993,PIX Palestine (Palestine Internet Exchange),Ramallah,none,2019-06-17T15:01:15Z,http://www.pix.ps,,none,none
+CA,260,0,197,PIX Toronto (Peer1 Internet Exchange Toronto),Toronto,none,2019-06-19T00:26:39Z,http://www.peer1.com/infrastructure/pix.php,,none,none
+CA,261,0,195,PIX Vancouver (Peer1 Internet Exchange Vancouver),Vancouver,none,2019-06-18T08:48:33Z,http://www.peer1.com/infrastructure/pix.php,,none,none
+PK,636,0,2616,PKIX (Pakistan Internet Exchange Point),Lahore,none,2019-06-16T18:59:47Z,http://www.pkix.pk/contact.html,,none,none
+NZ,129,0,566,PNIX - Palmerston North (Palmerston North Internet Exchange),Palmerston North,none,2019-06-17T14:05:56Z,http://nzix.net/,,none,none
+BR,158,0,173,Porto Alegre (RS) (IX.br - Porto Alegre (RS)),Porto Alegre,none,2019-06-17T20:23:16Z,http://www.nic.br,,none,none
+CA,266,0,355,QiX (Quebec Internet eXchange),Montreal,none,2019-06-17T23:10:33Z,http://www.qix.ca,,none,none
+AU,392,0,576,QLD-IX,Brisbane,none,2019-08-07T01:01:31Z,http://www.ix.asn.au/,,none,none
+NL,146,0,313,R-iX (Rotterdam Internet eXchange),Rotterdam,none,2019-06-17T14:11:12Z,http://www.r-ix.nl/,,none,none
+BR,264,0,705,Recife (PE) (IX.br - Recife (PE)),Recife,none,2019-06-17T20:25:51Z,http://www.nic.br,,none,none
+RU,141,0,876,RED-IX (RED-IX (former KRS-IX)),Krasnoyarsk,none,2019-06-17T20:16:18Z,http://www.krs-ix.ru/,,none,none
+RE,469,0,381,REUNIX (Reunion Internet eXchange Point),Saint Denis,none,2019-06-19T01:10:54Z,https://www.renater.fr/,,none,none
+LI,483,0,543,Rheintal IX (Rheintal IX),Eschen,none,2019-06-13T22:32:01Z,http://www.rheintal-ix.net,,none,none
+RW,295,0,1032,RINEX (Rwanda Internet Exchange),Kigali,none,2019-08-07T13:04:58Z,http://www.rinex.org.rw/,,none,none
+BR,159,0,177,Rio de Janeiro (RJ) (IX.br - Rio de Janeiro (RJ)),Rio de Janeiro,none,2019-06-17T20:23:47Z,http://www.nic.br,,none,none
+IS,33,0,228,RIX (Reykjavik Internet Exchange),,none,2019-05-28T06:07:27Z,https://www.rix.is,,none,none
+RU,178,0,380,rnd-ix (RND-IX public peering VLAN),Rostov on Don,none,2019-08-07T10:01:26Z,http://www.msk-ix.ru/en/ix/,,none,none
+RO,16,0,301,RoNIX (Romanian Network for Internet eXchange),Bucharest,none,2019-05-27T22:16:54Z,http://www.ronix.ro,,none,none
+EE,479,0,538,RTIX (Tallinn Governmental Internet Exchange),Tallin,none,2019-06-13T22:22:25Z,http://www.rtix.ee/rtix/,,none,none
+US,661,0,1002,RVA-IX (Richmond Virginia Internet Exchange),Richmond,none,2019-06-17T15:33:22Z,http://rva-ix.net,,none,none
+AU,391,0,691,SA-IX,Adelaide,none,2019-08-07T01:01:34Z,http://www.ix.asn.au/,,none,none
+AT,553,0,1073,SAIX (Salzburg Internet eXchange),Salzburg,none,2019-06-17T15:25:18Z,https://www.saix.at/,,none,none
+BR,160,0,556,Salvador (BA) (IX.br - Salvador (BA)),Salvador da Bahia,none,2019-06-18T08:42:23Z,http://www.nic.br,,none,none
+BR,374,0,709,São José do Rio Preto (SJP) (IX.br - São José do Rio Preto (SJP)),São José do Rio Preto,none,2019-06-18T12:04:56Z,http://www.nic.br,,none,none
+BR,289,0,638,São José dos Campos (SJC) (IX.br - São José dos Campos (SJC)),São José dos Campos,none,2019-06-17T14:58:12Z,http://www.nic.br,,none,none
+SA,770,0,2299,Saudi Arabia Internet eXchange (SAIX),Riyadh,none,2019-05-23T15:21:04Z,http://www.ixp.sa,,none,none
+CL,674,0,1634,SCL-IX (SCL-IX),Santiago,none,2019-06-17T09:11:39Z,https://www.sclix.cl/,,none,none
+RU,489,0,633,Sea-IX (South Russia IX),Krasnodar,none,2019-06-13T23:11:27Z,http://sea-ix.ru/,,none,none
+FR,32,0,34,SFINX (Service for French Internet eXchange),Paris,none,2019-05-28T06:05:44Z,https://www.renater.fr/,,none,none
+US,223,0,155,SFMIX (San Francisco Metropolitan Internet Exchange),,none,2019-06-19T01:29:11Z,http://sfmix.org/,,none,none
+RU,668,0,1154,SFO-IX (SFO-IX),Barnaul,none,2019-06-17T15:34:33Z,http://www.milecom.ru,,none,none
+SG,371,0,429,SGIX (Singapore Internet Exchange),Singapore,none,2019-06-18T02:12:50Z,https://www.sgix.sg/,,none,none
+RU,655,0,822,SIBIR-IX (SIBIR-IX),Krasnoyarsk,none,2019-06-16T20:16:11Z,http://www.sibir-ix.ru,,none,none
+SK,167,0,559,SIX - Košice (Slovak Internet eXchange - Košice),Košice,none,2019-05-09T14:59:30Z,https://www.six.sk/,,none,none
+US,148,0,13,SIX (Seattle Internet Exchange),,none,2019-08-07T00:01:23Z,https://www.seattleix.net/,,none,none
+SI,25,0,319,SIX (Slovenian Internet Exchange),Ljubljana,none,2019-05-27T22:19:53Z,http://www.arnes.si/infrastructure/six-slovenian-internet-exchange/,,none,none
+SK,89,0,84,SIX Bratislava (Slovak Internet eXchange Bratislava),,none,2019-07-30T14:01:23Z,https://www.six.sk,https://www.six.sk/stats/aggregated.log,none,none
+US,679,0,1285,SIX Seattle (Jumbo) (Seattle Internet Exchange (9000 MTU)),Seattle,none,2019-06-18T23:50:09Z,https://www.seattleix.net/,,none,none
+NO,200,0,1419,SIX Stavanger (Stavanger Internet Exchange),Stavanger,none,2019-06-17T08:19:11Z,http://www.uio.no/tjenester/it/nett/fastnett/nix/,,none,none
+GM,723,0,1074,SIXP (Serrekunda IXP),Serrekunda,none,2019-06-19T01:49:33Z,http://www.sixp.gm/,,none,none
+SD,388,0,2320,SIXP (Sudan Internet Exchange Point),Khartoum,none,2019-06-12T21:24:06Z,http://www.sixp.sd,,none,none
+US,503,0,829,SLIX (Salt Lake Internet Exchange),Salt Lake City,none,2019-06-19T22:07:51Z,http://www.slix.net,,none,none
+,808,0,0,SLT-IX,,none,2019-08-02T10:41:11Z,https://www.slt.lk,,none,none
+AE,320,0,866,SMARTHUB Internet Exchange / SH-IX,Abu Dhabi,none,2019-06-19T22:09:58Z,http://www.smarthubix.ae/,,none,none
+LV,228,0,364,SMILE (Santa Monica Internet Local Exchange),Riga,none,2019-06-17T14:39:25Z,http://lg.smile.smn.lv,,none,none
+RU,88,0,379,smr-ix (SMR-IX public peering VLAN),Samara,none,2019-08-07T10:01:27Z,http://www.msk-ix.ru/en/ix/,,none,none
+US,423,0,627,SNAP (Southeast Network Access Point),Atlanta,none,2019-06-18T22:08:59Z,http://www.southeastnap.com/,,none,none
+US,271,0,357,SOAX (Southern Oregon Access Exchange),Medford,none,2019-06-19T01:53:29Z,http://soax.org/,,none,none
+SE,91,0,128,SOLIX - Stockholm (SOLIX),Stockholm,none,2019-05-28T06:09:22Z,http://www.sol-ix.net/,,none,none
+SO,754,0,2410,Somali Internet Exchange Point - Mogadishu,Mogadishu,none,2019-06-18T12:28:53Z,http://soixp.so/,,none,none
+SG,133,0,93,SOX - Singapore (Singapore Open eXchange),Singapore,none,2019-06-17T20:09:33Z,http://www.sox.net.sg/,,none,none
+RS,292,0,424,SOX (Serbian Open eXchange),Belgrade,none,2019-06-17T23:55:45Z,http://sox.rs/?lang=en,,none,none
+RU,87,0,107,spb-ix (SPB-IX public peering VLAN),St.-Petersburg,none,2019-07-04T14:10:04Z,http://www.msk-ix.ru/en/ix/,,none,none
+KG,758,0,2457,SR-IX (Silk Road Internet Exchange),,none,2019-04-02T07:01:42Z,http://sr-ix.asia/,,none,none
+SE,713,0,1869,STHIX - Copenhagen (Stockholm Internet eXchange AB),,none,2019-08-07T12:01:46Z,http://www.sthix.net/,,none,none
+SE,712,0,1868,STHIX - Gothenburg (Stockholm Internet eXchange AB),,none,2019-08-07T12:01:45Z,http://www.sthix.net/,,none,none
+SE,144,0,172,STHIX - Stockholm (Stockholm Internet eXchange AB),,none,2019-08-07T12:01:37Z,http://www.sthix.net/,https://portal.sthix.net/grapher/infrastructure?id=1&type=log&period=day,none,none
+RU,384,0,580,stw-ix (STW-IX public peering VLAN),Stavropol,none,2019-08-07T10:01:28Z,http://www.msk-ix.ru/en/ix/,,none,none
+BG,666,0,1089,T-CIX (T-CIX),Sofia,none,2019-06-18T12:22:07Z,http://www.t-cix.net/,,none,none
+US,635,0,938,TahoeIX (Tahoe Internet Exchange),Tahoe,none,2019-06-16T18:46:44Z,http://www.tahoeix.org,,none,none
+US,424,0,363,tdc-ops-sw1 (SUPRnet),,none,2019-07-19T00:01:05Z,https://www.suprnet.net,,none,none
+PL,346,0,481,Thinx (Thinx),Warsaw,none,2019-06-17T14:27:00Z,http://en.atman.pl/offer/thinx_internet_exchange,,none,none
+AT,663,0,1009,Tirol-IX (Tirol-IX),Hall in Tirol,none,2019-06-18T23:43:05Z,http://www.citynet.at/,,none,none
+TZ,50,0,361,TIX - Tanzania (Tanzania Internet eXchange),Dar es Salaam,none,2019-06-18T08:34:57Z,http://www.tix.or.tz/,,none,none
+EE,76,0,187,TIX Tallinn (Tallinn Internet eXchange),Tallinn,none,2019-06-17T14:02:21Z,http://tix.estpak.ee/,,none,none
+TZ,675,0,1574,TIX Tanzania - Mwanza IXP (TIX Tanzania - Mwanza IXP),Mwanza,none,2019-06-17T15:35:48Z,http://www.tix.or.tz/,,none,none
+NO,199,0,1418,TIX Tromsø (Tromsø Internet Exchange),Tromsø,none,2019-06-18T08:43:42Z,http://www.uio.no/tjenester/it/nett/fastnett/nix/,,none,none
+IT,26,0,273,TIX Tuscany (Tuscany Internet eXchange),Florence,none,2019-05-27T22:20:39Z,http://www.tix.it/,,none,none
+EE,98,0,190,TLLIX (Tallinn Internet Exchange),Tallinn,none,2019-05-28T06:23:02Z,http://www.tllix.net,,none,none
+IT,14,0,115,TOP-IX (Torino Piemonte Exchange Point),,none,2019-08-07T13:04:58Z,https://www.top-ix.org,,none,none
+CA,163,0,24,TorIX (Toronto Internet Exchange),Toronto,none,2019-08-07T13:04:58Z,http://www.torix.ca/,,none,none
+FR,274,0,336,TOUIX (Toulouse Internet eXchange),Toulouse,none,2019-06-17T23:12:40Z,http://www.touix.net/,,none,none
+US,495,0,624,TP-IX (Twin Ports IX),Duluth,none,2019-06-14T14:16:54Z,http://tp-ix.net,,none,none
+US,656,0,833,TPA-IX (Tampa Internet Exchange),Tampa,none,2019-06-16T20:23:03Z,http://wowforbusiness.com/,,none,none
+TW,185,0,823,TPIX - Taipei (Taipei Internet Exchange),Taipei,none,2019-06-10T11:06:57Z,http://www.tpix.com.tw/,,none,none
+PL,401,0,482,TPIX (Orange Polska Internet Exchange),Warsaw,none,2019-06-13T21:05:54Z,http://www.tpix.pl/,,none,none
+AU,330,0,269,TransACT IX (TransACT IX),Canberra,none,2019-06-12T21:16:32Z,http://www.transact.com.au,,none,none
+NO,193,0,1420,TRDIX (Trondheim Internet Exchange),Trondheim,none,2019-06-17T08:16:16Z,http://www.uio.no/tjenester/it/nett/fastnett/nix/,,none,none
+FI,46,0,328,TREX (TREX Regional Exchanges Oy),,none,2019-08-07T13:04:58Z,http://www.trex.fi,,none,none
+TT,536,0,940,TTIX,Barataria,none,2019-06-18T23:28:30Z,https://ix.tt,,none,none
+,799,0,2272,TTIX2,,none,2019-06-18T23:30:13Z,https://ix.tt,,none,none
+BT,757,0,2355,TTPL LAN (Bhutan Internet Exchange),,none,2019-06-13T09:00:41Z,https://www.btix.bt/,,none,none
+TN,370,0,1105,TunIXP (Tunisian Internet eXchange),Tunis,none,2019-06-18T02:16:22Z,http://www.ati.tn/TunIXP/,,none,none
+TR,767,0,2527,Turk-IX,Istanbul,none,2019-03-28T16:02:05Z,https://www.turk-ix.com/,,none,none
+TW,113,0,43,TWIX - Taipei (Taiwan Internet Exchange),Taipei,none,2019-08-07T13:04:57Z,http://www.twix.net/,,none,none
+UA,48,0,184,UA-IX (Ukrainian Internet Exchange),Kiev,none,2019-06-16T23:25:57Z,http://www.ua-ix.net.ua/eng.phtml,,none,none
+AE,373,0,587,UAE-IX (United Arab Emirates Internet Exchange),Dubai,none,2019-06-19T01:19:37Z,http://www.uae-ix.net/,,none,none
+RU,187,0,340,ULN-IX (Ulyanovsk Internet Exchange),,none,2019-06-17T21:18:34Z,http://www.uln-ix.ru/,,none,none
+GB,598,0,1469,UNIFI-IX (UNIFI-IX),Coventry,none,2019-06-17T15:28:10Z,http://unifi-ix.net,,none,none
+CA,535,0,863,VANIX (Vancouver Internet eXchange),Vancouver,none,2019-06-18T23:25:04Z,http://www.vanix.ca,,none,none
+AU,393,0,513,VIC-IX,Melbourne,none,2019-08-07T01:01:35Z,http://www.ix.asn.au/,,none,none
+BR,377,0,706,Vitória (VIX) (IX.br -  Vitória (VIX)),Vitória,none,2019-06-17T20:28:15Z,http://www.nic.br,,none,none
+AT,3,0,50,VIX (Vienna Internet Exchange),,none,2019-08-05T11:01:16Z,https://www.vix.at/,,none,none
+RU,170,0,378,vlv-ix (VLV-IX public peering VLAN),Vladivostok,none,2019-08-07T10:01:27Z,http://www.msk-ix.ru/en/ix/,,none,none
+VN,134,0,1772,VNIX - Hanoi (Vietnam National Internet eXchange - Hanoi),Hanoi,none,2019-06-17T20:10:11Z,http://www.vnnic.vn/en,,none,none
+VN,135,0,1771,VNIX - Ho Chi Minh (Vietnam National Internet eXchange - Ho Chi Minh),Ho Chi Minh City,none,2019-06-19T00:22:06Z,http://www.vnnic.vn/en,,none,none
+IT,38,0,311,VSIX (VSIX Nap del Nord Est),,none,2019-08-07T13:04:58Z,https://www.vsix.it,,none,none
+VU,494,0,971,VUIX (Vanuatu Internet Exchange),Port Vila,none,2019-06-14T14:16:23Z,http://vix.vu/,,none,none
+RU,678,0,1242,W-IX (W-IX),Moscow,none,2019-06-18T23:49:17Z,https://www.w-ix.ru,,none,none
+AU,108,0,21,WA-IX,Perth,none,2019-08-07T01:01:38Z,http://www.ix.asn.au/,,none,none
+PL,85,0,96,WIX - Poland (Warsaw Internet eXchange),Warsaw,none,2019-06-17T06:49:00Z,http://www.wix.net.pl/,,none,none
+NZ,132,0,348,WIX - Wellington (Wellington Internet Exchange),Wellington,none,2019-06-17T20:08:52Z,http://nzix.net/,,none,none
+CA,386,0,776,WPG-IX (Winnipeg Internet Exchange),Winnipeg,none,2019-06-12T21:21:22Z,http://wpgix.net,,none,none
+RU,493,0,683,YAR-IX (Yaroslavl Internet Exchange),Yaroslavl,none,2019-06-14T14:12:01Z,http://yar-ix.net/,,none,none
+CA,669,0,1169,YEGIX (YEGIX),Edmonton,none,2019-06-18T23:44:25Z,http://www.yegix.ca/,,none,none
+US,219,0,199,YRIX (Yellowstone Regional Internet Exchange),Billings,none,2019-06-17T14:37:31Z,http://www.yrix.org/,,none,none
+CA,398,0,639,YYCIX (Calgary Internet Exchange),Calgary,none,2019-08-07T13:04:58Z,http://www.yycix.ca/,,none,none
+ZW,213,0,1293,ZINX (Zimbabwe Internet Exchange),Harare,none,2019-06-17T23:00:12Z,http://www.zispa.org.zw/zinx.html,,none,none

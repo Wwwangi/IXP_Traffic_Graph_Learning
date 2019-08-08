@@ -1,0 +1,689 @@
+IXP_Country_ISO_Alpha2,IXPDB_ID,PCH_ID,PeeringDB_ID,IXP_name,IXP_City,IXP_region_continent,Date_Creation_IXP,IXP_Website,IXP_Url_Stats,URL_stats_comments,Date_check_Stats
+US,0,0,1,Equinix Ashburn,Ashburn,North America,2010-07-29T00:00:00Z,https://ix.equinix.com,,none,none
+US,0,0,2,Equinix Chicago,Chicago,North America,2010-07-29T00:00:00Z,https://ix.equinix.com,,none,none
+US,0,0,3,Equinix Dallas,Dallas,North America,2010-07-29T00:00:00Z,https://ix.equinix.com,,none,none
+US,0,0,4,Equinix Los Angeles,Los Angeles,North America,2010-07-29T00:00:00Z,https://ix.equinix.com,,none,none
+US,0,0,5,Equinix San Jose,San Jose,North America,2010-07-29T00:00:00Z,https://ix.equinix.com,,none,none
+US,0,0,7,Equinix Palo Alto,Palo Alto,North America,2010-07-29T00:00:00Z,https://ix.equinix.com,,none,none
+US,0,0,9,Equinix Atlanta,Atlanta,North America,2010-07-29T00:00:00Z,https://ix.equinix.com,,none,none
+US,0,0,10,Equinix Vienna (VA),Vienna,North America,2010-07-29T00:00:00Z,https://ix.equinix.com,,none,none
+US,0,0,11,Equinix Seattle,Seattle,North America,2010-07-29T00:00:00Z,https://ix.equinix.com,,none,none
+US,0,0,12,Equinix New York,New York,North America,2010-07-29T00:00:00Z,https://ix.equinix.com,,none,none
+US,0,0,13,SIX Seattle,Seattle,North America,2010-07-29T00:00:00Z,https://www.seattleix.net/,https://www.seattleix.net/statistics/,none,none
+US,0,0,14,NYIIX,New York,North America,2010-07-29T00:00:00Z,https://www.nyiix.net/locations/nyiix-new-york/,https://www.nyiix.net/mrtg/sum.html,none,none
+US,0,0,15,MAE East,No. VA & NYC,North America,2010-07-29T00:00:00Z,http://www.mae.net,,none,none
+US,0,0,16,MAE West,San Jose & Los Angeles,North America,2010-07-29T00:00:00Z,http://www.mae.net,,none,none
+US,0,0,17,Equinix Miami (formerly NOTA),Miami,North America,2010-07-29T00:00:00Z,http://www.equinix.com,,none,none
+GB,0,0,18,LINX LON1,London,Europe,2010-07-29T00:00:00Z,https://www.linx.net/,https://stats.linx.net/,none,none
+US,0,0,20,MAE Central,"Dallas, Chicago",North America,2010-07-29T00:00:00Z,http://www.mae.net,,none,none
+AU,0,0,21,IX Australia WA,Perth/WA,Australia,2010-07-29T00:00:00Z,http://www.ix.asn.au,https://metrics.ix.asn.au,none,none
+US,0,0,22,Digital Realty Atlanta,Atlanta,North America,2010-07-29T00:00:00Z,https://ix.digitalrealty.com,,none,none
+US,0,0,23,NYIIX Los Angeles,Los Angeles,North America,2010-07-29T00:00:00Z,https://www.nyiix.net/locations/nyiix-la/,https://www.nyiix.net/LA-mrtg/sum.html,none,none
+CA,0,0,24,TorIX,Toronto,North America,2010-07-29T00:00:00Z,https://www.torix.ca/,https://www.torix.ca/traffic-statistics/,none,none
+NL,0,0,26,AMS-IX,Amsterdam,Europe,2010-07-29T00:00:00Z,http://www.ams-ix.net/,https://www.ams-ix.net/statistics/,none,none
+CH,0,0,29,Equinix Zurich,Zurich,Europe,2010-07-29T00:00:00Z,https://www.equinix.ch/services/interconnection-connectivity/internet-exchange/,https://ix.equinix.com/,none,none
+JP,0,0,30,JPIX TOKYO,Tokyo,Asia Pacific,2010-07-29T00:00:00Z,https://www.jpix.ad.jp/en/,https://www.jpix.ad.jp/en/technical_traffic.php,none,none
+DE,0,0,31,DE-CIX Frankfurt,Frankfurt,Europe,2010-07-29T00:00:00Z,https://fra.de-cix.net,https://www.de-cix.net/en/locations/germany/frankfurt/statistics,none,none
+US,0,0,32,SFIX,San Francisco,North America,2010-07-29T00:00:00Z,http://www.sfix.org/,,none,none
+CH,0,0,33,CIXP,Geneva,Europe,2010-07-29T00:00:00Z,http://www.cixp.net/,http://cixp.net/technical/members-traffic,none,none
+FR,0,0,34,SFINX,Paris,Europe,2010-07-29T00:00:00Z,http://www.sfinx.fr/,,none,none
+IT,0,0,35,MIX-IT,Milan,Europe,2010-07-29T00:00:00Z,https://www.mix-it.net/,http://www.mix-it.net/statistics/cgi-bin/14all-Totale_globale.cgi?log=totaltraffic_global,none,none
+FR,0,0,40,PARIX,Paris,Europe,2010-07-29T00:00:00Z,http://www.parix.net/,http://www.parix.net/cgi-bin/mrtg-rrd.cgi/giga.parix.net_total.html,none,none
+US,0,0,41,NYCX,New York,North America,2010-07-29T00:00:00Z,http://www.nycx.net/,http://www.nycx.net/index.php?page=Traffic,none,none
+HK,0,0,42,HKIX,Hong Kong,Asia Pacific,2010-07-29T00:00:00Z,https://www.hkix.net/,https://www.hkix.net/hkix/stat/aggt/hkix-aggregate.html,none,none
+TW,0,0,43,TWIX,Taipei,Asia Pacific,2010-07-29T00:00:00Z,https://www.twix.net/index_e.html,https://www.twix.net/all_e.html,none,none
+PH,0,0,44,Manila IX,Manila ,Asia Pacific,2010-07-29T00:00:00Z,http://www.etpi.com/Products/index.asp?ID=39&MCID=3,,none,none
+IE,0,0,48,INEX LAN1,Dublin,Europe,2010-07-29T00:00:00Z,https://www.inex.ie/,https://www.inex.ie/ixp/statistics/ixp,none,none
+AT,0,0,50,VIX,Vienna,Europe,2010-07-29T00:00:00Z,http://www.vix.at,https://www.vix.at/vix_statistics.html,none,none
+KR,0,0,52,KINX,Seoul,Asia Pacific,2010-07-29T00:00:00Z,https://www.kinx.net/?lang=en,,none,none
+GB,0,0,53,LONAP,London,Europe,2010-07-29T00:00:00Z,https://www.lonap.net/,https://www.lonap.net/bandwidth.shtml,none,none
+HU,0,0,55,BiX,Budapest,Europe,2010-07-29T00:00:00Z,http://bix.hu/en,http://bix.hu/en/statistics,none,none
+BE,0,0,59,BNIX,Brussels,Europe,2010-07-29T00:00:00Z,https://www.bnix.net,https://bnix.net/en/content/figures,none,none
+CH,0,0,60,SwissIX,Zurich,Europe,2010-07-29T00:00:00Z,https://www.swissix.ch/,https://www.swissix.net/infrastructure/traffic,none,none
+ES,0,0,62,CATNIX,Barcelona,Europe,2010-07-29T00:00:00Z,http://www.catnix.net,http://www.catnix.net/en/statistics/,none,none
+ES,0,0,63,ESPANIX Madrid Lower LAN,Madrid,Europe,2010-07-29T00:00:00Z,http://www.espanix.net,http://stats.espanix.net/,none,none
+NL,0,0,64,NL-ix,Amsterdam,Europe,2010-07-29T00:00:00Z,https://www.nl-ix.net/,https://www.nl-ix.net/traffic.php,none,none
+FR,0,0,69,LyonIX,Lyon,Europe,2010-07-29T00:00:00Z,http://www.lyonix.net/,http://noc.rezopole.net/,none,none
+SE,0,0,70,Netnod Stockholm,Stockholm,Europe,2010-07-29T00:00:00Z,http://www.netnod.se,http://www.netnod.se/ix/statistics/,none,none
+CZ,0,0,71,NIX.CZ,Prague,Europe,2010-07-29T00:00:00Z,http://www.nix.cz/,https://www.nix.cz/en/port/mrtg2/nix-all,none,none
+PT,0,0,72,GigaPIX,Lisbon,Europe,2010-07-29T00:00:00Z,http://www.gigapix.pt,https://gigapix.pt/pt/informacao-tecnica/estatisticas-de-trafego/,none,none
+DE,0,0,73,ECIX-MUC / INXS by ecix,Munich,Europe,2010-07-29T00:00:00Z,https://www.ecix.net,https://www.ecix.net/infrastructure/statistics,none,none
+DE,0,0,74,DE-CIX Hamburg,Hamburg,Europe,2010-07-29T00:00:00Z,https://ham.de-cix.net,https://www.de-cix.net/locations/germany/hamburg/statistics,none,none
+NL,0,0,76,GN-IX,Groningen,Europe,2010-07-29T00:00:00Z,http://www.gn-ix.net/,,none,none
+LU,0,0,77,LIX,Luxemburg,Europe,2010-07-29T00:00:00Z,http://www.lix.lu,,none,none
+DK,0,0,78,DIX,Copenhagen,Europe,2010-07-29T00:00:00Z,http://www.dix.dk/,http://www.dix.dk/,none,none
+US,0,0,81,SD-NAP,San Diego,North America,2010-07-29T00:00:00Z,http://www.sdsc.edu/sdnap/,,none,none
+US,0,0,82,PacificWave,West Coast,North America,2010-07-29T00:00:00Z,http://www.pacificwave.net/,,none,none
+NO,0,0,83,NIX1,Oslo,Europe,2010-07-29T00:00:00Z,https://www.nix.no,https://www.nix.no/statistics/,none,none
+SK,0,0,84,SIX.SK,Bratislava,Europe,2010-07-29T00:00:00Z,http://www.six.sk,http://www.six.sk/stats,none,none
+NL,0,0,85,NDIX,Enschede / Münster,Europe,2010-07-29T00:00:00Z,http://www.ndix.net,,none,none
+DE,0,0,87,BCIX,Berlin,Europe,2010-07-29T00:00:00Z,https://www.bcix.de/,https://www.bcix.de/bcix/traffic/,none,none
+HK,0,0,88,iAIX,Hong Kong,Asia Pacific,2010-07-29T00:00:00Z,http://www.iadvantage.net,,none,none
+US,0,0,89,MadIX,Madison,North America,2010-07-29T00:00:00Z,http://kb.wisc.edu/ns/page.php?id=6636,http://stats.net.wisc.edu/madix.html,none,none
+DE,0,0,91,ECIX-DUS,Duesseldorf,Europe,2010-07-29T00:00:00Z,https://www.ecix.net/,https://www.ecix.net/infrastructure/statistics,none,none
+JP,0,0,92,DIX-IE,Tokyo,Asia Pacific,2010-07-29T00:00:00Z,http://nspixp.wide.ad.jp/,http://nspixp.wide.ad.jp/2/,none,none
+SG,0,0,93,SOX,Singapore,Asia Pacific,2010-07-29T00:00:00Z,http://www.sox.net.sg/,,none,none
+AU,0,0,94,Equinix Sydney,Sydney,Australia,2010-07-29T00:00:00Z,https://ix.equinix.com,,none,none
+JP,0,0,95,JPNAP Tokyo,Tokyo,Asia Pacific,2010-07-29T00:00:00Z,https://www.jpnap.net/en/,https://www.jpnap.net/en/tokyo/traffic.html,none,none
+PL,0,0,96,WIX,Warsaw,Europe,2010-07-29T00:00:00Z,http://www.wix.net.pl/,http://www.wix.net.pl/vxb/w/index.asp?statystyki_x=statystyki,none,none
+NZ,0,0,97,APE,Auckland,Australia,2010-07-29T00:00:00Z,http://ape.nzix.net/,,none,none
+FI,0,0,98,FICIX 2 (Helsinki),Helsinki,Europe,2010-07-29T00:00:00Z,https://www.ficix.fi/,https://stats-ficix.basen.com/#/page?name=StatsWelcome&source=wiki,none,none
+RU,0,0,100,MSK-IX Moscow,Moscow,Europe,2010-07-29T00:00:00Z,http://www.msk-ix.ru/en,http://www.msk-ix.ru/en/traffic,none,none
+AU,0,0,105,PIPE Networks Sydney,"Sydney, NSW",Australia,2010-07-29T00:00:00Z,http://www.pipenetworks.com,,none,none
+RU,0,0,107,MSK-IX Saint-Petersburg,St.Petersburg,Europe,2010-07-29T00:00:00Z,http://www.msk-ix.ru/en/ix/spb,http://www.msk-ix.ru/en/traffic/,none,none
+AU,0,0,110,PIPE Networks Brisbane,BRISBANE,Australia,2010-07-29T00:00:00Z,http://www.pipenetworks.com,,none,none
+AU,0,0,111,PIPE Networks Melbourne,Melbourne,Australia,2010-07-29T00:00:00Z,http://www.pipenetworks.com,,none,none
+AU,0,0,112,PIPE Networks Adelaide,Adelaide,Australia,2010-12-11T00:00:00Z,,,none,none
+AU,0,0,113,PIPE Networks Canberra,CANBERRA,Australia,2010-07-29T00:00:00Z,http://www.pipenetworks.com,,none,none
+AU,0,0,114,PIPE Networks Hobart,HOBART,Australia,2010-07-29T00:00:00Z,http://www.pipenetworks.com,,none,none
+IT,0,0,115,TOP-IX,Turin,Europe,2010-07-29T00:00:00Z,http://www.top-ix.org,http://www.top-ix.org/traffic-summary,none,none
+BR,0,0,119,Equinix São Paulo,São Paulo,South America,2010-07-29T00:00:00Z,https://www.equinix.com,https://ix.equinix.com,none,none
+IT,0,0,121,NaMeX Rome IXP,Rome,Europe,2010-07-29T00:00:00Z,https://www.namex.it,https://www.namex.it/statistics,none,none
+DE,0,0,123,KleyReX,Frankfurt,Europe,2010-07-29T00:00:00Z,http://www.kleyrex.net/,http://www.kleyrex.net/stats.html,none,none
+HK,0,0,125,Equinix Hong Kong,Hong Kong,Asia Pacific,2010-07-29T00:00:00Z,https://ix.equinix.com,,none,none
+JP,0,0,126,BBIX Tokyo,Tokyo,Asia Pacific,2010-07-29T00:00:00Z,http://www.bbix.net/,,none,none
+US,0,0,127,Oregon Internet Exchange (OIX),"Eugene, Oregon",North America,2010-07-29T00:00:00Z,http://www.oregon-ix.net/,http://www.oregon-ix.net/stat-frme.html,none,none
+SE,0,0,128,SOLIX,Stockholm,Europe,2010-07-29T00:00:00Z,https://www.sol-ix.net,,none,none
+ZA,0,0,129,JINX,Johannesburg,Africa,2010-07-29T00:00:00Z,https://www.inx.net.za,,none,none
+DE,0,0,135,N-IX,Nuernberg,Europe,2010-07-29T00:00:00Z,http://www.n-ix.net,,none,none
+US,0,0,141,TampaIX,Tampa,North America,2010-07-29T00:00:00Z,http://tampaix.net,,none,none
+US,0,0,142,CoreSite - Any2 California,Los Angeles and Silicon Valley,North America,2010-07-29T00:00:00Z,http://www.coresite.com,,none,none
+JP,0,0,145,JPNAP Osaka,Osaka,Asia Pacific,2010-07-29T00:00:00Z,https://www.jpnap.net/en/,https://www.jpnap.net/en/osaka/traffic.html,none,none
+SE,0,0,146,GIX Gothenburg,Gothenburg,Europe,2010-07-29T00:00:00Z,http://www.gix.se,,none,none
+FR,0,0,148,EuroGIX,Strasbourg,Europe,2010-07-29T00:00:00Z,http://www.eurogix.org/,,none,none
+US,0,0,151,BigApe,New York,North America,2010-07-29T00:00:00Z,http://www.bigape.us,,none,none
+PH,0,0,154,BAYANTEL,Quezon City,Asia Pacific,2010-07-29T00:00:00Z,,,none,none
+US,0,0,155,SFMIX,San Francisco,North America,2010-07-29T00:00:00Z,https://www.sfmix.org/,https://sfmix.org/services/statistics,none,none
+SG,0,0,158,Equinix Singapore,Singapore,Asia Pacific,2010-07-29T00:00:00Z,https://ix.equinix.com,,none,none
+US,0,0,165,NWAX,Portland,North America,2010-07-29T00:00:00Z,http://www.nwax.net,,none,none
+JP,0,0,167,Equinix Tokyo,Tokyo,Asia Pacific,2010-07-29T00:00:00Z,https://ix.equinix.com,,none,none
+DE,0,0,170,OCIX Duesseldorf,Duesseldorf,Europe,2010-07-29T00:00:00Z,http://www.opencarrier.eu/,,none,none
+BR,0,0,171,IX.br (PTT.br) São Paulo,São Paulo/SP,South America,2010-12-11T00:00:00Z,http://ix.br,http://ix.br/trafego/agregado/sp,none,none
+SE,0,0,172,STHIX - Stockholm,Stockholm,Europe,2010-07-29T00:00:00Z,http://www.sthix.net/,http://www.sthix.net/,none,none
+BR,0,0,173,IX.br (PTT.br) Porto Alegre,Porto Alegre/RS,South America,2010-12-11T00:00:00Z,http://ix.br,http://ix.br/trafego/agregado/rs,none,none
+BR,0,0,174,IX.br (PTT.br) Curitiba,Curitiba/PR,South America,2010-12-11T00:00:00Z,http://ix.br,http://ix.br/trafego/agregado/pr,none,none
+BR,0,0,175,IX.br (PTT.br) Florianópolis,Florianópolis/SC,South America,2010-12-11T00:00:00Z,http://ix.br,http://ix.br/trafego/agregado/sc,none,none
+BR,0,0,176,IX.br (PTT.br) Belo Horizonte,Belo Horizonte/MG,South America,2010-12-11T00:00:00Z,http://ix.br,http://ix.br/trafego/agregado/mg,none,none
+BR,0,0,177,IX.br (PTT.br) Rio de Janeiro,Rio de Janeiro/RJ,South America,2010-12-11T00:00:00Z,http://ix.br/,http://ix.br/trafego/agregado/rj,none,none
+BR,0,0,178,IX.br (PTT.br) Brasília,Brasília/DF,South America,2010-12-11T00:00:00Z,http://ix.br,http://ix.br/trafego/agregado/df,none,none
+AR,0,0,181,CABASE-BUE - IX Argentina (Buenos Aires),Buenos Aires,South America,2010-07-29T00:00:00Z,http://www.cabase.org.ar/,,none,none
+UA,0,0,184,UA-IX,Kiev,Europe,2010-07-29T00:00:00Z,http://www.ua-ix.net.ua/en,http://www.ix.net.ua/pro-kompaniyu/statystyka,none,none
+EE,0,0,187,TIX-LAN,Tallinn,Europe,2010-07-29T00:00:00Z,http://tix.estpak.ee/,,none,none
+US,0,0,189,HIX,Honoloulu,North America,2010-07-29T00:00:00Z,http://www.hawaii-ix.org/,,none,none
+EE,0,0,190,TLLIX,Tallinn,Europe,2010-07-29T00:00:00Z,http://www.tllix.net/,,none,none
+SE,0,0,192,Netnod Gothenburg,Gothenburg,Europe,2010-07-29T00:00:00Z,http://www.netnod.se,http://www.netnod.se/ix/statistics/,none,none
+DK,0,0,193,Netnod Copenhagen,Malmo / Copenhagen,Europe,2010-07-29T00:00:00Z,http://www.netnod.se,http://www.netnod.se/ix/statistics/,none,none
+SE,0,0,194,Netnod Sundsvall,Sundsvall,Europe,2010-07-29T00:00:00Z,http://www.netnod.se,http://www.netnod.se/ix/statistics/,none,none
+CA,0,0,195,PIX Vancouver,Vancouver,North America,2010-07-29T00:00:00Z,http://www.peer1.com,,none,none
+CA,0,0,196,PIX Montreal,Montreal,North America,2010-07-29T00:00:00Z,http://www.peer1.com,,none,none
+CA,0,0,197,PIX Toronto,Toronto,North America,2010-07-29T00:00:00Z,http://www.peer1.com,,none,none
+IN,0,0,198,NIXI Delhi,Delhi,Asia Pacific,2010-07-29T00:00:00Z,http://www.nixi.in,,none,none
+US,0,0,199,YRIX,"Billings, MT",North America,2010-07-29T00:00:00Z,http://www.yrix.org/,,none,none
+US,0,0,204,CoreSite - Any2 NorthEast,"Washington DC, Reston, Boston, New York",North America,2010-07-29T00:00:00Z,http://www.coresite.com,,none,none
+US,0,0,205,CoreSite - Any2 Miami,Miami,North America,2010-07-29T00:00:00Z,http://www.coresite.com,,none,none
+DE,0,0,209,ECIX-BER,Berlin,Europe,2010-07-29T00:00:00Z,https://www.ecix.net/,https://www.ecix.net/infrastructure/statistics,none,none
+ID,0,0,210,IIX-Jakarta,Jakarta,Asia Pacific,2010-07-29T00:00:00Z,http://www.iix.net.id,http://mrtg.iix.net.id,none,none
+DE,0,0,212,BW-IX Stuttgart / S-IX,Stuttgart,Europe,2010-07-29T00:00:00Z,http://www.s-ix.info/,,none,none
+TW,0,0,217,TaipeiGigaPoP,Taipei/Taiwan,Asia Pacific,2010-07-29T00:00:00Z,https://its.sinica.edu.tw/,,none,none
+CA,0,0,221,OttIX,Ottawa,North America,2010-07-29T00:00:00Z,http://www.ottix.net/,,none,none
+RU,0,0,223,MSK-IX Novosibirsk,Novosibirsk,Asia Pacific,2010-07-29T00:00:00Z,http://www.msk-ix.ru/en/ix/nsk,http://www.msk-ix.ru/en/traffic,none,none
+IN,0,0,224,NIXI Mumbai,Mumbai,Asia Pacific,2010-07-29T00:00:00Z,http://www.nixi.in,,none,none
+TH,0,0,225,TH-IX,Bangkok,Asia Pacific,2010-07-29T00:00:00Z,http://www.cattelecom.com,,none,none
+US,0,0,226,CoreSite - Any2 Chicago,Chicago,North America,2010-07-29T00:00:00Z,http://www.coresite.com,,none,none
+IS,0,0,228,RIX,Reykjavik,Europe,2010-07-29T00:00:00Z,https://www.rix.is/,https://www.rix.is/english/statistics.html,none,none
+PL,0,0,230,POZIX,Poznan,Europe,2010-07-29T00:00:00Z,http://www.pozix.pl/,https://www.pozix.pl/#statystyki,none,none
+SE,0,0,231,MalmIX Malmo / IXOR,Malmö,Europe,2010-07-29T00:00:00Z,http://www.ixor.se,http://www.ixor.se/statistics/,none,none
+JP,0,0,234,NSPIXP3,Osaka,Asia Pacific,2010-07-29T00:00:00Z,http://nspixp.wide.ad.jp/3/,,none,none
+IN,0,0,235,NIXI Chennai,Chennai,Asia Pacific,2010-07-29T00:00:00Z,http://www.nixi.in/,,none,none
+KE,0,0,236,KIXP - Nairobi,Nairobi,Africa,2010-12-11T00:00:00Z,https://www.tespok.co.ke/,,none,none
+US,0,0,239,ChIX,Chicago,North America,2010-07-29T00:00:00Z,https://unitedix.net/location/chicago,https://unitedix.net/location/chicago/networks,none,none
+IT,0,0,240,MINAP Milan,Milan,Europe,2010-07-29T00:00:00Z,https://www.minap.it/,,none,none
+NP,0,0,241,npIX PTS,Kathmandu,Asia Pacific,2010-07-29T00:00:00Z,http://www.npix.net.np/,http://www.npix.net.np/graph,none,none
+DE,0,0,248,DE-CIX Munich,Munich,Europe,2010-07-29T00:00:00Z,https://muc.de-cix.net,https://www.de-cix.net/locations/germany/munich/statistics,none,none
+US,0,0,249,KCIX,Kansas City,North America,2010-07-29T00:00:00Z,http://www.kcix.net/,,none,none
+MY,0,0,250,MyIX,Kuala Lumpur,Asia Pacific,2010-07-29T00:00:00Z,http://www.myix.my,,none,none
+CO,0,0,252,NAP Colombia,Bogota,South America,2010-12-11T00:00:00Z,http://nap.co,http://nap.co/html/estadisticas.php,none,none
+EC,0,0,253,NAP.EC - UIO,Quito/UIO,South America,2010-12-11T00:00:00Z,http://www.nap.ec,,none,none
+US,0,0,254,CoreSite - Any2 Denver ,Denver,North America,2010-07-29T00:00:00Z,http://www.coresite.com,,none,none
+FR,0,0,255,Equinix Paris,Paris,Europe,2010-07-29T00:00:00Z,https://www.equinix-ix.fr/,https://ix.equinix.com/,none,none
+US,0,0,256,Digital Realty Phoenix,Phoenix,North America,2010-07-29T00:00:00Z,http://ix.digitalrealty.com,,none,none
+SE,0,0,257,Netnod Lulea,Lulea,Europe,2010-07-29T00:00:00Z,http://www.netnod.se,http://www.netnod.se/ix/statistics/,none,none
+SE,0,0,258,Norrnod,Umea,Europe,2010-07-29T00:00:00Z,http://www.norrnod.se,,none,none
+SX,0,0,260,OCIX,Philipsburg,South America,2013-09-11T00:00:00Z,http://www.ocix.net,,none,none
+SZ,0,0,262,SISPA,Swaziland,Africa,2010-12-11T00:00:00Z,,,none,none
+PL,0,0,264,Equinix Warsaw (PLIX),Warsaw,Europe,2010-07-29T00:00:00Z,http://www.plix.pl/,http://www.plix.pl/en/network/statistic,none,none
+US,0,0,267,DRF IX,Honolulu,North America,2010-07-29T00:00:00Z,http://www.drfortress.com,,none,none
+AU,0,0,269,TransACT IX,Canberra,Australia,2010-07-29T00:00:00Z,http://www.transact.com.au,,none,none
+RO,0,0,270,InterLAN,"Bucharest, Arad, Cluj-Napoca, Constanta, Craiova, Iasi, Suceava, Timisoara",Europe,2010-07-29T00:00:00Z,https://www.interlan.ro/en/,https://ixpm.interlan.ro/statistics/ixp,none,none
+IT,0,0,273,TIX,Sesto Fiorentino - Florence,Europe,2010-07-29T00:00:00Z,http://www.tix.it/,,none,none
+EG,0,0,274,CAIX,Cairo,Middle East,2010-07-29T00:00:00Z,http://www.caix.net.eg/,http://www.caix.net.eg/index.php/technical-info/traffic-statistics,none,none
+BY,0,0,275,BY-IX,Minsk,Europe,2010-07-29T00:00:00Z,http://www.ntec.by,,none,none
+EG,0,0,281,MEIX,Cairo,Middle East,2010-07-29T00:00:00Z,http://www.gpxglobal.net/,,none,none
+UA,0,0,287,Crimea-IX,Simferopol,Europe,2010-07-29T00:00:00Z,http://crimea-ix.net/,,none,none
+AU,0,0,288,ACTIX,"Canberra, ACT",Australia,2010-07-29T00:00:00Z,,,none,none
+DE,0,0,291,ECIX-HAM,Hamburg,Europe,2010-07-29T00:00:00Z,https://www.ecix.net/,https://www.ecix.net/infrastructure/statistics,none,none
+LU,0,0,297,LU-CIX,Luxembourg,Europe,2010-07-29T00:00:00Z,https://www.lu-cix.lu/,,none,none
+NO,0,0,298,NIX2,Oslo,Europe,2010-07-29T00:00:00Z,https://www.nix.no/,https://www.nix.no/statistics/,none,none
+SK,0,0,299,NIX.SK,Bratislava,Europe,2010-07-29T00:00:00Z,https://www.nix.sk/sk,,none,none
+RO,0,0,301,RoNIX,Bucharest,Europe,2010-07-29T00:00:00Z,https://anisp.ro/,https://ronix.ro/,none,none
+HR,0,0,303,CIX,Zagreb,Europe,2010-07-29T00:00:00Z,http://www.cix.hr/,http://www.cix.hr/en/about-cix/traffic-statistics/traffic-summary,none,none
+IT,0,0,311,VSIX,Padova,Europe,2010-07-29T00:00:00Z,http://www.vsix.it/,https://www.vsix.it/en/support/statistics.htm,none,none
+NL,0,0,313,R_iX,Rotterdam,Europe,2010-07-29T00:00:00Z,https://www.r-ix.nl,https://www.r-ix.nl/#Traffic,none,none
+BR,0,0,314,IX.br (PTT.br) Londrina,Londrina/PR,South America,2010-07-29T00:00:00Z,http://ix.br,http://ix.br/trafego/agregado/lda,none,none
+IE,0,0,316,ExWest,Galway,Europe,2010-07-29T00:00:00Z,http://www.exwest.net/,,none,none
+PH,0,0,317,GIX,Makati City,Asia Pacific,2010-07-29T00:00:00Z,http://www.globe.com.ph/business,,none,none
+SI,0,0,319,SIX SI,Ljubljana,Europe,2010-07-29T00:00:00Z,https://www.arnes.si/infrastructure/six-slovenian-internet-exchange/,https://www.arnes.si/infrastructure/six-slovenian-internet-exchange/six-traffic/,none,none
+GB,0,0,321,LINX LON2,London,Europe,2010-07-29T00:00:00Z,http://www.linx.net/,https://stats.linx.net/,none,none
+US,0,0,322,Digital Realty Dallas,Dallas,North America,2010-07-29T00:00:00Z,http://ix.digitalrealty.com,,none,none
+US,0,0,325,Digital Realty New York,New York/New Jersey,North America,2010-07-29T00:00:00Z,http://ix.digitalrealty.com,,none,none
+BG,0,0,326,B-IX,Sofia,Europe,2010-07-29T00:00:00Z,http://www.b-ix.net/,http://www.b-ix.net/technical/statistics/,none,none
+UA,0,0,327,DTEL-IX,Kiev,Europe,2010-07-29T00:00:00Z,https://dtel-ix.net/en/,https://dtel-ix.net/en/st,none,none
+FI,0,0,328,TREX,Tampere,Europe,2010-07-29T00:00:00Z,http://www.trex.fi/,https://stats-trex.basen.com/,none,none
+BG,0,0,331,BIX.BG,Sofia,Europe,2010-07-29T00:00:00Z,http://www.bix.bg/,http://www.bix.bg/en/technical_information/traffic_statistics.html,none,none
+US,0,0,332,CoreSite - Any2 New York,New York,North America,2010-07-29T00:00:00Z,http://www.coresite.com,,none,none
+US,0,0,333,CoreSite - Any2 Boston,Boston,North America,2010-07-29T00:00:00Z,http://www.coresite.com,,none,none
+KZ,0,0,334,KAZ-IX,Almaty,Asia Pacific,2010-07-29T00:00:00Z,http://www.kaz-ix.kz/web/,,none,none
+FR,0,0,336,TOUIX,Toulouse,Europe,2010-07-29T00:00:00Z,http://www.touix.net/,,none,none
+US,0,0,338,CoreSite - Any2 Silicon Valley,"San Jose, CA",North America,2010-07-29T00:00:00Z,http://www.coresite.com,,none,none
+RU,0,0,340,ULN-IX,Ulyanovsk,Europe,2010-07-29T00:00:00Z,http://www.uln-ix.ru/,,none,none
+ZA,0,0,344,CINX,Cape Town,Africa,2010-07-29T00:00:00Z,https://www.inx.net.za,,none,none
+GR,0,0,347,GR-IX::Athens,Athens,Europe,2010-07-29T00:00:00Z,http://www.gr-ix.gr/,http://www.gr-ix.gr/traffic/,none,none
+NZ,0,0,348,WIX-NZ,Wellington,Australia,2010-07-29T00:00:00Z,http://wix.nzix.net/,,none,none
+NZ,0,0,349,CHIX-NZ,Christchurch,Australia,2010-07-29T00:00:00Z,http://chix.nzix.net/,,none,none
+RU,0,0,350,MSK-IX Ekaterinburg,Ekaterinburg,Asia Pacific,2010-07-29T00:00:00Z,http://www.msk-ix.ru/en/ix/ekt,http://www.msk-ix.ru/en/traffic,none,none
+CA,0,0,355,QIX,Montreal,North America,2010-07-29T00:00:00Z,https://www.qix.ca/?lang=en,https://www.qix.ca/network?lang=en,none,none
+RU,0,0,358,DATAIX,"Frankfurt, Stockholm, Helsinki, Amsterdam, St.Petersburg, Moscow, Ekaterinburg, Ufa, Novosibirsk, Omsk, Khabarovsk,Kiev, Kharkov, Odessa",Europe,2010-07-29T00:00:00Z,http://www.dataix.ru,http://graphs.dataix.ru/total.png,none,none
+FR,0,0,359,France-IX Paris,Paris,Europe,2010-07-29T00:00:00Z,https://www.franceix.net,https://tools.franceix.net/pops,none,none
+TZ,0,0,361,TIX Tanzania - Dar es Salaam,Dar es Salaam,Africa,2010-07-29T00:00:00Z,http://tix.or.tz/,https://stats.tix.or.tz/,none,none
+US,0,0,363,SUPRnet,Saint George,North America,2010-07-29T00:00:00Z,https://suprnet.net,,none,none
+LV,0,0,364,SMILE-IXP,Riga,Europe,2010-07-29T00:00:00Z,http://www.smile-ixp.net,,none,none
+CW,0,0,366,AMS-IX Caribbean,Curacao,South America,2013-05-12T00:00:00Z,http://www.ams-ix.cw/,https://cw.ams-ix.net/technical--2/statistics,none,none
+PT,0,0,368,GigaPIX Oporto,Oporto,Europe,2010-07-29T00:00:00Z,http://www.gigapix.pt,,none,none
+RO,0,0,372,Balcan-IX,Bucharest,Europe,2010-07-29T00:00:00Z,http://www.balcan-ix.net,http://balcan-ix.net/new/en/traffic-statistics/,none,none
+CA,0,0,373,Equinix Toronto,Toronto,North America,2010-07-29T00:00:00Z,https://ix.equinix.com,,none,none
+ID,0,0,375,OpenIXP / NiCE,Indonesia,Asia Pacific,2010-07-29T00:00:00Z,http://www.openixp.net,,none,none
+AT,0,0,377,AAIX,Klagenfurt,Europe,2010-07-29T00:00:00Z,,,none,none
+RU,0,0,378,MSK-IX Vladivostok,Vladivostok,Asia Pacific,2010-07-29T00:00:00Z,http://www.msk-ix.ru/en/ix/vlv,http://www.msk-ix.ru/en/traffic,none,none
+RU,0,0,379,MSK-IX Samara,Samara,Europe,2010-07-29T00:00:00Z,http://www.msk-ix.ru/en/ix/smr,http://www.msk-ix.ru/en/traffic,none,none
+RU,0,0,380,MSK-IX Rostov-on-Don,Rostov-on-Don,Europe,2010-07-29T00:00:00Z,http://www.msk-ix.ru/en/ix/rnd,http://www.msk-ix.ru/en/traffic/,none,none
+RE,0,0,381,REUNIX,"Saint-Denis, La Reunion",Africa,2010-07-29T00:00:00Z,http://www.renater.fr/spip.php?rubrique280,,none,none
+LV,0,0,383,LIX-LV,Riga,Europe,2010-07-29T00:00:00Z,http://www.lix.lv,http://www.lix.lv/site/load,none,none
+IE,0,0,387,INEX LAN2,Dublin,Europe,2010-07-29T00:00:00Z,https://www.inex.ie/,https://www.inex.ie/ixp/statistics/ixp,none,none
+MD,0,0,392,MD-IX,Chisinau,Europe,2010-07-29T00:00:00Z,http://www.moldtelecom.md,,none,none
+IL,0,0,393,IIX Israel,Petah Tikva,Middle East,2010-07-29T00:00:00Z,http://www.iix.net.il,,none,none
+RU,0,0,398,MSK-IX Kazan,Kazan,Europe,2010-07-29T00:00:00Z,http://www.msk-ix.ru/en/ix/kzn,http://www.msk-ix.ru/en/traffic/,none,none
+LT,0,0,400,LIPTAM,Vilnius,Europe,2010-07-29T00:00:00Z,http://is.lt/,,none,none
+FR,0,0,410,FR-IX,Paris,Europe,2010-07-29T00:00:00Z,http://www.fr-ix.fr,,none,none
+BR,0,0,415,IX.br (PTT.br) Campinas,Campinas/SP,South America,2010-07-31T00:00:00Z,http://ix.br,http://ix.br/trafego/agregado/cas,none,none
+AO,0,0,421,Angola IXP,Luanda,Africa,2010-08-18T00:00:00Z,http://www.angola-ixp.ao/,,none,none
+UG,0,0,422,UIXP,Kampala,Africa,2010-08-18T00:00:00Z,https://uixp.co.ug/,https://portal.uixp.co.ug/public-statistics/public,none,none
+RS,0,0,424,SOX Serbia,Belgrade/Serbia,Europe,2010-09-26T00:00:00Z,http://www.sox.rs,,none,none
+US,0,0,428,NASA-AIX,"Mountain View, CA",North America,2010-08-28T00:00:00Z,http://www.nasa.gov/centers/ames,,none,none
+SG,0,0,429,SGIX,Singapore,Asia Pacific,2010-09-10T00:00:00Z,https://www.sgix.sg,https://www.sgix.sg/traffic-statistics/,none,none
+AT,0,0,430,GraX,Graz,Europe,2010-09-14T00:00:00Z,http://www.grax.at/,http://www.grax.at/traffic/,none,none
+GB,0,0,435,IX Leeds,Leeds / Western Yorkshire,Europe,2010-09-21T00:00:00Z,http://ixleeds.net,http://ixleeds.net/graphs.php,none,none
+US,0,0,446,MICE,"Minneapolis, MN",North America,2010-10-09T00:00:00Z,http://www.micemn.net,http://micelg.usinternet.com/export/,none,none
+ID,0,0,452,BIX Jakarta,Jakarta,Asia Pacific,2010-10-30T00:00:00Z,,,none,none
+NO,0,0,453,FIXO,Oslo,Europe,2010-11-03T00:00:00Z,http://www.fixo.no,,none,none
+GU,0,0,463,GU-IX,Guam,Asia Pacific,2010-12-09T00:00:00Z,http://www.gu-ix.net,http://www.gu-ix.net/stats/,none,none
+ID,0,0,469,MCIX - Matrix Networks,Jakarta,Asia Pacific,2010-12-08T00:00:00Z,http://www.nap.net.id,,none,none
+PL,0,0,474,EPIX.Warszawa-KIX,Warsaw,Europe,2011-01-15T00:00:00Z,http://www.epix.net.pl/,http://www.epix.net.pl/narzedzia/statystyki-epix/#epix-katowice-stats,none,none
+US,0,0,476,AZIX,Phoenix,North America,2011-03-05T00:00:00Z,,,none,none
+CZ,0,0,477,CBIX,Brno,Europe,2011-01-25T00:00:00Z,http://www.cbix.cz/en/,,none,none
+PL,0,0,481,Thinx,Warsaw,Europe,2011-02-06T00:00:00Z,http://www.atman.pl,https://portal.atman.pl/stats/acx.jsf,none,none
+PL,0,0,482,TPIX,Warsaw,Europe,2011-02-06T00:00:00Z,http://www.tpix.pl/en,http://www.tpix.pl/en/statystyki_en.html,none,none
+CY,0,0,487,CyIX,Nicosia / Cyprus,Europe,2011-02-23T00:00:00Z,http://www.cytanet.com.cy/network/cyix/,,none,none
+NG,0,0,488,IXPN Lagos,Lagos,Africa,2011-03-03T00:00:00Z,http://www.ixp.net.ng,http://rt1.ixp.net.ng/mrtg/totalixpnlagos.html,none,none
+PL,0,0,491,EPIX.Katowice,Katowice/Silesia,Europe,2011-03-25T00:00:00Z,http://www.epix.net.pl/,http://www.epix.net.pl/narzedzia/statystyki-epix/#epix-katowice-stats,none,none
+FI,0,0,492,FICIX 3 (Oulu),Oulu,Europe,2011-03-19T00:00:00Z,http://www.ficix.fi/,http://stats.ficix.fi/,none,none
+US,0,0,496,BNIIX,Buffalo,North America,2011-05-04T00:00:00Z,http://www.bniix.net,,none,none
+PL,0,0,498,GIX Gdansk,Gdansk,Europe,2011-04-09T00:00:00Z,http://www.gix.gda.pl,,none,none
+US,0,0,499,MKE-IX,Milwaukee,North America,2011-06-02T00:00:00Z,http://www.mkeix.net,http://www.mkeix.net/stats,none,none
+CA,0,0,506,GTIIX,Toronto,North America,2011-05-04T00:00:00Z,http://www.iixnetworx.net/peer/our-ixps/gtiix/,,none,none
+RU,0,0,512,PIRIX,St.Petersburg,Europe,2011-05-12T00:00:00Z,http://www.pirix.ru,http://pirix.ru/statistics/,none,none
+AU,0,0,513,IX Australia VIC,Melbourne/Victoria,Australia,2011-05-12T00:00:00Z,http://www.waia.asn.au,https://metrics.ix.asn.au,none,none
+US,0,0,514,COIX,Bend Oregon,North America,2011-05-14T00:00:00Z,http://www.centraloregonix.org,,none,none
+PL,0,0,524,CePIX.pl,Mogilno,Europe,2011-06-26T00:00:00Z,http://cepix.pl/,,none,none
+LT,0,0,526,LIXP,Vilnius,Europe,2011-08-05T00:00:00Z,http://www.lixp.lt/en/,http://www.lixp.lt/en/network/stat,none,none
+MZ,0,0,528,MOZIX,Maputo,Africa,2011-08-09T00:00:00Z,http://www.mozix.org.mz,http://www.mozix.org.mz/mrtg,none,none
+RU,0,0,529,KRS-IX,Krasnoyarsk,Europe,2011-08-23T00:00:00Z,http://www.krs-ix.ru,,none,none
+EE,0,0,538,RTIX,Tallinn,Europe,2011-11-10T00:00:00Z,https://www.ria.ee/en.html,,none,none
+LT,0,0,542,Litix,Vilnius,Europe,2011-11-10T00:00:00Z,http://datalogistics.lt/en/node/99,,none,none
+LI,0,0,543,Rheintal IX,"Eschen/LI, Feldkirch/AT, St. Gallen/CH",Europe,2011-12-06T00:00:00Z,http://www.rheintal-ix.net,http://www.rheintal-ix.net/traffic/,none,none
+BR,0,0,556,IX.br (PTT.br) Salvador,Salvador/BA,South America,2012-01-16T00:00:00Z,http://ix.br,http://ix.br/trafego/agregado/ba,none,none
+BR,0,0,558,IX.br (PTT.br) Caxias do Sul,Caxias do Sul/RS,South America,2012-01-24T00:00:00Z,http://ix.br,http://ix.br/trafego/agregado/cxj,none,none
+SK,0,0,559,SIX.SK Košice,Košice,Europe,2012-01-30T00:00:00Z,http://www.six.sk,http://www.six.sk/statske,none,none
+US,0,0,563,JXIX,Jacksonville,North America,2012-01-30T00:00:00Z,http://jxix.org,,none,none
+JP,0,0,564,JPIX OSAKA,Osaka,Asia Pacific,2012-02-02T00:00:00Z,https://www.jpix.ad.jp/en/,https://www.jpix.ad.jp/en/technical_traffic.php,none,none
+US,0,0,565,Boston Internet Exchange,"Boston, Massachusetts",North America,2012-02-03T00:00:00Z,http://www.bostonix.net/,,none,none
+NZ,0,0,566,PNIX,Palmerston North,Australia,2012-02-09T00:00:00Z,http://pnix.nzix.net/,,none,none
+HT,0,0,573,HIX Haiti,Port-au-Prince,South America,2012-03-05T00:00:00Z,,,none,none
+BR,0,0,575,IX.br (PTT.br) Goiânia,Goiânia/GO,South America,2012-03-25T00:00:00Z,http://ix.br,http://ix.br/trafego/agregado/gyn,none,none
+AU,0,0,576,IX Australia QLD,Brisbane/Queensland,Australia,2012-03-22T00:00:00Z,http://www.ix.asn.au,https://metrics.ix.asn.au,none,none
+HK,0,0,577,AMS-IX Hong Kong,Hong Kong,Asia Pacific,2012-03-28T00:00:00Z,http://www.ams-ix.hk,http://www.ams-ix.hk/total-traffic-statistics,none,none
+RU,0,0,580,MSK-IX Stavropol,Stavropol,Europe,2012-05-23T00:00:00Z,http://www.msk-ix.ru/en/ix/stw,http://www.msk-ix.ru/en/traffic,none,none
+NO,0,0,582,BIX Bergen,Bergen,Europe,2012-05-24T00:00:00Z,https://www.nix.no/,https://www.nix.no/statistics/,none,none
+GB,0,0,583,LINX Manchester,Manchester,Europe,2012-06-02T00:00:00Z,http://www.linx.net,http://portal.linx.net,none,none
+AE,0,0,587,UAE-IX,Dubai,Middle East,2012-06-12T00:00:00Z,http://www.uae-ix.net,http://www.uae-ix.net/about-uae-ix/statistics/,none,none
+ZA,0,0,592,NAPAfrica IX Johannesburg,Johannesburg,Africa,2012-07-19T00:00:00Z,https://www.napafrica.net,https://www.napafrica.net/napafrica-traffic/,none,none
+ZA,0,0,597,NAPAfrica IX Cape Town,Cape Town,Africa,2012-07-27T00:00:00Z,http://www.teraco.co.za,http://www.napafrica.net/napafrica-traffic/,none,none
+IN,0,0,598,NIXI Hyderabad,Hyderabad,Asia Pacific,2012-07-27T00:00:00Z,http://www.nixi.in,,none,none
+JP,0,0,602,Echigo-IX,Niigata,Asia Pacific,2012-07-30T00:00:00Z,http://www.echigo-ix.jp/,,none,none
+BR,0,0,603,IX.br (PTT.br) Campina Grande,Campina Grande/PB,South America,2012-07-30T00:00:00Z,http://ix.br,http://ix.br/trafego/agregado/cpv,none,none
+ID,0,0,606,C2IX,Jakarta,Asia Pacific,2012-09-24T00:00:00Z,http://www.cyber2dc.com,,none,none
+MN,0,0,607,MIX MNDC,Ulaanbaatar,Asia Pacific,2012-08-26T00:00:00Z,https://datacenter.gov.mn,,none,none
+ZA,0,0,610,DINX,Durban,Africa,2012-09-24T00:00:00Z,https://www.inx.net.za/,,none,none
+ZM,0,0,615,LuIXP,Lusaka,Africa,2012-10-06T00:00:00Z,http://www.ispa.org.zm,,none,none
+US,0,0,624,TP-IX,Duluth,North America,2012-11-05T00:00:00Z,http://tp-ix.net,,none,none
+ID,0,0,626,IIX-Surabaya,Surabaya,Asia Pacific,2012-11-12T00:00:00Z,http://www.iix.net.id,,none,none
+US,0,0,627,SNAP,Atlanta,North America,2012-11-20T00:00:00Z,http://www.southeastnap.com/,http://www.southeastnap.com/about_us/statistics/,none,none
+CD,0,0,628,KINIX,Kinshasa,Africa,2012-11-20T00:00:00Z,http://www.ispa-drc.cd,http://www.ispa-drc.cd,none,none
+AU,0,0,631,PacificIX,Sydney,Australia,2012-12-06T00:00:00Z,http://www.vocus.com.au/pacificix/,,none,none
+RU,0,0,633,Sea-IX,Krasnodar,Europe,2012-12-06T00:00:00Z,http://sea-ix.ru/,,none,none
+RU,0,0,635,OMSK-IX,Omsk,Europe,2012-12-11T00:00:00Z,http://omsk-ix.ru/,,none,none
+BR,0,0,638,IX.br (PTT.br) São José dos Campos,Sao José dos Campos/SP,South America,2012-12-17T00:00:00Z,http://ix.br,http://ix.br/trafego/agregado/sjc,none,none
+CA,0,0,639,YYCIX,Calgary,North America,2013-01-02T00:00:00Z,http://yycix.ca,http://yycix.ca/graphs.html,none,none
+US,0,0,640,GCIIX,Chicago,North America,2012-12-22T00:00:00Z,http://www.gciix.net,,none,none
+UA,0,0,655,GigaNET,Kiev,Europe,2013-02-24T00:00:00Z,http://giganet.ua/en,http://giganet.ua/en/statistics,none,none
+US,0,0,662,Phoenix IX,Phoenix,North America,2013-03-12T00:00:00Z,http://www.phoenix-ix.net,http://phoenix-ix.net/traffic.html,none,none
+US,0,0,672,CyrusOne IX Dallas,Dallas,North America,2013-04-09T00:00:00Z,http://www.cyrusone.com,,none,none
+US,0,0,673,CyrusOne IX Houston,Houston,North America,2013-04-09T00:00:00Z,http://www.cyrusone.com,,none,none
+US,0,0,674,CyrusOne IX Austin,Austin,North America,2013-04-09T00:00:00Z,http://www.cyrusone.com,,none,none
+US,0,0,675,CyrusOne IX San Antonio,San Antonio,North America,2013-04-09T00:00:00Z,http://www.cyrusone.com,,none,none
+DE,0,0,676,ECIX-FRA,Frankfurt,Europe,2013-04-09T00:00:00Z,https://www.ecix.net,https://www.ecix.net/infrastructure/statistics,none,none
+RU,0,0,683,YAR-IX,Yaroslavl,Europe,2013-05-02T00:00:00Z,http://yar-ix.net,http://yar-ix.net/network/stat/,none,none
+AU,0,0,691,IX Australia SA,Adelaide,Australia,2013-05-02T00:00:00Z,http://www.ix.asn.au,https://metrics.ix.asn.au,none,none
+GH,0,0,694,GIXA,Accra,Africa,2013-05-15T00:00:00Z,http://www.gixa.org.gh,http://www.gixa.org.gh/trafficgraph.html,none,none
+BG,0,0,699,NetIX,Sofia,Europe,2013-05-26T00:00:00Z,http://www.netix.net,http://212.73.140.125/summary/,none,none
+CA,0,0,703,MBIX,"Winnipeg, Manitoba",North America,2013-06-01T00:00:00Z,http://www.mbix.ca/,http://www.mbix.ca/statistics/,none,none
+BR,0,0,705,IX.br (PTT.br) Recife,Recife/PE,South America,2013-06-15T00:00:00Z,http://ix.br,http://ix.br/trafego/agregado/pe,none,none
+BR,0,0,706,IX.br (PTT.br) Vitória,Vitória/ES,South America,2013-06-15T00:00:00Z,http://ix.br,http://ix.br/trafego/agregado/vix,none,none
+BR,0,0,707,IX.br (PTT.br) Manaus,Manaus/AM,South America,2013-06-15T00:00:00Z,http://ix.br,http://ix.br/trafego/agregado/mao,none,none
+BR,0,0,708,IX.br (PTT.br) Natal,Natal/RN,South America,2013-06-15T00:00:00Z,http://ix.br,http://ix.br/trafego/agregado/nat,none,none
+BR,0,0,709,IX.br (PTT.br) São José do Rio Preto,São José do Rio Preto/SP,South America,2013-06-15T00:00:00Z,http://ix.br,http://ix.br/trafego/agregado/sjp,none,none
+BR,0,0,710,IX.br (PTT.br) Fortaleza,Fortaleza/CE,South America,2013-06-16T00:00:00Z,http://ix.br,http://ix.br/trafego/agregado/ce,none,none
+BR,0,0,711,IX.br (PTT.br) Belém,Belém/PA,South America,2013-06-16T00:00:00Z,http://ix.br,http://ix.br/trafego/agregado/bel,none,none
+CZ,0,0,713,Peering.cz,"Prague, Bratislava, Vienna",Europe,2013-06-23T00:00:00Z,http://www.peering.cz,http://www.peering.cz/traffic,none,none
+AU,0,0,716,IX Australia NSW,Sydney/NSW,Australia,2013-06-25T00:00:00Z,http://www.ix.asn.au,https://metrics.ix.asn.au,none,none
+MW,0,0,727,MIX-BT,Blantyre,Africa,2013-07-26T00:00:00Z,http://www.mispa.org.mw/,,none,none
+GB,0,0,745,LINX Scotland,Scotland,Europe,2013-08-20T00:00:00Z,http://www.linx.net,http://portal.linx.net,none,none
+US,0,0,760,CyrusOne IX Phoenix,Phoenix,North America,2013-09-09T00:00:00Z,http://www.cyrusone.com,,none,none
+DE,0,0,762,DO-IX,Dortmund,Europe,2013-09-16T00:00:00Z,https://www.do-ix.net,,none,none
+UA,0,0,766,DN-IX,Donetsk,Europe,2013-09-18T00:00:00Z,http://ix.dn.ua,,none,none
+CA,0,0,776,WPGIX,Winnipeg,North America,2013-10-06T00:00:00Z,http://wpgix.net/,http://wpgix.net/ix-daily.png,none,none
+US,0,0,777,LINX NoVA,Northern Virginia,North America,2013-10-10T00:00:00Z,https://www.linx.net/linx-nova,https://stats.linx.net/lans#nva1,none,none
+PL,0,0,778,CIX KR,Krakow,Europe,2013-10-11T00:00:00Z,http://www.ix.krakow.pl/,,none,none
+AU,0,0,779,MegaIX Melbourne,Melbourne,Australia,2013-10-25T00:00:00Z,https://megaport.com,https://www.megaport.com/services/ix-statistics/,none,none
+AU,0,0,780,MegaIX Sydney,Sydney,Australia,2013-10-25T00:00:00Z,https://megaport.com,https://www.megaport.com/services/ix-statistics/,none,none
+AU,0,0,781,MegaIX Brisbane,Brisbane,Australia,2013-10-25T00:00:00Z,https://megaport.com,https://www.megaport.com/services/ix-statistics/,none,none
+JP,0,0,786,BBIX Osaka,Osaka,Asia Pacific,2013-10-16T00:00:00Z,http://www.bbix.net/,,none,none
+BR,0,0,790,IX.br (PTT.br) Lajeado,Lajeado/RS,South America,2013-10-22T00:00:00Z,http://ix.br/,http://ix.br/trafego/agregado/laj,none,none
+DE,0,0,796,BREM-IX,Bremen,Europe,2013-11-02T00:00:00Z,http://www.brem-ix.net/,http://www.brem-ix.net/traffic,none,none
+US,0,0,804,DE-CIX New York,New York,North America,2013-11-13T00:00:00Z,https://www.de-cix.net/locations/united-states/new-york,https://www.de-cix.net/locations/united-states/new-york/statistics,none,none
+US,0,0,809,OmahaIX,Omaha,North America,2013-11-26T00:00:00Z,http://www.omahaix.com,,none,none
+CI,0,0,810,CIVIX,Abidjan,Africa,2013-12-06T00:00:00Z,http://www.civix.ci,http://stats.civix.ci/cacti/graph_view.php,none,none
+RU,0,0,815,NNOV-IX,Nizhny Novgorod,Europe,2013-12-11T00:00:00Z,http://ix-nnov.ru/,,none,none
+BR,0,0,818,IX.br (PTT.br) Maringá,Maringá/PR,South America,2014-01-08T00:00:00Z,http://ix.br/,http://ix.br/trafego/agregado/mgf,none,none
+RU,0,0,822,Sibir-IX,Krasnoyarsk,Europe,2014-01-20T00:00:00Z,http://www.sibir-ix.ru/provider,,none,none
+TW,0,0,823,TPIX-TW,Taipei/Taiwan,Asia Pacific,2014-01-26T00:00:00Z,http://www.tpix.net.tw/,http://www.tpix.net.tw/traffic.html,none,none
+PL,0,0,828,RZ-IX,Rzeszow,Europe,2014-02-06T00:00:00Z,,,none,none
+US,0,0,829,SLIX - Salt Lake City Internet Exchange,Salt Lake City,North America,2014-02-16T00:00:00Z,http://slix.net,,none,none
+IN,0,0,832,Mumbai IX,Mumbai,Asia Pacific,2014-02-19T00:00:00Z,https://www.mumbai-ix.net,https://www.mumbai-ix.net/en/graph,none,none
+US,0,0,833,TPAIX,Tampa,North America,2014-02-22T00:00:00Z,http://www.tpaix.net,,none,none
+BO,0,0,842,IXP-ML,LA PAZ,South America,2014-03-12T00:00:00Z,http://www.megalink.com/ixp,,none,none
+AM,0,0,851,ArmIX,Yerevan,Europe,2014-04-06T00:00:00Z,http://armix.am,http://mrtg.armix.am/mrtg1/,none,none
+KH,0,0,854,HTN-IX,Phnom Penh,Asia Pacific,2014-04-09T00:00:00Z,http://www.htnetworks.com.kh/,,none,none
+BR,0,0,859,IX.br (PTT.br) Cuiabá,Cuiabá/MT,South America,2014-04-25T00:00:00Z,http://ix.br,http://ix.br/trafego/agregado/cgb,none,none
+CA,0,0,863,VANIX,Vancouver,North America,2014-05-02T00:00:00Z,http://www.vanix.ca,,none,none
+CZ,0,0,864,BR-IX,Brno,Europe,2014-05-05T00:00:00Z,http://www.br-ix.cz,http://br-ix.cz/stats.png,none,none
+AE,0,0,866,SH-IX,Fujairah,Middle East,2014-05-12T00:00:00Z,http://www.smarthubix.ae/,,none,none
+DE,0,0,867,OCIX Frankfurt,Frankfurt,Europe,2014-05-14T00:00:00Z,http://www.opencarrier.eu/,,none,none
+US,0,0,869,OhioIX,Ohio,North America,2014-05-26T00:00:00Z,http://ohioix.net,,none,none
+RU,0,0,876,RED-IX,Krasnoyarsk,Europe,2014-06-16T00:00:00Z,http://webra.ru,http://www.red-ix.ru/members/statistics,none,none
+FR,0,0,880,France-IX Marseille,Marseille,Europe,2014-06-16T00:00:00Z,https://www.franceix.net/en/france-ix-marseille/,https://tools.franceix.net/pops,none,none
+FR,0,0,881,Lillix,Lille/North of France,Europe,2014-06-17T00:00:00Z,http://www.lillix.fr,,none,none
+AR,0,0,904,CABASE-LPL - IX Argentina (La Plata),La Plata,South America,2014-07-28T00:00:00Z,http://www.cabase.org.ar,,none,none
+CA,0,0,906,HFXIX,Halifax,North America,2014-07-30T00:00:00Z,http://www.aixp.ca,,none,none
+SG,0,0,909,BBIX Singapore,Singapore,Asia Pacific,2014-11-12T00:00:00Z,http://www.bbix.net/en/,,none,none
+AR,0,0,911,CABASE-POS - IX Argentina (Posadas),Posadas,South America,2014-08-02T00:00:00Z,http://www.cabase.org.ar/,,none,none
+ID,0,0,916,CitranetIX,Yogyakarta,Asia Pacific,2014-08-15T00:00:00Z,http://www.citra.net.id/,,none,none
+NA,0,0,922,IXP Namibia,Windhoek,Africa,2014-08-26T00:00:00Z,http://dev.ixp.org.na/,http://dev.ixp.org.na/graphs/,none,none
+AR,0,0,930,CABASE-NQN - IX Argentina (Neuquen),Neuquén,South America,2014-09-29T00:00:00Z,http://www.cabase.org.ar/,,none,none
+US,0,0,935,AMS-IX BA,"San Francisco, San Jose",North America,2014-09-18T00:00:00Z,http://bay.ams-ix.net,,none,none
+US,0,0,938,TahoeIX,Northern Nevada,North America,2014-09-29T00:00:00Z,http://www.tahoeix.org,http://www.tahoeix.org#stats,none,none
+TT,0,0,940,TTIX,Barataria,South America,2014-09-29T00:00:00Z,https://ix.tt,https://ix.tt/statistics,none,none
+US,0,0,944,AMS-IX Chicago,Chicago,North America,2014-09-29T00:00:00Z,https://chi.ams-ix.net,https://chi.ams-ix.net/statistics,none,none
+AR,0,0,945,CABASE-ROS - IX Argentina (Rosario),Rosario,South America,2014-09-29T00:00:00Z,http://www.cabase.org.ar/,,none,none
+JP,0,0,948,Equinix Osaka,Osaka,Asia Pacific,2014-10-06T00:00:00Z,https://www.equinix.co.jp/,,none,none
+US,0,0,954,FL-IX,Miami,North America,2014-10-08T00:00:00Z,http://www.communityix.org/index.php/about-fl-ix/,https://my.fl-ix.net/ixp_peering-flix-agg-bits-month.png,none,none
+US,0,0,957,MiamiIX,"Miami, Florida",North America,2014-10-16T00:00:00Z,http://www.miamiix.net,,none,none
+SG,0,0,965,MegaIX Singapore,Singapore,Asia Pacific,2014-10-23T00:00:00Z,https://megaport.com,https://www.megaport.com/services/ix-statistics/,none,none
+DJ,0,0,967,DjIX,Djibouti,Africa,2014-11-02T00:00:00Z,http://www.djiboutidatacenter.com/,,none,none
+ZA,0,0,969,NAPAfrica IX Durban,Durban,Africa,2014-11-02T00:00:00Z,http://www.napafrica.net/napafrica-traffic/durban-internet-exchange/,http://www.napafrica.net/napafrica-traffic/,none,none
+VU,0,0,971,VIX.VU,Port Vila,Asia Pacific,2014-11-02T00:00:00Z,http://vix.vu,,none,none
+AU,0,0,976,IX Australia ACT,Canberra/ACT,Australia,2014-11-05T00:00:00Z,http://www.ix.asn.au,https://metrics.ix.asn.au,none,none
+NZ,0,0,977,AKL-IX,Auckland,Australia,2014-11-05T00:00:00Z,http://www.ix.nz,https://metrics.ix.nz/,none,none
+ID,0,0,983,UNY-IX,Yogyakarta,Asia Pacific,2014-12-16T00:00:00Z,http://puskom.uny.ac.id,,none,none
+NZ,0,0,984,MegaIX Auckland,Auckland,Australia,2014-11-26T00:00:00Z,https://megaport.com,https://www.megaport.com/services/ix-statistics/,none,none
+GB,0,0,985,IX Brighton,Brighton,Europe,2014-12-01T00:00:00Z,http://www.ixbrighton.com,,none,none
+US,0,0,986,MidWest-IX - Indy,"Indianapolis, Indiana",North America,2014-11-26T00:00:00Z,http://www.midwest-ix.com,,none,none
+PS,0,0,993,PIX Palestine,Ramallah,Middle East,2014-12-16T00:00:00Z,http://www.pix.ps,,none,none
+US,0,0,1002,RVA-IX,Ashland,North America,2014-12-29T00:00:00Z,http://rva-ix.net,,none,none
+US,0,0,1006,DET-IX,Detroit,North America,2015-01-12T00:00:00Z,http://www.detroitix.com,http://stats.detroitix.com,none,none
+AO,0,0,1007,angonix,Luanda,Africa,2015-01-12T00:00:00Z,http://angonix.net/,http://angonix.net/about-angonix/statistics/,none,none
+AT,0,0,1009,Tirol-IX,Innsbruck/Tirol,Europe,2015-01-13T00:00:00Z,http://tirol-ix.at/,http://tirol-ix.at/,none,none
+BD,0,0,1013,NOVO NIX,Dhaka,Asia Pacific,2015-01-20T00:00:00Z,http://www.novonix.net.bd,,none,none
+GB,0,0,1016,LINX Cardiff,Cardiff,Europe,2015-01-30T00:00:00Z,https://www.linx.net/,http://portal.linx.net,none,none
+BJ,0,0,1017,BENIN-IX,Cotonou,Africa,2015-01-30T00:00:00Z,http://www.benin-ix.org.bj,,none,none
+FR,0,0,1019,AuvernIX,Clermont-Ferrand,Europe,2015-01-30T00:00:00Z,http://www.auvernix.org,http://www.auvernix.org/nos-outils/,none,none
+CR,0,0,1023,CRIX,San Jose,North America,2015-02-07T00:00:00Z,https://www.crix.cr/,https://www.crix.cr/estadisticas,none,none
+TH,0,0,1025,BKNIX,Bangkok,Asia Pacific,2015-02-16T00:00:00Z,https://bknix.co.th,https://bknix.co.th/en/statistics,none,none
+AU,0,0,1026,Equinix Melbourne,Melbourne,Australia,2015-02-16T00:00:00Z,https://ix.equinix.com,,none,none
+PE,0,0,1028,Nap Peru,Lima,South America,2015-02-22T00:00:00Z,http://www.nap.pe,,none,none
+RW,0,0,1032,RINEX,Kigali,Africa,2015-03-02T00:00:00Z,http://www.rinex.org.rw,http://rinex.org.rw/spip.php?page=aggregate_traffic,none,none
+US,0,0,1038,NashIX,Nashville,North America,2015-03-12T00:00:00Z,http://nashix.net,,none,none
+FR,0,0,1040,NormandIX,Normandy ,Europe,2015-04-06T00:00:00Z,,,none,none
+EC,0,0,1042,NAP.EC - GYE,Guayaquil/GYE,South America,2015-03-13T00:00:00Z,http://www.nap.ec,,none,none
+CG,0,0,1046,CGIX,Brazzaville,Africa,2015-08-14T00:00:00Z,http://www.cgix-congo.cg,,none,none
+ID,0,0,1054,TransIX Network,Jakarta,Asia Pacific,2015-04-06T00:00:00Z,http://transhybrid.net.id,,none,none
+BG,0,0,1056,MegaIX Sofia,Sofia,Europe,2015-04-06T00:00:00Z,https://megaport.com,https://www.megaport.com/services/ix-statistics/,none,none
+AR,0,0,1066,CABASE-BHB - IX Argentina (Bahia Blanca),Bahía Blanca,South America,2015-04-16T00:00:00Z,http://www.cabase.org.ar/,,none,none
+AR,0,0,1067,CABASE-COR - IX Argentina (Cordoba),Córdoba,South America,2015-04-16T00:00:00Z,,,none,none
+AR,0,0,1068,CABASE-DLC - IX Argentina (Santa Teresita),De La Costa,South America,2015-04-16T00:00:00Z,http://www.cabase.org.ar/,,none,none
+AR,0,0,1069,CABASE-MDQ - IX Argentina (Mar del Plata),Mar Del Plata,South America,2015-04-16T00:00:00Z,http://www.cabase.org.ar/,,none,none
+AR,0,0,1070,CABASE-MZA - IX Argentina (Mendoza),Mendoza,South America,2015-04-16T00:00:00Z,http://www.cabase.org.ar/,,none,none
+AR,0,0,1071,CABASE-PMY - IX Argentina (Puerto Madryn),Puerto Madryn,South America,2015-04-16T00:00:00Z,http://www.cabase.org.ar/,,none,none
+AR,0,0,1072,CABASE-SFE - IX Argentina (Santa Fe),Santa Fe,South America,2015-04-16T00:00:00Z,http://www.cabase.org.ar/,,none,none
+AT,0,0,1073,SAIX,Salzburg,Europe,2015-05-20T00:00:00Z,https://www.saix.at/,https://www.saix.at/statistics.html,none,none
+US,0,0,1086,MASS-IX,Boston,North America,2015-05-12T00:00:00Z,http://www.mass-ix.net,http://www.mass-ix.net/peering.html#stats,none,none
+RU,0,0,1088,Global-IX,St.Petersburg,Europe,2015-05-20T00:00:00Z,http://global-ix.ru/,,none,none
+BG,0,0,1089,T-CIX,Bulgaria / Europe,Europe,2015-05-20T00:00:00Z,http://www.t-cix.net,,none,none
+CH,0,0,1094,GE-CIX,Zurich,Europe,2015-07-02T00:00:00Z,http://www.ge-cix.net/,http://www.ge-cix.net/get-connected/asns/,none,none
+ID,0,0,1095,IIX-RI,Pekanbaru / Riau,Asia Pacific,2015-07-02T00:00:00Z,http://www.wanxp.net.id,,none,none
+TN,0,0,1105,TunIXP,Tunis,Africa,2015-07-02T00:00:00Z,http://www.ati.tn/TunIXP/,http://webmaster@ati.tn,none,none
+US,0,0,1117,CyrusOne IX Sterling,Sterling,North America,2015-07-29T00:00:00Z,http://www.cyrusone.com,,none,none
+HN,0,0,1123,IXP-HN,Tegucigalpa,South America,2015-08-12T00:00:00Z,http://www.ixp.hn/,,none,none
+MQ,0,0,1127,MARTINIX,Fort-de-France,Europe,2015-10-01T00:00:00Z,https://www.renater.fr/martinix,,none,none
+IT,0,0,1131,DE-CIX Palermo,Palermo,Europe,2015-08-26T00:00:00Z,https://pmo.de-cix.net,https://www.de-cix.net/en/locations/italy/palermo/statistics,none,none
+GF,0,0,1134,Guyanix,Cayenne,South America,2015-10-01T00:00:00Z,https://www.renater.fr/guyanix?lang=fr,,none,none
+US,0,0,1142,CyrusOne IX Chicago,Chicago,North America,2015-09-22T00:00:00Z,http://www.cyrusone.com,,none,none
+ES,0,0,1146,ESPANIX Madrid Upper LAN,Madrid,Europe,2015-10-01T00:00:00Z,http://www.espanix.net,http://stats.espanix.net/,none,none
+FR,0,0,1149,DE-CIX Marseille,Marseille,Europe,2015-10-09T00:00:00Z,https://mrs.de-cix.net,https://www.de-cix.net/locations/france/marseille/statistics,none,none
+TR,0,0,1150,DE-CIX Istanbul,Istanbul,Europe,2015-10-09T00:00:00Z,https://www.de-cix.net/locations/turkey/istanbul,https://www.de-cix.net/locations/turkey/istanbul/statistics,none,none
+DE,0,0,1151,CentralIX,Bremen,Europe,2015-10-16T00:00:00Z,http://www.centralIX.net,,none,none
+RU,0,0,1154,SFO-IX,"Barnaul, Novosibirsk",Europe,2015-10-22T00:00:00Z,http://www.milecom.ru,http://sfo-ix.ru/statistika.html,none,none
+DE,0,0,1156,United Peering - UP-IXP,Wuppertal,Europe,2015-10-22T00:00:00Z,https://united-peering.net/,,none,none
+ES,0,0,1160,NIXVAL-ix,Valencia,Europe,2015-11-02T00:00:00Z,https://www.nixval.com/en/internet-exchange/,https://www.nixval.com/internet-exchange/#1461682919055-d347c803-0192,none,none
+UA,0,0,1168,Kherson Traffic Exchange,Kherson,Europe,2015-11-05T00:00:00Z,http://ix.ks.ua,,none,none
+CA,0,0,1169,YEGIX,Edmonton,North America,2015-11-02T00:00:00Z,http://www.yegix.ca/,http://www.yegix.ca/,none,none
+MD,0,0,1171,KIVIX,Chisinau; Bucharest,Europe,2015-11-04T00:00:00Z,http://www.kivix.net,,none,none
+CN,0,0,1172,CHN-IX Beijing,Beijing,Asia Pacific,2015-12-01T00:00:00Z,http://www.chn-ix.net,http://chn-ix.net/serviceability.html,none,none
+US,0,0,1174,MegaIX Seattle,Seattle,North America,2015-12-08T00:00:00Z,https://megaport.com,https://www.megaport.com/services/ix-statistics/,none,none
+US,0,0,1175,MegaIX Los Angeles,Los Angeles,North America,2015-12-08T00:00:00Z,https://megaport.com,https://www.megaport.com/services/ix-statistics/,none,none
+US,0,0,1178,MegaIX Ashburn,Ashburn,North America,2015-12-08T00:00:00Z,https://www.megaport.com,,none,none
+US,0,0,1180,MegaIX Dallas,Dallas,North America,2015-12-08T00:00:00Z,https://megaport.com,https://www.megaport.com/services/ix-statistics/,none,none
+KR,0,0,1183,6NGIX,Seoul,Asia Pacific,2015-12-09T00:00:00Z,,,none,none
+TH,0,0,1187,SYMC-IX Bangkok,Bangkok,Asia Pacific,2015-12-16T00:00:00Z,http://www.symphony.net.th,,none,none
+KH,0,0,1188,TC-IX,Phnom Penh,Asia Pacific,2015-12-16T00:00:00Z,http://www.tc.com.kh,,none,none
+UA,0,0,1191,SerinIX IX,Kiev,Europe,2015-12-17T00:00:00Z,http://www.serinix.com,,none,none
+TZ,0,0,1201,TIX Tanzania - Arusha,Arusha,Africa,2016-01-06T00:00:00Z,http://www.aixp.or.tz,,none,none
+US,0,0,1207,IX-Denver,Denver,North America,2016-01-10T00:00:00Z,https://ix-denver.org,https://portal.ix-denver.org/statistics/ixp,none,none
+KH,0,0,1209,CNX,Phnom Penh,Asia Pacific,2016-01-13T00:00:00Z,http://cnx.net.kh,http://cnx.net.kh/traffic/,none,none
+RU,0,0,1210,M-IX,Simferopol,Europe,2016-01-17T00:00:00Z,http://m-ix.net/,,none,none
+US,0,0,1212,MGMix Montgomery,Montgomery,North America,2016-01-24T00:00:00Z,http://www.mgmix.net,,none,none
+DE,0,0,1214,DE-CIX Dusseldorf,Düsseldorf,Europe,2016-01-28T00:00:00Z,https://www.de-cix.net/locations/germany/dusseldorf,https://dus.de-cix.net,none,none
+ID,0,0,1228,CDIX,Jakarta,Asia Pacific,2016-02-17T00:00:00Z,http://www.cyberdc.net/,,none,none
+RU,0,0,1229,CODIX,St.Petersburg,Europe,2016-02-17T00:00:00Z,http://miran.ru,,none,none
+AU,0,0,1235,MegaIX Perth,Perth,Australia,2016-02-27T00:00:00Z,https://megaport.com,https://www.megaport.com/services/ix-statistics/,none,none
+RU,0,0,1242,W-IX,Moscow,Europe,2016-03-18T10:53:09Z,http://www.w-ix.ru,https://www.w-ix.ru/i/w-ix-g.png,none,none
+US,0,0,1249,DE-CIX Dallas,Dallas,North America,2016-03-22T15:29:10Z,https://www.de-cix.net/en/locations/united-states/dallas,https://www.de-cix.net/locations/united-states/dallas/statistics,none,none
+IE,0,0,1262,INEX Cork,Cork,Europe,2016-03-31T13:14:35Z,https://www.inex.ie,,none,none
+BR,0,0,1276,IX.br (PTT.br) Foz do Iguaçu,Foz do Iguaçu/PR,South America,2016-04-13T10:59:21Z,http://ix.br/,http://ix.br/trafego/agregado/igu,none,none
+ES,0,0,1277,DE-CIX Madrid,Madrid,Europe,2016-04-13T14:11:26Z,https://mad.de-cix.net,https://www.de-cix.net/locations/spain/madrid/statistics,none,none
+CN,0,0,1284,CHN-IX Guangzhou,Guangzhou,Asia Pacific,2016-04-19T06:05:36Z,http://www.chn-ix.net,,none,none
+US,0,0,1285,SIX Seattle (Jumbo),Seattle,North America,2016-04-21T14:40:58Z,https://www.seattleix.net/,https://www.seattleix.net/statistics/,none,none
+GB,0,0,1302,IX Liverpool,Liverpool,Europe,2016-05-03T20:19:44Z,http://www.ixliverpool.net,,none,none
+CN,0,0,1303,CNIX,Beijing,Asia Pacific,2016-05-04T01:21:07Z,http://www.cnix.com.cn,,none,none
+QA,0,0,1304,Doha-IX,Doha,Middle East,2016-05-05T07:17:21Z,,,none,none
+CA,0,0,1307,MegaIX Toronto,Toronto,North America,2016-05-12T14:56:25Z,https://megaport.com,https://www.megaport.com/services/ix-statistics/,none,none
+NL,0,0,1308,LSIX,The Hague,Europe,2016-05-12T17:46:39Z,https://lsix.net,https://my.lsix.net,none,none
+FR,0,0,1312,OuestIX,Nantes,Europe,2016-05-17T13:49:46Z,http://www.ouestix.fr/,,none,none
+IN,0,0,1317,NIXI Kolkata,Kolkata,Asia Pacific,2016-05-21T14:58:57Z,http://nixi.in,http://nixi.in,none,none
+FR,0,0,1320,Hopus,"Paris, Lyon, Marseille, Geneva, Amsterdam, Frankfurt",Europe,2016-05-25T11:26:20Z,https://hopus.net,https://hopus.net/stats,none,none
+IN,0,0,1323,Extreme IX Delhi,Delhi,Asia Pacific,2016-05-27T20:49:28Z,http://extreme-ix.org,,none,none
+DE,0,0,1329,Community-IX,Berlin,Europe,2016-06-06T08:54:17Z,http://www.community-ix.de/,https://www.community-ix.de/technik/,none,none
+FI,0,0,1332,FICIX 1 (Espoo),Espoo,Europe,2016-06-14T22:19:37Z,https://www.ficix.fi/,https://stats-ficix.basen.com/#/page?name=StatsWelcome&source=wiki,none,none
+MG,0,0,1335,MGIX,Antananarivo,Africa,2016-06-18T12:04:25Z,http://www.mgix.mg,http://www.mgix.mg/statistiques/,none,none
+LB,0,0,1354,Beirut IX,Beirut,Middle East,2016-07-04T10:17:04Z,http://www.beirutix.net,,none,none
+CN,0,0,1375,CHN-IX Shanghai,Shanghai,Asia Pacific,2016-07-19T07:29:03Z,http://www.chn-ix.net,https://stats.chn-ix.net/index.html,none,none
+RU,0,0,1387,DataLine-IX,Moscow,Europe,2016-07-25T10:13:39Z,http://www.dtln.ru/en/services/telecom/dataline-ix,,none,none
+SE,0,0,1412,BOR-IX,Borås,Europe,2016-08-18T22:12:38Z,http://www.bor-ix.se/index.php?page=info,,none,none
+NO,0,0,1418,TIX Tromsø,Tromsø,Europe,2016-08-22T23:28:39Z,https://www.nix.no,https://www.nix.no/statistics/,none,none
+NO,0,0,1419,SIX Stavanger,Stavanger,Europe,2016-08-22T23:30:20Z,https://www.nix.no,https://www.nix.no/statistics/,none,none
+NO,0,0,1420,TRDIX Trondheim,Trondheim,Europe,2016-08-22T23:33:31Z,https://www.nix.no,https://www.nix.no/statistics/,none,none
+DE,0,0,1421,BW-IX Karlsruhe,Karlsruhe,Europe,2016-08-23T21:52:27Z,http://www.bw-ix.net/,,none,none
+PL,0,0,1423,WRIX,Wrocław,Europe,2016-08-24T13:55:06Z,http://wrix.org,,none,none
+FR,0,0,1428,GrenoblIX,Grenoble,Europe,2016-09-06T12:26:33Z,http://grenoblix.net/,https://vm-monitoring-1.rezopole.net/stats-services/all_traffic_exchanged_grenoblix/grenoblix.html,none,none
+HK,0,0,1449,BBIX Hong Kong,Hong Kong,Asia Pacific,2016-09-20T00:24:23Z,http://www.bbix.net/en/,,none,none
+FI,0,0,1464,Equinix Helsinki,Helsinki,Europe,2016-09-30T18:22:54Z,https://www.equinix.fi/services/interconnection-connectivity/internet-exchange/,https://ix.equinix.com/,none,none
+JP,0,0,1468,Asia Smart IX [BBIX Asia],Tokyo,Asia Pacific,2016-10-05T09:14:49Z,http://www.bbix.net/en,,none,none
+GB,0,0,1469,UNIFI-IX,London,Europe,2016-10-05T09:48:17Z,,,none,none
+AR,0,0,1480,CABASE-JUN - IX Argentina (Junin),Junin,South America,2016-10-14T18:14:09Z,http://www.cabase.org.ar,,none,none
+AR,0,0,1481,CABASE-SLU - IX Argentina (San Luis),San Luis,South America,2016-10-14T18:14:52Z,http://www.cabase.org.ar,http://www.cabase.org.ar,none,none
+AR,0,0,1482,CABASE-PER - IX Argentina (Pergamino),Pergamino,South America,2016-10-14T18:15:32Z,http://www.cabase.org.ar,,none,none
+AR,0,0,1483,CABASE-TUC - IX Argentina (Tucuman),Tucuman,South America,2016-10-14T18:16:11Z,http://www.cabase.org.ar,,none,none
+AR,0,0,1484,CABASE-NGB - IX Argentina (Pilar),Pilar,South America,2016-10-14T18:16:58Z,http://www.cabase.org.ar,http://www.cabase.org.ar,none,none
+AR,0,0,1485,CABASE-SZP - IX Argentina (Saenz Peña),"Saenz Peña, Chaco",South America,2016-10-14T18:17:51Z,http://www.cabase.org.ar,,none,none
+AR,0,0,1486,CABASE-SLT - IX Argentina (Salta),Salta,South America,2016-10-14T18:18:27Z,http://www.cabase.org.ar,,none,none
+AR,0,0,1487,CABASE-BRC - IX Argentina (Bariloche),Bariloche,South America,2016-10-14T18:19:22Z,http://www.cabase.org.ar,,none,none
+US,0,0,1488,Vegas-IX,Las Vegas,North America,2016-10-16T15:53:28Z,http://www.vegas-ix.net,,none,none
+US,0,0,1489,Aloha-IX,Honolulu,North America,2016-10-16T15:54:56Z,http://www.aloha-ix.net,,none,none
+US,0,0,1490,Richmond-IX,Richmond,North America,2016-10-16T15:56:10Z,http://www.richmond-ix.net,,none,none
+MU,0,0,1508,MIXP,Ebene,Africa,2016-11-03T12:24:30Z,http://www.mixp.org/,http://www.mixp.org/,none,none
+CL,0,0,1514,PIT Santiago - PIT Chile,Santiago,South America,2016-11-11T11:54:40Z,http://www.pitchile.cl,http://www.pitchile.cl/wp/?page_id=37,none,none
+PL,0,0,1516,IX.LODZ.PL,Łódź,Europe,2016-11-13T17:51:15Z,http://ix.lodz.pl,http://ix.lodz.pl/statystyki/,none,none
+US,0,0,1519,MidWest-IX - St. Louis,"St. Louis, MO",North America,2016-11-17T15:14:16Z,http://www.midwest-ix.com,,none,none
+PY,0,0,1522,IXpy,San Lorenzo,South America,2016-11-18T22:03:49Z,http://ix.py,http://monitor.ix.py,none,none
+RU,0,0,1533,inet2,"Mowsow, St.Petersburg, Novosibirsk, Ekaterinburg",Europe,2016-11-30T15:06:45Z,https://www.inet2.net/,,none,none
+KE,0,0,1541,KIXP - Mombasa,Mombasa,Africa,2016-12-07T10:43:14Z,https://www.tespok.co.ke/,,none,none
+PH,0,0,1561,PhOpenIX-Manila,Manila,Asia Pacific,2016-12-23T02:16:52Z,http://www.phopenix.net,http://www.phopenix.net/traffic,none,none
+TZ,0,0,1574,TIX Tanzania - Mwanza,Mwanza,Africa,2017-01-03T13:00:29Z,,,none,none
+IN,0,0,1577,IIFON IX Kolkata,Kolkata,Asia Pacific,2017-01-03T16:22:14Z,http://iifon.org,,none,none
+RU,0,0,1582,MegaFon-IX,Moscow,Europe,2017-01-09T11:49:17Z,http://megafon.ru,,none,none
+IN,0,0,1623,AMS-IX India,Mumbai,Asia Pacific,2017-02-07T09:14:28Z,https://ams-ix.in/,https://stats-mum.ams-ix.net/,none,none
+IN,0,0,1627,Extreme IX Mumbai,Mumbai,Asia Pacific,2017-02-08T10:06:51Z,http://extreme-ix.org,,none,none
+US,0,0,1628,MegaIX Las Vegas,Las Vegas,North America,2017-02-09T04:23:24Z,https://megaport.com,https://www.megaport.com/services/ix-statistics/,none,none
+CL,0,0,1634,SCL-IX Chile,Santiago,South America,2017-02-11T06:03:38Z,https://www.sclix.cl,,none,none
+NP,0,0,1658,npIX JWL,Lalitpur,Asia Pacific,2017-03-02T11:31:49Z,http://www.npix.net.np/,,none,none
+EC,0,0,1660,IXP Ecuador - STD,Santo Domingo,South America,2017-03-03T20:27:04Z,http://www.ixp.ec,http://www.ixp.ec,none,none
+JP,0,0,1663,RIX (RYUKYUIX),"Urasoe,  Naha, Ginoza, Nago, Uruma, Okinawa",Asia Pacific,2017-03-08T05:37:01Z,http://www.ryukyuix.net,,none,none
+US,0,0,1668,CIX-ATL,Atlanta,North America,2017-03-16T17:11:36Z,http://www.communityix.org,https://atl.communityix.org/grapher/ixp?period=month,none,none
+RU,0,0,1669,BAIKAL-IX,Irkutsk,Europe,2017-03-17T01:35:57Z,https://baikal-ix.ru,,none,none
+FR,0,0,1670,BreizhIX,Rennes,Europe,2017-03-19T13:18:32Z,https://www.breizh-ix.net/,,none,none
+US,0,0,1679,NNENIX,Portland,North America,2017-03-28T18:37:21Z,http://www.nnenix.net,https://ixp.nnenix.net/statistics/ixp,none,none
+BR,0,0,1684,IX.br (PTT.br) Aracaju,Aracaju/SE,South America,2017-03-29T15:38:50Z,http://ix.br/,http://ix.br/trafego/agregado/se,none,none
+IN,0,0,1689,NIXI Bangalore,Bangalore,Asia Pacific,2017-04-04T10:59:53Z,,,none,none
+IN,0,0,1690,NIXI Ahmedabad,Ahmedabad,Asia Pacific,2017-04-04T11:00:30Z,,,none,none
+LV,0,0,1748,MSK-IX Riga,Riga,Europe,2017-05-23T14:28:50Z,http://www.msk-ix.ru/en/ix/rix,http://www.msk-ix.ru/en/traffic,none,none
+ME,0,0,1754,MIXP.me,Podgorica,Europe,2017-05-30T11:16:36Z,http://www.mixp.me/eng/,,none,none
+AR,0,0,1764,CABASE-JUJ - IX Argentina (Jujuy),San Salvador de Jujuy,South America,2017-06-06T14:12:21Z,http://www.cabase.org.ar,,none,none
+VN,0,0,1771,VNIX-HCM,Ho Chi Minh City,Asia Pacific,2017-06-19T07:52:08Z,https://www.vnix.vn,,none,none
+VN,0,0,1772,VNIX-HN,Hanoi,Asia Pacific,2017-06-19T07:54:13Z,https://www.vnix.vn/,,none,none
+VN,0,0,1773,VNIX-DN,Da Nang,Asia Pacific,2017-06-19T07:55:25Z,https://www.vnix.vn,,none,none
+GA,0,0,1776,GABIX,Libreville,Africa,2017-06-20T14:18:23Z,https://www.gabix.ga/,,none,none
+IN,0,0,1785,Extreme IX Hyderabad,Hyderabad,Asia Pacific,2017-06-22T12:00:33Z,http://extreme-ix.org,,none,none
+IN,0,0,1786,Extreme IX Chennai,Chennai,Asia Pacific,2017-06-22T12:01:14Z,http://extreme-ix.org,,none,none
+GD,0,0,1790,GREX,St. George's,North America,2017-06-28T15:21:21Z,http://www.grex.gd,,none,none
+BR,0,0,1794,IX Palmas,Palmas,South America,2017-07-06T11:15:07Z,http://www.microtel.net.br/,,none,none
+AR,0,0,1798,CABASE-TDL - IX Argentina (Tandil),Tandil,South America,2017-07-11T14:03:57Z,http://www.cabase.org.ar/,,none,none
+NL,0,0,1812,Asteroid Amsterdam,Amsterdam,Europe,2017-07-18T07:56:53Z,https://www.asteroidhq.com/ixp-locations/1,https://www.asteroidhq.com/statistics/1,none,none
+LB,0,0,1816,A.IX,Beirut,Middle East,2017-07-19T14:00:11Z,http://www.a-ix.org,,none,none
+CA,0,0,1829,YXEIX,Saskatoon,North America,2017-07-24T19:28:13Z,http://yxeix.ca,http://yxeix.ca/graphs.html,none,none
+EC,0,0,1833,IXP Ecuador - MEC,Manta,South America,2017-07-25T14:00:25Z,https://www.ixp.ec,,none,none
+NZ,0,0,1836,HIX-NZ,Hamilton,Asia Pacific,2017-07-27T15:49:56Z,http://wix.nzix.net/hix.html,,none,none
+NZ,0,0,1837,DPE,Dunedin,Asia Pacific,2017-07-27T15:51:23Z,http://wix.nzix.net/dpe.html,,none,none
+NL,0,0,1842,Speed-IX,Dronten,Europe,2017-08-03T20:17:52Z,https://speed-ix.net,https://speed-ix.net/statistic/,none,none
+BR,0,0,1847,IX.br (PTT.br) Santa Maria,Santa Maria/RS,South America,2017-08-08T18:24:38Z,http://ix.br/,http://ix.br/trafego/agregado/ria,none,none
+CN,0,0,1861,CN-IX-SH,ShangHai,Asia Pacific,2017-08-18T03:20:35Z,http://www.cn-ix.com,http://www.cn-ix.com,none,none
+CN,0,0,1862,CN-IX-BJ,BeiJing,Asia Pacific,2017-08-18T03:36:15Z,http://www.cn-ix.com,http://www.cn-ix.com,none,none
+CN,0,0,1863,CN-IX-GZ,GuangZhou,Asia Pacific,2017-08-18T03:37:09Z,http://www.cn-ix.com,http://www.cn-ix.com,none,none
+SE,0,0,1868,STHIX - Gothenburg,Gothenburg,Europe,2017-08-23T08:54:22Z,http://www.sthix.net,http://www.sthix.net,none,none
+DK,0,0,1869,STHIX - Copenhagen,Copenhagen,Europe,2017-08-23T08:56:43Z,http://www.sthix.net,https://www.sthix.net/index.php/home/statistics/,none,none
+NG,0,0,1870,IXPN Abuja,Abuja,Africa,2017-08-23T17:40:26Z,http://www.ixp.net.ng,https://traffics.ixp.net.ng/sensor.htm?id=2876&tabid=1,none,none
+CN,0,0,1886,Cnean,BeiJing,Asia Pacific,2017-08-29T09:13:57Z,http://www.cnean.com,http://www.cnean.com,none,none
+CL,0,0,1915,PIT Concepcion - PIT Chile,Concepcion,South America,2017-09-15T18:30:39Z,http://www.pitconcepcion.cl,,none,none
+CL,0,0,1916,PIT Osorno - PIT Chile,Osorno,South America,2017-09-15T18:31:09Z,http://www.pitosorno.cl,,none,none
+CL,0,0,1917,PIT Temuco - PIT Chile,Temuco,South America,2017-09-15T18:32:06Z,http://www.pittemuco.cl,,none,none
+PL,0,0,1919,APLIX,Gdynia,Europe,2017-09-19T08:22:23Z,http://www.aplix.pl,http://www.aplix.pl,none,none
+SE,0,0,1923,Equinix Stockholm,Stockholm,Europe,2017-09-22T14:00:51Z,https://www.equinix.se/services/interconnection-connectivity/internet-exchange/,https://ix.equinix.com/,none,none
+IT,0,0,1925,Equinix Milan,Milan,Europe,2017-09-22T18:04:51Z,https://www.equinix.it/services/interconnection-connectivity/internet-exchange/,https://ix.equinix.com/,none,none
+IE,0,0,1926,Equinix Dublin,Dublin,Europe,2017-09-22T18:06:18Z,http://www.equinix.ie/services/interconnection-connectivity/internet-exchange/,https://ix.equinix.com/,none,none
+GB,0,0,1927,Equinix Manchester,Manchester,Europe,2017-09-22T18:07:36Z,http://www.equinix.co.uk/services/interconnection-connectivity/internet-exchange/,https://ix.equinix.com/,none,none
+CN,0,0,1932,YJSNPIX,Guangzhou,Asia Pacific,2017-09-26T15:32:38Z,https://yjsnpix.com,,none,none
+IT,0,0,1933,PCIX,Piacenza,Europe,2017-09-27T10:26:09Z,http://www.pcix.it/,,none,none
+UA,0,0,1958,MESH-IX,Mariupol,Europe,2017-10-14T07:27:11Z,http://ix.meshroom.net,,none,none
+RU,0,0,1977,CLOUD-IX MSK,Moscow,Europe,2017-10-26T16:26:49Z,http://www.cloud-ix.net/,,none,none
+RU,0,0,1978,CLOUD-IX SPB,St. Petersburg,Europe,2017-10-26T16:28:20Z,http://www.cloud-ix.net/,,none,none
+RU,0,0,1979,CLOUD-IX VRJ,Voronezh,Europe,2017-10-26T16:30:30Z,http://www.cloud-ix.net/,,none,none
+UA,0,0,1980,CLOUD-IX KHA,Kharkov,Europe,2017-10-26T16:32:25Z,http://www.cloud-ix.net/,,none,none
+UA,0,0,1981,CLOUD-IX KIEV,Kiev,Europe,2017-10-26T16:33:19Z,http://www.cloud-ix.net/,,none,none
+RU,0,0,1982,CLOUD-IX EKT,Ekaterinburg,Europe,2017-10-26T16:35:13Z,http://www.cloud-ix.net/,,none,none
+BR,0,0,1983,IX.br (PTT.br) João Pessoa,João Pessoa/PB,South America,2017-10-27T17:08:20Z,http://ix.br/,http://ix.br/trafego/agregado/jpa,none,none
+CH,0,0,1984,RomandIX,Lausanne,Europe,2017-10-27T17:40:54Z,http://www.romandix.ch,,none,none
+CL,0,0,1991,PIT Arica - PIT Chile,Arica,South America,2017-11-02T11:01:16Z,http://www.pitarica.cl,,none,none
+GB,0,0,1997,Equinix London,London,Europe,2017-11-06T11:14:19Z,https://www.equinix.co.uk/services/interconnection-connectivity/internet-exchange/,https://ix.equinix.com/,none,none
+DE,0,0,1998,Equinix Frankfurt,Frankfurt,Europe,2017-11-06T11:14:25Z,https://www.equinix.de/services/interconnection-connectivity/internet-exchange/,https://ix.equinix.com/,none,none
+US,0,0,1999,PIT-IX,Pittsburgh,North America,2017-11-07T18:08:16Z,https://pit-ix.net,https://pit-ix.net/stats,none,none
+AL,0,0,2004,ANIX - Albanian Neutral Internet eXchange,Tirana,Europe,2017-11-13T14:18:57Z,http://www.anix.al,http://www.anix.al/stats,none,none
+LT,0,0,2005,BALT-IX,Vilnius,Europe,2017-11-14T08:28:53Z,http://www.balt-ix.lt,http://stats.balt-ix.net,none,none
+CH,0,0,2013,Community-IX.ch,Zurich,Europe,2017-11-22T08:21:40Z,http://www.community-ix.ch/,,none,none
+NL,0,0,2031,Equinix Amsterdam,Amsterdam,Europe,2017-12-06T10:45:13Z,https://www.equinix.nl/services/interconnection-connectivity/internet-exchange/,https://ix.equinix.com/,none,none
+US,0,0,2032,Sacramento-IX,Sacramento,North America,2017-12-08T02:22:00Z,http://www.sacramento-ix.net,http://www.sacramento-ix.net,none,none
+RU,0,0,2035,Eurasia Peering IX,Moscow,Europe,2017-12-11T17:23:26Z,http://eurasiapeering.com/,http://eurasiapeering.com/traffic.htm,none,none
+US,0,0,2036,MEX-IX,McAllen,North America,2017-12-11T21:46:58Z,http://www.mdcdatacenters.com,,none,none
+AR,0,0,2039,CABASE-OGB - IX Argentina (Moreno),Moreno,South America,2017-12-12T21:29:44Z,http://www.cabase.org.ar,http://www.cabase.org.ar,none,none
+AR,0,0,2040,CABASE-RST - IX Argentina (Resistencia),Resistencia,South America,2017-12-12T21:39:07Z,http://www.cabase.org.ar,http://www.cabase.org.ar,none,none
+US,0,0,2050,GPIEX,Albany,North America,2017-12-19T21:21:51Z,http://gpiex.net/,,none,none
+UA,0,0,2051,IF-IX,Ivano-Frankivsk,Europe,2017-12-20T20:23:11Z,http://ix.if.ua/en/,,none,none
+IN,0,0,2062,Bharat IX - Mumbai,Mumbai,Asia Pacific,2018-01-09T19:07:15Z,http://www.bharatix.net,,none,none
+MX,0,0,2066,IXP.MX - Mexico City,Mexico City,North America,2018-01-15T22:05:18Z,http://www.ixp.mx,,none,none
+CA,0,0,2070,MonctonIX,Moncton,North America,2018-01-18T19:29:41Z,http://monctonix.ca,http://monctonix.ca,none,none
+BR,0,0,2078,IX.br (PTT.br) Teresina,Teresina/PI,South America,2018-01-23T10:56:25Z,http://ix.br/,http://ix.br/trafego/agregado/the,none,none
+DE,0,0,2084,LocIX,Frankfurt am Main,Europe,2018-02-01T13:31:42Z,https://locix.online,https://locix.online/stats,none,none
+BR,0,0,2086,IX.br (PTT.br) São Luís,São Luís/MA,South America,2018-02-05T16:33:07Z,http://ix.br/,http://ix.br/trafego/agregado/slz,none,none
+US,0,0,2088,PhillyIX,Philadelphia,North America,2018-02-07T20:34:38Z,http://phillyix.net,,none,none
+AR,0,0,2093,CABASE-UAQ - IX Argentina (San Juan),San Juan,South America,2018-02-09T19:38:35Z,http://www.cabase.org.ar/,,none,none
+MM,0,0,2102,MMIX,Yangon,Asia Pacific,2018-02-26T16:50:52Z,http://www.mm-ix.net,http://103.103.194.2:8300/graph_image.php?local_graph_id=41&rra_id=1,none,none
+GU,0,0,2116,GOREX,Tumon,Asia Pacific,2018-03-09T05:13:54Z,https://gorex.uog.edu,http://perfsonar.uog.edu,none,none
+US,0,0,2124,CFiX (Central Florida Internet Exchange),Orlando,North America,2018-03-15T12:18:44Z,http://www.cf-ix.org,,none,none
+ES,0,0,2130,Equinix Madrid,Madrid,Europe,2018-03-22T13:45:50Z,https://ix.equinix.com/home/madrid/,https://ix.equinix.com/,none,none
+PT,0,0,2131,Equinix Lisbon,Lisbon,Europe,2018-03-22T13:46:38Z,https://ix.equinix.com/home/lisbon/,https://ix.equinix.com/,none,none
+KG,0,0,2145,KG-IX Bishkek,Bishkek,Europe,2018-03-29T16:13:58Z,http://www.kg-ix.net,,none,none
+RU,0,0,2149,PITER-IX,St.Petersburg,Europe,2018-04-02T20:32:10Z,http://piter-ix.ru,http://lg.piter-ix.ru,none,none
+US,0,0,2163,FCIX,Fremont,North America,2018-04-16T14:56:27Z,http://fcix.net/,,none,none
+IN,0,0,2167,Extreme IX Kolkata,Kolkata,Asia Pacific,2018-04-18T07:08:38Z,http://extreme-ix.org,,none,none
+CL,0,0,2176,PIT entel,Santiago,South America,2018-04-30T19:20:42Z,http://www.pitentel.cl,http://www.pitentel.cl,none,none
+US,0,0,2182,Equinix Denver,Denver,North America,2018-05-07T21:23:04Z,https://www.equinix.com,https://ix.equinix.com,none,none
+US,0,0,2183,Equinix Houston,Houston,North America,2018-05-07T21:23:57Z,https://www.equinix.com,https://ix.equinix.com,none,none
+US,0,0,2186,Baltimore IX,Baltimore,North America,2018-05-13T21:54:50Z,https://baltimoreix.net,https://baltimoreix.net/stats,none,none
+IN,0,0,2195,AMR-IX,Amaravati,Asia Pacific,2018-05-17T16:11:45Z,https://www.amr-ix.net,,none,none
+RU,0,0,2207,DV-IX,Chita,Asia Pacific,2018-05-23T06:46:25Z,http://dv-ix.ru,,none,none
+TZ,0,0,2208,TIX Tanzania - Zanzibar,Zanzibar,Africa,2018-05-23T11:42:33Z,http://www.tix.or.tz/zixp/,,none,none
+IN,0,0,2210,ANI-IX Delhi,New Delhi,Asia Pacific,2018-05-24T16:57:40Z,https://aninetwork.in/aniix/index.html,,none,none
+BA,0,0,2239,BHNIX,Sarajevo,Europe,2018-06-18T07:05:20Z,http://bhnix.ba/,,none,none
+AF,0,0,2245,NIXA,Kabul,Asia Pacific,2018-06-26T00:34:19Z,http://www.nixa.af,http://www.nixa.af,none,none
+KZ,0,0,2250,KAZ-GOV-IX,Astana,Asia Pacific,2018-06-29T06:54:22Z,http://sts.kz/,http://lg-ix.sts.kz/,none,none
+IN,0,0,2251,Remki Internet Exchange (RIX),Guntur,Asia Pacific,2018-06-29T11:57:43Z,http://internet-exchange.remki.net,,none,none
+KW,0,0,2253,ix.kw,Kuwait City,Middle East,2018-07-01T09:01:29Z,http://ix.kw,,none,none
+LB,0,0,2254,LBIX,Beirut,Middle East,2018-07-01T14:09:36Z,http://www.lbix.net/,,none,none
+TT,0,0,2272,TTIX2,Princes Town,South America,2018-07-18T20:58:43Z,https://ix.tt,https://ix.tt/statistics/,none,none
+US,0,0,2274,EVIX,Fremont,North America,2018-07-19T16:24:58Z,https://evix.org,https://evix.org,none,none
+MK,0,0,2276,IXP.mk,Skopje,Europe,2018-07-23T19:08:37Z,http://ixp.mk,,none,none
+MY,0,0,2279,JBIX,Johor Bahru,Asia Pacific,2018-07-25T10:10:14Z,http://www.jbix.my,,none,none
+US,0,0,2286,MidWest-IX - Cleveland,"Cleveland, Ohio",North America,2018-07-31T19:45:44Z,http://www.fd-ix.com,,none,none
+CO,0,0,2289,Equinix Bogota,Bogota,South America,2018-08-02T17:59:16Z,https://www.equinix.com,https://ix.equinix.com,none,none
+BR,0,0,2291,IX.br (PTT.br) Maceió,Maceió/AL,South America,2018-08-06T12:42:57Z,http://ix.br/,http://ix.br/trafego/agregado/mcz,none,none
+SA,0,0,2299,SAIX Saudi Arabia,Riyadh,Middle East,2018-08-07T10:27:56Z,https://saix.sa,,none,none
+GU,0,0,2301,MARIIX,Mangilao,Asia Pacific,2018-08-08T02:21:05Z,https://mariix.net,,none,none
+TR,0,0,2312,TR-IX,Istanbul,Europe,2018-08-14T20:21:21Z,http://tr-ix.com,,none,none
+US,0,0,2317,Charlotte-IX,Charlotte,North America,2018-08-20T17:11:54Z,http://www.charlotte-ix.net,,none,none
+US,0,0,2318,Dallas-IX,Dallas,North America,2018-08-20T17:27:42Z,http://www.dallas-ix.net,,none,none
+US,0,0,2319,Houston-IX,Houston,North America,2018-08-20T17:35:59Z,http://www.housoin-ix.net,,none,none
+SD,0,0,2320,SIXP Sudan,Khartoum,Africa,2018-08-21T14:50:46Z,http://www.sixp.sd,,none,none
+GB,0,0,2325,EMF-IX,Eastnor,Europe,2018-08-28T12:05:54Z,https://emf-ix.benjojo.co.uk,,none,none
+PG,0,0,2332,PNG Neutral Internet Exchange,Port Moresby,Asia Pacific,2018-09-07T01:21:16Z,http://www.pgix.org.pg/,,none,none
+IN,0,0,2341,REDIX Chennai,Chennai,Asia Pacific,2018-09-10T12:12:16Z,https://redix.org,https://manage.redix.org,none,none
+CZ,0,0,2343,LL-IX,Prague,Europe,2018-09-11T09:11:04Z,http://www.ll-ix.com,,none,none
+PH,0,0,2345,GetaFIX,Manila,Asia Pacific,2018-09-12T07:27:16Z,https://getafix.ph/,,none,none
+PR,0,0,2353,Puerto Rico Internet Exchange,San Juan,North America,2018-09-19T04:23:47Z,https://www.puertorico-ix.com,https://www.puertorico-ix.com/stats,none,none
+BT,0,0,2355,btIX,Thimphu,Asia Pacific,2018-09-22T17:01:27Z,https://www.btix.bt,https://www.btix.bt,none,none
+KE,0,0,2362,KIXP - Mombasa icolo,Mombasa,Africa,2018-09-26T08:38:18Z,https://www.tespok.co.ke/,,none,none
+CH,0,0,2365,CHIX-CH,Frauenfeld,Europe,2018-09-27T21:15:52Z,https://chix.ch,https://chix.ch,none,none
+AR,0,0,2368,CABASE-VDM - IX Argentina (Viedma),Viedma,South America,2018-10-03T18:54:21Z,http://www.cabase.org.ar,,none,none
+NG,0,0,2381,"WAF-IX, Lagos",Lagos,Africa,2018-10-28T22:54:38Z,https://www.wafix.net,,none,none
+GR,0,0,2386,GR-IX::Thessaloniki,Thessaloniki,Europe,2018-11-02T11:13:23Z,http://www.gr-ix.gr/,http://www.gr-ix.gr/traffic/,none,none
+CA,0,0,2387,SJIX,"Saint John, NB",North America,2018-11-02T22:48:44Z,http://sjix.ca,,none,none
+TG,0,0,2388,TGIX,Lomé,Africa,2018-11-05T17:50:13Z,http://www.tgix.tg,,none,none
+RU,0,0,2402,SPACE-IX,Moscow,Europe,2018-11-13T16:16:42Z,http://space-ix.com,,none,none
+MN,0,0,2407,MISPA-IXP,Ulaanbaatar,Asia Pacific,2018-11-20T02:53:08Z,,,none,none
+SO,0,0,2410,SoIXP,Mogadishu,Africa,2018-11-23T12:26:29Z,http://www.soixp.so,https://portal.soixp.so/statistics/infrastructure,none,none
+NG,0,0,2414,IXPN Kano,Kano,Africa,2018-11-28T12:47:20Z,http://www.ixp.net.ng,,none,none
+NG,0,0,2415,IXPN Port Harcourt,Port Harcourt,Africa,2018-11-28T12:49:35Z,http://www.ixp.net.ng,https://traffics.ixp.net.ng/sensor.htm?id=3304&tabid=1,none,none
+US,0,0,2443,MoeIX San Francisco,San Francisco,North America,2018-12-03T22:12:31Z,https://www.moeix.online,,none,none
+CH,0,0,2447,4b42 Internet Exchange Point,Zurich,Europe,2018-12-06T12:23:38Z,https://www.4ixp.com,https://www.4ixp.net,none,none
+CA,0,0,2452,UNM-Exch Canada-West,Vancouver,North America,2018-12-10T15:25:53Z,http://unmetered.exchange,http://unmetered.exchange,none,none
+TH,0,0,2454,CSL Thai-IX Malaysia,Bangkok,Asia Pacific,2018-12-11T03:18:51Z,https://www.cslthai-ix.net,https://www.cslthai-ix.net,none,none
+KG,0,0,2457,SR-IX,Bishkek,Asia Pacific,2018-12-18T07:44:39Z,http://sr-ix.asia/,,none,none
+TH,0,0,2467,BBIX Thailand,Bangkok,Asia Pacific,2018-12-27T06:40:34Z,http://www.bbix.net/,,none,none
+JP,0,0,2469,MoeIX Osaka,Osaka,Asia Pacific,2019-01-03T14:20:18Z,https://www.moeix.online,,none,none
+ID,0,0,2476,JKT-IX,Jakarta,Asia Pacific,2019-01-13T08:52:59Z,https://www.glc.ntt.com/en/services/service-in-indonesia/data-center/internet-exchange.html,,none,none
+US,0,0,2486,CMH-IX,Columbus,North America,2019-01-19T18:25:59Z,http://www.cmh-ix.net,,none,none
+TH,0,0,2494,CSL Thai-IX Singapore,Bangkok,Asia Pacific,2019-01-31T01:47:49Z,https://www.cslthai-ix.net,https://www.cslthai-ix.net,none,none
+TH,0,0,2495,CSL Thai-IX Bangkok,Bangkok,Asia Pacific,2019-01-31T01:57:08Z,https://www.cslthai-ix.net/,https://www.cslthai-ix.net,none,none
+BE,0,0,2496,BelgiumIX,Brussels - Ghent,Europe,2019-02-06T14:15:36Z,https://belgiumix.net/,,none,none
+KZ,0,0,2497,KazNIX,Semey,Asia Pacific,2019-02-07T12:00:09Z,https://kaznix.kz,https://kaznix.kz,none,none
+RO,0,0,2501,LNK-IX,Targoviste,Europe,2019-02-09T12:36:32Z,http://ix.lnk.ro,,none,none
+DE,0,0,2511,MS-IX,Münster,Europe,2019-02-18T17:04:45Z,https://ms-ix.net/,,none,none
+BD,0,0,2516,BDIX,Dhaka,Asia Pacific,2019-02-26T05:33:18Z,http://www.bdix.net,http://www.bdix.net/stat.htm,none,none
+GN,0,0,2520,IXP-GUINEE,Conakry,Africa,2019-02-27T15:47:15Z,,,none,none
+KR,0,0,2522,Sejong Neutral-IX,Seoul,Asia Pacific,2019-03-07T01:44:11Z,https://www.sejongtelecom.net/en/pages/service/data_network_nix,https://client.sjtel.net,none,none
+TR,0,0,2527,Turk-IX,Istanbul,Europe,2019-03-12T15:27:36Z,https://www.turk-ix.com,https://www.turk-ix.com/monitoring.html,none,none
+PT,0,0,2531,DE-CIX Lisbon,Lisbon,Europe,2019-03-15T16:39:59Z,https://www.de-cix.net/en/locations/portugal/Lisbon,,none,none
+IT,0,0,2537,STIX,Bozen/Bolzano,Europe,2019-03-21T07:12:39Z,http://www.stix.bz/,,none,none
+CM,0,0,2541,CAMIX Douala,"Douala, CAMTEL BEPANDA",Africa,2019-03-25T22:07:12Z,http://www.camix.cm,http://www.camix.cm/index.php/statistiques-de-trafic-douala,none,none
+US,0,0,2551,Digital Realty Chicago,Chicago,North America,2019-03-29T11:02:59Z,https://ix.digitalrealty.com,https://ix.digitalrealty.com,none,none
+BI,0,0,2552,BDIXP,Bujumbura,Africa,2019-03-30T10:27:09Z,http://www.bdixp.bi/,,none,none
+UA,0,0,2553,LVIV-IX,Lviv,Europe,2019-03-31T17:45:14Z,http://ix.lviv.ua,,none,none
+CM,0,0,2554,CAMIX Yaounde,Yaounde,Africa,2019-04-01T20:43:37Z,http://www.camix.cm,http://camix.cm/index.php/techniques/technologies/statistiques-de-trafic,none,none
+US,0,0,2558,NYIIX Philadelphia,Philadelphia,North America,2019-04-08T13:44:34Z,https://www.nyiix.net/locations/nyiix-philadelphia/,https://www.nyiix.net/PHI-mrtg/sum.html,none,none
+AU,0,0,2563,JIX - Darwin,Darwin,Australia,2019-04-15T05:11:00Z,http://www.jix.net.au,,none,none
+US,0,0,2564,iX-OKC,Oklahoma City,North America,2019-04-15T17:30:19Z,https://www.iX-OKC.net,,none,none
+CN,0,0,2566,MoeIX Zhengzhou,Zhengzhou,Asia Pacific,2019-04-21T16:49:05Z,https://www.moeix.online,,none,none
+HK,0,0,2567,MoeIX Hong Kong,Hong Kong,Asia Pacific,2019-04-21T16:56:53Z,https://www.moeix.online/,,none,none
+RU,0,0,2568,TN-IX,Novokuznetsk,Asia Pacific,2019-04-22T15:54:49Z,http://tn-ix.net/,http://tn-ix.net/statistics/,none,none
+NL,0,0,2569,NL-ix 2,Amsterdam,Europe,2019-04-23T12:28:40Z,https://www.nl-ix.net,,none,none
+CH,0,0,2571,SBIX,Zurich,Europe,2019-04-25T05:18:06Z,https://www.sbix.ch,,none,none
+US,0,0,2572,Digital Realty Ashburn,Ashburn,North America,2019-04-28T00:04:54Z,https://ix.digitalrealty.com,,none,none
+CA,0,0,2584,OGIX,Ottawa Gatineau,North America,2019-05-08T23:04:12Z,http://www.ogix.ca,,none,none
+US,0,0,2585,STLIX,"Saint Louis, MO",North America,2019-05-09T01:40:13Z,http://www.stlix.net,http://www.stlix.net,none,none
+IN,0,0,2587,DE-CIX Delhi,Delhi,Asia Pacific,2019-05-14T14:20:32Z,https://www.de-cix.in/locations/de-cix-delhi,https://www.de-cix.in/statistics,none,none
+IN,0,0,2588,DE-CIX Chennai,Chennai,Asia Pacific,2019-05-14T14:22:47Z,https://www.de-cix.in/locations/de-cix-chennai,https://www.de-cix.in/,none,none
+IN,0,0,2589,DE-CIX Kolkata,Kolkata,Asia Pacific,2019-05-14T14:25:01Z,,https://www.de-cix.in/,none,none
+CN,0,0,2598,LSY.CN Wuhan,Wuhan,Asia Pacific,2019-05-21T17:13:24Z,https://ix.lsy.cn/,,none,none
+NL,0,0,2601,NLocIX,Meppel,Europe,2019-05-26T12:55:28Z,http://www.nlocix.net,http://www.nlocix.net,none,none
+AU,0,0,2602,JIX - Hobart,Hobart,Australia,2019-05-28T06:12:02Z,http://www.jix.net.au,,none,none
+HK,0,0,2605,LSY.CN Hong Kong,Hong Kong,Asia Pacific,2019-06-01T15:19:22Z,https://ix.lsy.cn/,,none,none
+US,0,0,2606,LSY.CN Los Angeles,Los Angeles,North America,2019-06-02T11:19:55Z,https://ix.lsy.cn/,,none,none
+JP,0,0,2607,LSY.CN Tokyo,Tokyo,Asia Pacific,2019-06-02T11:24:11Z,https://ix.lsy.cn/,,none,none
+NL,0,0,2608,LSY.CN Amsterdam,Amsterdam,Europe,2019-06-02T11:30:13Z,https://ix.lsy.cn/,,none,none
+CN,0,0,2609,LSY.CN Nanjing,Nanjing,Asia Pacific,2019-06-02T11:45:19Z,https://ix.lsy.cn/,,none,none
+UA,0,0,2611,KM-IX,Khmelnitskiy,Europe,2019-06-13T21:23:38Z,http://ix.km.ua/,http://ix.km.ua/traffic.html,none,none
+US,0,0,2612,SAT-IX,"San Antonio, Texas",North America,2019-06-16T01:31:37Z,https://sat-ix.net,,none,none
+ZW,0,0,2617,Harare IX,Harare,Africa,2019-06-16T21:58:47Z,http://www.hix.org.zw/,,none,none
+ID,0,0,2622,IIX-Bali,Denpasar,Asia Pacific,2019-06-26T07:45:51Z,https://www.iix.net.id/,,none,none
+TZ,0,0,2624,TIX Tanzania - Dodoma,Dodoma,Africa,2019-07-05T11:18:15Z,https://www.tix.or.tz/dixp/,,none,none
+AU,0,0,2627,Equinix Perth,Perth,Australia,2019-07-09T01:50:42Z,,,none,none
+SA,0,0,2628,JEDIX,Jeddah,Middle East,2019-07-09T12:55:08Z,https://www.jedix.net,,none,none
+BH,0,0,2631,Manama IX,Manama,Middle East,2019-07-11T14:01:53Z,https://www.mn-ix.com,https://www.mn-ix.com/stats,none,none
+ES,0,0,2633,Equinix Barcelona,Barcelona,Europe,2019-07-12T09:40:26Z,https://ix.equinix.com/home/barcelona/,https://ix.equinix.com/,none,none
+DE,0,0,2641,CCCAMP-IX,Zehdenick,Europe,2019-07-20T12:21:50Z,https://bgp.wtf/cccamp19,,none,none
