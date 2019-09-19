@@ -1,6 +1,5 @@
 # IXP_research
 
-# 2019.8.8
 1. Merged datasets IXPDB and PDB
 2. Using the prefix (subnet) to find identical IXP in PCH and the merged datasets
 3. Merge 3 datasets
