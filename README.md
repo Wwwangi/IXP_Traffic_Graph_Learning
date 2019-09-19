@@ -12,7 +12,3 @@ In mapping_all3_with_graph_url.csv:
 2. Additional columns like 3 different names in 3 datasets are also provided to check if the IDs are perfectly matched. (Most of them work, but some entries are wrong → need further manual work, i think). 
 3. Also, I find that the subnet API also provides a few information of graph urls in PCH, so I also added them to the final datasets in case that the graph url does not exist in PDB, you can check.
 4. I add the creation time both in PDB and PCH, and the latest update time both in PCH and IXPDB in case you need. You can delete them if they are not necessary.
-
-
-8.15
-1. Checked the inconsistency (labeled red in the updated version of maaping_all3_with_graph_url.csv)
