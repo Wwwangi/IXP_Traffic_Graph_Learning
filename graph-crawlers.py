@@ -3,6 +3,7 @@ import urllib.request
 import threading
 import arrow
 import re
+import json
 from bs4 import BeautifulSoup
 import base64
 from time import sleep
@@ -29,6 +30,15 @@ def get_graph(url):
         get_images.append("www.mixp.org/stats/aggregate-traffic-month.png")
         get_images.append("www.mixp.org/stats/aggregate-traffic-year.png")
         scale=[32,192,840,8760]
+    elif(targ == 2):
+        det=0
+        index='2'
+        print('Downloading from IXP: IXPN Lagos')
+        get_images.append("rt1.ixp.net.ng/mrtg/totalixpnlagos-day.png")
+        get_images.append("rt1.ixp.net.ng/mrtg/totalixpnlagos-week.png")
+        get_images.append("rt1.ixp.net.ng/mrtg/totalixpnlagos-month.png")
+        get_images.append("rt1.ixp.net.ng/mrtg/totalixpnlagos-year.png")
+        scale=[50,312,1176,13680]
     elif(targ == 3):
         index='3'
         det=0
@@ -67,6 +77,15 @@ def get_graph(url):
         print('Downloading from IXP: R_iX')
         get_images.append("www.nl-ix.net/graphs/metro/rotterdam")
         scale=[168]
+    elif(targ ==11):  #json file
+    	det=2
+    	index='11'
+    	print('Downloading from IXP: MSK-IX')
+    	get_images.append('https://www.msk-ix.ru/data/json/traffic/ix.all/daily/?0.8529540869671604')
+    	get_images.append('https://www.msk-ix.ru/data/json/traffic/ix.all/weekly/?0.7386478444598312')
+    	get_images.append('https://www.msk-ix.ru/data/json/traffic/ix.all/monthly/?0.42161254369326717')
+    	get_images.append('https://www.msk-ix.ru/data/json/traffic/ix.all/yearly/?0.5237254237342213')
+    	scale=[36,216,696,8760]
     elif(targ == 16):
         det=0
         index='16'
@@ -125,6 +144,30 @@ def get_graph(url):
         get_images.append("www.lonap.net/mrtg/lonap-total-month.png")
         get_images.append("www.lonap.net/mrtg/lonap-total-year.png")
         scale=[48,264,1176,13680]
+    elif(targ ==24):  #json file
+    	det=2
+    	index='24'
+    	print('Downloading from IXP: LINX LON1')
+    	get_images.append('https://portal.linx.net/api/throughput/lan/lon1')
+    	scale=[24]
+    elif(targ ==25):  #json file
+    	det=2
+    	index='25'
+    	print('Downloading from IXP: LINX LON2')
+    	get_images.append('https://portal.linx.net/api/throughput/lan/lon2')
+    	scale=[24]
+    elif(targ ==26):  #json file
+    	det=2
+    	index='26'
+    	print('Downloading from IXP: LINX Manchester')
+    	get_images.append('https://portal.linx.net/api/throughput/lan/man1')
+    	scale=[24]
+    elif(targ ==27):  #json file
+    	det=2
+    	index='27'
+    	print('Downloading from IXP: LINX Scotland')
+    	get_images.append('https://portal.linx.net/api/throughput/lan/sco1')
+    	scale=[24]
     elif(targ == 28):
         det=0
         index='28'
@@ -454,6 +497,12 @@ def get_graph(url):
         get_images.append("www.netnod.se/ix-stats/sums/Lulea_year_sum.png")
         get_images.append("www.netnod.se/ix-stats/sums/Lulea_twoyear_sum.png")
         scale=[24,168,720,8760,17520]
+    elif(targ ==65):  #json file
+    	det=2
+    	index='65'
+    	print('Downloading from IXP: MegaIX Sofia')
+    	get_images.append('https://api.megaport.com/v2/graph/ixAggregate?ixName=Sofia%20IX')
+    	scale=[24]
     elif(targ == 66):
         det=0
         index='66'
@@ -464,6 +513,44 @@ def get_graph(url):
         get_images.append("www.sthix.net/stats/sthix_total_month.png")
         get_images.append("www.sthix.net/stats/sthix_total_year.png")
         scale=[1,24,168,720,8760]
+    elif(targ ==67):  #json file
+    	det=2
+    	index='67'
+    	print('Downloading from IXP: Asteroid Amsterdam')
+    	get_images.append('https://sputnik.asteroidhq.com/exchange/1/1d')
+    	get_images.append('https://sputnik.asteroidhq.com/exchange/1/4w')
+    	get_images.append('https://sputnik.asteroidhq.com/exchange/1/52w')
+    	scale=[24,672,8760]
+    elif(targ ==73):  #json file
+    	det=2
+    	index='73'
+    	print('Downloading from IXP: MegaIX Melbourne')
+    	get_images.append('https://api.megaport.com/v2/graph/ixAggregate?ixName=Melbourne%20IX')
+    	scale=[24]
+    elif(targ ==74):  #json file
+    	det=2
+    	index='74'
+    	print('Downloading from IXP: MegaIX Sydney')
+    	get_images.append('https://api.megaport.com/v2/graph/ixAggregate?ixName=Sydney%20IX')
+    	scale=[24]
+    elif(targ ==75):  #json file
+    	det=2
+    	index='75'
+    	print('Downloading from IXP: MegaIX Brisbane')
+    	get_images.append('https://api.megaport.com/v2/graph/ixAggregate?ixName=Brisbane%20IX')
+    	scale=[24]
+    elif(targ ==77):  #json file
+    	det=2
+    	index='77'
+    	print('Downloading from IXP: MegaIX Perth')
+    	get_images.append('https://api.megaport.com/v2/graph/ixAggregate?ixName=Perth%20IX')
+    	scale=[24]
+    elif(targ ==78):  #json file
+    	det=2
+    	index='78'
+    	print('Downloading from IXP: MegaIX Auckland')
+    	get_images.append('https://api.megaport.com/v2/graph/ixAggregate?ixName=Auckland%20IX')
+    	scale=[24]
     elif(targ == 79):
         det=0
         index='79'
@@ -578,6 +665,12 @@ def get_graph(url):
         get_images.append("www.caix.net.eg/images/stories/graphs/graph_22_3.png")
         get_images.append("www.caix.net.eg/images/stories/graphs/graph_22_4.png")
         scale=[24,168,744,8760]
+    elif(targ ==101):  #json file
+    	det=2
+    	index='101'
+    	print('Downloading from IXP: MegaIX Singapore')
+    	get_images.append('https://api.megaport.com/v2/graph/ixAggregate?ixName=Singapore%20IX')
+    	scale=[24]
     elif(targ == 102):
         det=0
         index='102'
@@ -683,12 +776,36 @@ def get_graph(url):
         get_images.append("www.de-cix.net/traffic_DFW-1year-1170-400.png")
         get_images.append("www.de-cix.net/traffic_DFW-2years-1170-400.png")
         scale=[48,720,8760,17520]
+    elif(targ ==115):  #json file
+    	det=2
+    	index='115'
+    	print('Downloading from IXP: MegaIX Toronto')
+    	get_images.append('https://api.megaport.com/v2/graph/ixAggregate?ixName=Toronto%20IX')
+    	scale=[24]
     elif(targ == 116):
         det=0
         index='116'
         print('Downloading from IXP: ChIX')
         get_images.append("unitedix.net/stats/chicago-agg.png")
         scale=[192]
+    elif(targ ==117):  #json file
+    	det=2
+    	index='117'
+    	print('Downloading from IXP: MegaIX Seattle')
+    	get_images.append('https://api.megaport.com/v2/graph/ixAggregate?ixName=Seattle%20IX')
+    	scale=[24]
+    elif(targ ==118):  #json file
+    	det=2
+    	index='118'
+    	print('Downloading from IXP: MegaIX Los Angeles')
+    	get_images.append('https://api.megaport.com/v2/graph/ixAggregate?ixName=Los%20Angeles%20IX')
+    	scale=[24]
+    elif(targ ==119):  #json file
+    	det=2
+    	index='119'
+    	print('Downloading from IXP: MegaIX Dallas')
+    	get_images.append('https://api.megaport.com/v2/graph/ixAggregate?ixName=Dallas%20IX')
+    	scale=[24]
     elif(targ == 120):
         index='120'
         det=1
@@ -701,6 +818,12 @@ def get_graph(url):
             if(graph[i].get('border')=='0'):
                 get_images.append(graph[i].get('src').split('data:image/png;base64,')[1])
         scale=[33,192,792,8760]
+    elif(targ ==121):  #json file
+    	det=2
+    	index='121'
+    	print('Downloading from IXP: MegaIX Las Vegas')
+    	get_images.append('https://api.megaport.com/v2/graph/ixAggregate?ixName=Las%20Vegas%20IX')
+    	scale=[24]
     elif(targ == 124):
         det=0
         index='124'
@@ -1171,6 +1294,18 @@ def get_graph(url):
         print('Downloading from IXP: NAPAfrica IX Durban')
         get_images.append("ix.nap.africa/images/db1.png")
         scale=[32]
+    elif(targ ==189):  #json file
+    	det=2
+    	index='189'
+    	print('Downloading from IXP: ECIX-MUC / INXS by ecix')
+    	get_images.append('https://api.megaport.com/v2/graph/ixAggregate?ixName=Munich%20IX')
+    	scale=[24]
+    elif(targ ==190):  #json file
+    	det=2
+    	index='190'
+    	print('Downloading from IXP: ECIX-DUS')
+    	get_images.append('https://api.megaport.com/v2/graph/ixAggregate?ixName=Dusseldorf%20IX')
+    	scale=[24]
     elif(targ == 191):
         det=0
         index='191'
@@ -1213,6 +1348,18 @@ def get_graph(url):
         get_images.append("trafic.balcan-ix.net/graph_image.php?action=view&local_graph_id=497&rra_id=3&graph_height=200&graph_width=950")
         get_images.append("trafic.balcan-ix.net/graph_image.php?action=view&local_graph_id=497&rra_id=4&graph_height=200&graph_width=950")
         scale=[24,168,744,8760]
+    elif(targ ==199):  #json file
+    	det=2
+    	index='199'
+    	print('Downloading from IXP: ECIX-HAM')
+    	get_images.append('https://api.megaport.com/v2/graph/ixAggregate?ixName=Hamburg%20IX')
+    	scale=[24]
+    elif(targ ==200):  #json file
+    	det=2
+    	index='200'
+    	print('Downloading from IXP: ECIX-FRA')
+    	get_images.append('https://api.megaport.com/v2/graph/ixAggregate?ixName=Frankfurt%20IX')
+    	scale=[24]
     elif(targ == 201):
         det=0
         index='201'
@@ -1231,6 +1378,12 @@ def get_graph(url):
         get_images.append("202.59.208.18/grapher/ixp?period=month&type=png&category=bits&protocol=all&id=1%22")
         get_images.append("202.59.208.18/grapher/ixp?period=year&type=png&category=bits&protocol=all&id=1%22")
         scale=[36,192,792,8760]
+    elif(targ ==203):  #json file
+    	det=2
+    	index='203'
+    	print('Downloading from IXP: ECIX-BER')
+    	get_images.append('https://api.megaport.com/v2/graph/ixAggregate?ixName=Berlin%20IX')
+    	scale=[24]
     elif(targ == 205):
         det=0
         index='205'
@@ -1324,12 +1477,20 @@ def get_graph(url):
                 fb.write(base64.b64decode(img))
                 #print('downloading...'+str(get_images.index(img)))
                 fb.close()
+        elif det == 2:
+        	data_path = 'D:\\graphs\\' + index +'-' + str(arrow.utcnow().timestamp) + '-' + str(scale[num]) + 'H.json'
+        	num+=1
+        	response=requests.get(img)
+        	response.encoding='utf8'
+        	html=response.text
+        	html=json.loads(html)
+        	with open(data_path, 'w') as f:
+        		json.dump(html, f)
 
-
-urls = [n for n in range(1,215)]
-#urls=[3]
-#get_graph(urls[0])
-
+#urls = [n for n in range(1,215)]
+urls=[203]
+get_graph(urls[0])
+'''
 summ=0
 for url in urls:
     try:
@@ -1338,7 +1499,7 @@ for url in urls:
     except:
         print('cannot download images from: '+ str(url))
     continue
-
+'''
 '''
 threads = [threading.Thread(target=get_graph, args=(url, )) for url in urls]
 
