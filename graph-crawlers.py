@@ -4,6 +4,8 @@ import threading
 import arrow
 import re
 import json
+import random
+import time
 from bs4 import BeautifulSoup
 import base64
 from time import sleep
@@ -14,7 +16,10 @@ def load_img(url,targ):
         url = 'https://' + url
     else:
         url = 'http://' + url
-    response = requests.get(url)
+    if(targ in [88,95,100,150]):
+    	response = requests.get(url,verify=False)
+    else:
+    	response = requests.get(url)
     data = response.content
     return data
 
@@ -187,15 +192,15 @@ def get_graph(url):
         get_images.append("stats.bix.hu/graph.cgi?type=Octets&portid=aggregated&start=1545197058&end=1576819458")
         get_images.append('stats.bix.hu/graph.cgi?type=Octets&portid=aggregated&start=1481952258&end=1576819458')
         scale=[24,168,720,8760,26280]
-    elif(targ == 30):
-        det=0
-        index='30'
-        print('Downloading from IXP: NIX')
-        get_images.append("www.nix.cz/mrtg/NIX/n-all-day.png")
-        get_images.append("www.nix.cz/mrtg/NIX/n-all-week.png")
-        get_images.append("www.nix.cz/mrtg/NIX/n-all-month.png")
-        get_images.append("www.nix.cz/mrtg/NIX/n-all-year.png")
-        scale=[36,216,1008,10080]
+    #elif(targ == 30):
+        #det=0
+        #index='30'
+        #print('Downloading from IXP: NIX')
+        #get_images.append("www.nix.cz/mrtg/NIX/n-all-day.png")
+        #get_images.append("www.nix.cz/mrtg/NIX/n-all-week.png")
+        #get_images.append("www.nix.cz/mrtg/NIX/n-all-month.png")
+        #get_images.append("www.nix.cz/mrtg/NIX/n-all-year.png")
+        #scale=[36,216,1008,10080]
     elif(targ == 31):
         det=0
         index='31'
@@ -284,6 +289,7 @@ def get_graph(url):
         for i in range(len(graph)):
             get_images.append(graph[i].get('src').split('data:image/png;base64,')[1])
         scale=[33,192,840,8740]
+        browser.quit()
     elif(targ == 41):
         det=0
         index='41'
@@ -390,6 +396,7 @@ def get_graph(url):
         for i in range(len(graph)):
             get_images.append(graph[i].get('src').split('data:image/png;base64,')[1])
         scale=[32,192,672,8760]
+        browser.quit()
     elif(targ == 54):
         index='54'
         det=1
@@ -401,6 +408,7 @@ def get_graph(url):
         for i in range(len(graph)):
             get_images.append(graph[i].get('src').split('data:image/png;base64,')[1])
         scale=[32,192,672,8760]
+        browser.quit()
     elif(targ == 55):
         det=0
         index='55'
@@ -439,6 +447,7 @@ def get_graph(url):
             if(graph[i].get('alt')=='Daily graph'):
                 get_images.append(graph[i].get('src').split('data:image/jpeg;base64,')[1])
         scale=[24]
+        browser.quit()
     elif(targ == 59):
         det=0
         index='59'
@@ -459,6 +468,7 @@ def get_graph(url):
             if(graph[i].get('border')=='0'):
                 get_images.append(graph[i].get('src').split('data:image/png;base64,')[1])
         scale=[33,192,792,8760]
+        browser.quit()
     elif(targ == 61):
         det=0
         index='61'
@@ -657,7 +667,7 @@ def get_graph(url):
         get_images.append("www.mumbai-ix.net/ixp_peering-agrregate-bits-total-month.png")
         scale=[24,168,720]
     elif(targ == 99):
-        det=0
+        det=3
         index='99'
         print('Downloading from IXP: CAIX')
         get_images.append("www.caix.net.eg/images/stories/graphs/graph_22_1.png")
@@ -665,6 +675,15 @@ def get_graph(url):
         get_images.append("www.caix.net.eg/images/stories/graphs/graph_22_3.png")
         get_images.append("www.caix.net.eg/images/stories/graphs/graph_22_4.png")
         scale=[24,168,744,8760]
+    elif(targ == 100):
+        det=0
+        index='100'
+        print('Downloading from IXP: TPIX-TW')
+        get_images.append("mrtg.chief.com.tw/outputPNG.php?P=MjAxNDAxMjQwMDo6ZGF5")
+        get_images.append("mrtg.chief.com.tw/outputPNG.php?P=MjAxNDAxMjQwMDo6d2Vlaw==")
+        get_images.append("mrtg.chief.com.tw/outputPNG.php?P=MjAxNDAxMjQwMDo6bW9udGg=")
+        get_images.append("mrtg.chief.com.tw/outputPNG.php?P=MjAxNDAxMjQwMDo6eWVhcg==")
+        scale=[33,192,792,8760]
     elif(targ ==101):  #json file
     	det=2
     	index='101'
@@ -818,12 +837,20 @@ def get_graph(url):
             if(graph[i].get('border')=='0'):
                 get_images.append(graph[i].get('src').split('data:image/png;base64,')[1])
         scale=[33,192,792,8760]
+        browser.quit()
     elif(targ ==121):  #json file
     	det=2
     	index='121'
     	print('Downloading from IXP: MegaIX Las Vegas')
     	get_images.append('https://api.megaport.com/v2/graph/ixAggregate?ixName=Las%20Vegas%20IX')
     	scale=[24]
+    elif(targ == 122):
+        det=0
+        index='122'
+        print('Downloading from IXP: NAP Colombia')
+        get_images.append("www.nap.co/wp-content/uploads/2020/04/%C3%9Altima-semana.jpg")
+        get_images.append("www.nap.co/wp-content/uploads/2020/04/%C3%9Altimo-a%C3%B1o.jpg")
+        scale=[24,8760]
     elif(targ == 124):
         det=0
         index='124'
@@ -1076,6 +1103,12 @@ def get_graph(url):
         get_images.append("www.netnod.se/ix-stats/sums/Sundsvall_year_sum.png")
         get_images.append("www.netnod.se/ix-stats/sums/Sundsvall_twoyear_sum.png")
         scale=[24,168,720,8760,17520]
+    elif(targ == 150):
+        det=0
+        index='150'
+        print('Downloading from IXP: GigaNET')
+        get_images.append("customer.giganet.ua/ix-daily-en.php")
+        scale=[24]
     elif(targ == 151):
         index='151'
         det=1
@@ -1088,6 +1121,7 @@ def get_graph(url):
             if(graph[i].get('border')=='0'):
                 get_images.append(graph[i].get('src').split('data:image/png;base64,')[1])
         scale=[33,192,792,8760]
+        browser.quit()
     elif(targ == 152):
         det=0
         index='152'
@@ -1139,6 +1173,12 @@ def get_graph(url):
         get_images.append("www.netnod.se/ix-stats/sums/Copenhagen_year_sum.png")
         get_images.append("www.netnod.se/ix-stats/sums/Copenhagen_twoyear_sum.png")
         scale=[24,168,720,8760,17520]
+    elif(targ ==160):  #json file
+    	det=2
+    	index='160'
+    	print('Downloading from IXP: LINX Cardiff')
+    	get_images.append('https://portal.linx.net/api/throughput/lan/car1')
+    	scale=[24]
     elif(targ == 161):
         det=0
         index='161'
@@ -1157,15 +1197,15 @@ def get_graph(url):
         get_images.append("my.namex.it/grapher/ixp?id=1&type=png&period=month")
         get_images.append("my.namex.it/grapher/ixp?id=1&type=png&period=year")
         scale=[33,192,792,8760]
-    elif(targ == 163):
-        det=0
-        index='163'
-        print('Downloading from IXP: POZIX')
-        get_images.append("www.pozix.pl/stats_show.php?label=0")
-        get_images.append("www.pozix.pl/stats_show.php?label=1")
-        get_images.append("www.pozix.pl/stats_show.php?label=2")
-        get_images.append("www.pozix.pl/stats_show.php?label=3")
-        scale=[1,30,480,5760]
+    #elif(targ == 163):
+        #det=0
+        #index='163'
+        #print('Downloading from IXP: POZIX')
+        #get_images.append("www.pozix.pl/stats_show.php?label=0")
+        #get_images.append("www.pozix.pl/stats_show.php?label=1")
+        #get_images.append("www.pozix.pl/stats_show.php?label=2")
+        #get_images.append("www.pozix.pl/stats_show.php?label=3")
+        #scale=[1,30,480,5760]
     elif(targ == 164):
         det=0
         index='164'
@@ -1211,6 +1251,29 @@ def get_graph(url):
         get_images.append("stat.sabay.com/cnx-images/cnx-peering-m.png")
         get_images.append("stat.sabay.com/cnx-images/cnx-peering-y.png")
         scale=[24,168,744,8760]
+    elif(targ == 171):
+        index='171'
+        det=1
+        print('Downloading from IXP: MadIX')
+        browser = webdriver.Chrome()
+        browser.get('https://stats1-cssc.net.wisc.edu/cgi-bin/genstatspage.fcgi?width=950&height=200&refresh=&rrdfunc=MAX&rrdlist=ba068eb83ef300f88991a13866943870&stack=1&options_viewable=Show+Options&time=1+hour+ago&start_time=04%2F12%2F2020++5%3A52%3A41+AM+-0500&end_time=now&percentile=&lower_limit=&upper_limit=&_graphtitle=&annotate_title=&annotate_time=')
+        soup = BeautifulSoup(browser.page_source, "html.parser")
+        graph = soup.findAll('img')
+        get_images.append(graph[3].get('src').split('data:image/png;base64,')[1])
+        browser.get('https://stats1-cssc.net.wisc.edu/cgi-bin/genstatspage.fcgi?width=950&height=200&refresh=&rrdfunc=MAX&rrdlist=ba068eb83ef300f88991a13866943870&stack=1&options_viewable=Show+Options&time=1+day+ago&start_time=04%2F13%2F2020++4%3A53%3A32+AM+-0500&end_time=now&percentile=&lower_limit=&upper_limit=&_graphtitle=&annotate_title=&annotate_time=')
+        soup = BeautifulSoup(browser.page_source, "html.parser")
+        graph = soup.findAll('img')
+        get_images.append(graph[3].get('src').split('data:image/png;base64,')[1])
+        browser.get('https://stats1-cssc.net.wisc.edu/cgi-bin/genstatspage.fcgi?width=950&height=200&refresh=&rrdfunc=MAX&rrdlist=ba068eb83ef300f88991a13866943870&stack=1&options_viewable=Show+Options&time=1+week+ago&start_time=04%2F12%2F2020++6%3A03%3A44+AM+-0500&end_time=now&percentile=&lower_limit=&upper_limit=&_graphtitle=&annotate_title=&annotate_time=')
+        soup = BeautifulSoup(browser.page_source, "html.parser")
+        graph = soup.findAll('img')
+        get_images.append(graph[3].get('src').split('data:image/png;base64,')[1])
+        browser.get('https://stats1-cssc.net.wisc.edu/cgi-bin/genstatspage.fcgi?width=950&height=200&refresh=&rrdfunc=MAX&rrdlist=ba068eb83ef300f88991a13866943870&stack=1&options_viewable=Show+Options&time=1+month+ago&start_time=04%2F06%2F2020++6%3A04%3A39+AM+-0500&end_time=now&percentile=&lower_limit=&upper_limit=&_graphtitle=&annotate_title=&annotate_time=')
+        soup = BeautifulSoup(browser.page_source, "html.parser")
+        graph = soup.findAll('img')
+        get_images.append(graph[3].get('src').split('data:image/png;base64,')[1])
+        scale=[1,24,168,744]
+        browser.quit()
     elif(targ == 172):
         det=0
         index='172'
@@ -1239,15 +1302,15 @@ def get_graph(url):
         get_images.append("old.ix.br/stats/118877865e4a9d47afd2b48ab4d9c446/nat/images/pix/agregado_bps-yearly.png")
         get_images.append("old.ix.br/stats/7d4b0a727dcc5254905919ad8497bb1c/nat/images/pix/agregado_bps-decadely2.png")
         scale=[32,192,864,8760,43800]
-    elif(targ == 176):
-        det=0
-        index='176'
-        print('Downloading from IXP: NIX.SK')
-        get_images.append("www.nix.sk/mrtg/NIX/n-all-day.png")
-        get_images.append("www.nix.sk/mrtg/NIX/n-all-week.png")
-        get_images.append("www.nix.sk/mrtg/NIX/n-all-month.png")
-        get_images.append("www.nix.sk/mrtg/NIX/n-all-year.png")
-        scale=[38,216,912,10800]
+    #elif(targ == 176):
+        #det=0
+        #index='176'
+        #print('Downloading from IXP: NIX.SK')
+        #get_images.append("www.nix.sk/mrtg/NIX/n-all-day.png")
+        #get_images.append("www.nix.sk/mrtg/NIX/n-all-week.png")
+        #get_images.append("www.nix.sk/mrtg/NIX/n-all-month.png")
+        #get_images.append("www.nix.sk/mrtg/NIX/n-all-year.png")
+        #scale=[38,216,912,10800]
     elif(targ == 177):
         det=0
         index='177'
@@ -1276,6 +1339,16 @@ def get_graph(url):
         print('Downloading from IXP: MidWest-IX - Indy')
         get_images.append("www.fd-ix.com/wp-content/uploads/2019/07/fiberIcon.png")
         scale=[32]
+    elif(targ == 185):
+        det=0
+        index='185'
+        print('Downloading from IXP: GIXA')
+        get_images.append("stats.gixa.org.gh/graph_image.php?local_graph_id=509&rra_id=5")
+        get_images.append("stats.gixa.org.gh/graph_image.php?local_graph_id=509&rra_id=1")
+        get_images.append("stats.gixa.org.gh/graph_image.php?local_graph_id=509&rra_id=2")
+        get_images.append("stats.gixa.org.gh/graph_image.php?local_graph_id=509&rra_id=3")
+        get_images.append("stats.gixa.org.gh/graph_image.php?local_graph_id=509&rra_id=4")
+        scale=[1,24,168,744,8760]
     elif(targ == 186):
         det=0
         index='186'
@@ -1306,12 +1379,12 @@ def get_graph(url):
     	print('Downloading from IXP: ECIX-DUS')
     	get_images.append('https://api.megaport.com/v2/graph/ixAggregate?ixName=Dusseldorf%20IX')
     	scale=[24]
-    elif(targ == 191):
-        det=0
-        index='191'
-        print('Downloading from IXP: CATNIX')
-        get_images.append("stats.catnix.net/graph_image.php?action=view&local_graph_id=6973&rra_id=1")
-        scale=[24]
+    #elif(targ == 191):
+        #det=0
+        #index='191'
+        #print('Downloading from IXP: CATNIX')
+        #get_images.append("stats.catnix.net/graph_image.php?action=view&local_graph_id=6973&rra_id=1")
+        #scale=[24]
     elif(targ == 192):
         det=0
         index='192'
@@ -1384,6 +1457,12 @@ def get_graph(url):
     	print('Downloading from IXP: ECIX-BER')
     	get_images.append('https://api.megaport.com/v2/graph/ixAggregate?ixName=Berlin%20IX')
     	scale=[24]
+    elif(targ ==204):  #json file
+    	det=2
+    	index='204'
+    	print('Downloading from IXP: LINX NoVA')
+    	get_images.append('https://portal.linx.net/api/throughput/lan/nva1')
+    	scale=[24]
     elif(targ == 205):
         det=0
         index='205'
@@ -1402,6 +1481,7 @@ def get_graph(url):
             if(graph[i].get('border')=='0'):
                 get_images.append(graph[i].get('src').split('data:image/png;base64,')[1])
         scale=[30,192,816,8760]
+        browser.quit()
     elif(targ == 207):
         det=0
         index='207'
@@ -1434,13 +1514,13 @@ def get_graph(url):
         print('Downloading from IXP: SOLIX')
         get_images.append("cacti.lidnet.net/graph_image.php?action=view&local_graph_id=4102&rra_id=2&graph_width=400&graph_height=120")
         scale=[168]
-    elif(targ == 211):
-        det=0
-        index='211'
-        print('Downloading from IXP: APE')
-        get_images.append("ape.nzix.net/ape2.png")
-        get_images.append("ape.nzix.net/ape7.png")
-        scale=[48,168]
+    #elif(targ == 211):
+        #det=0
+        #index='211'
+        #print('Downloading from IXP: APE')
+        #get_images.append("ape.nzix.net/ape2.png")
+        #get_images.append("ape.nzix.net/ape7.png")
+        #scale=[48,168]
     elif(targ == 213):
         det=0
         index='213'
@@ -1464,21 +1544,21 @@ def get_graph(url):
     for img in get_images:
         if det == 0:
             image = load_img(img,targ)
-            data_path = 'D:\\graphs\\' + index +'-' + str(arrow.utcnow().timestamp) + '-' + str(scale[num]) + 'H.png'
+            data_path = 'D:\\graphs\\test_image2\\' + index +'-' + str(arrow.utcnow().timestamp) + '-' + str(scale[num]) + 'H.png'
             num+=1
             with open(data_path, 'wb') as fb:
                 fb.write(image)
                 #print('downloading...'+str(get_images.index(img)))
                 fb.close()
         elif det == 1:
-            data_path = 'D:\\graphs\\' + index +'-' + str(arrow.utcnow().timestamp) + '-' + str(scale[num]) + 'H.png'
+            data_path = 'D:\\graphs\\test_image2\\' + index +'-' + str(arrow.utcnow().timestamp) + '-' + str(scale[num]) + 'H.png'
             num+=1
             with open(data_path, 'wb') as fb:
                 fb.write(base64.b64decode(img))
                 #print('downloading...'+str(get_images.index(img)))
                 fb.close()
         elif det == 2:
-        	data_path = 'D:\\graphs\\' + index +'-' + str(arrow.utcnow().timestamp) + '-' + str(scale[num]) + 'H.json'
+        	data_path = 'D:\\graphs\\test_json2\\' + index +'-' + str(arrow.utcnow().timestamp) + '-' + str(scale[num]) + 'H.json'
         	num+=1
         	response=requests.get(img)
         	response.encoding='utf8'
@@ -1487,24 +1567,26 @@ def get_graph(url):
         	with open(data_path, 'w') as f:
         		json.dump(html, f)
 
-#urls = [n for n in range(1,215)]
-urls=[203]
-get_graph(urls[0])
-'''
-summ=0
-for url in urls:
-    try:
-        get_graph(url)
-        summ+=1
-    except:
-        print('cannot download images from: '+ str(url))
-    continue
-'''
-'''
-threads = [threading.Thread(target=get_graph, args=(url, )) for url in urls]
+#originally fine, but now inaccessible
+#urls=[30,163,211,176,191]
 
-for t in threads:
-    t.start()  
-for t in threads:
-    t.join()
-'''
+
+#get_graph(urls[4])
+urls = [n for n in range(1,215)]
+
+def onetime(urls):
+	for url in urls:
+		try:
+			get_graph(url)
+		except:
+			print('cannot download images from: '+ str(url))
+		continue
+
+while True:
+	t=threading.Thread(target=onetime,args=[urls,])
+	t.start()
+	time.sleep(300)
+
+
+
+
